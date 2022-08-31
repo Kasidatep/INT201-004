@@ -44,6 +44,7 @@ let undefinedObj
 console.log(typeof undefinedObj)  // undefined
 console.log(undefinedObj)         // undefined
 
+
 // Check dataType
 // String
 let cString = 'a'
