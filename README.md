@@ -20,3 +20,7 @@
      - [Math.random : Func](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
      - [substring() : Method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
    - Primitive-Object.js
+
+# WEEK 5
+ > UNIT 3
+  - Array.js
