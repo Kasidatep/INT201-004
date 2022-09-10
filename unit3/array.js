@@ -1,5 +1,8 @@
 let nums = [1,2,3,4,5]
 
+// for of use in array >> loop print data in array
+// For in use in object >> can print name of variable 
+
 for (const num of nums){
     console.log(`----> ${num}`)
 }
