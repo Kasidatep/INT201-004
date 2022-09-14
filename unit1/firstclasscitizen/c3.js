@@ -13,13 +13,13 @@ function doSomething(){
 let message = "Hello"
 let doIt = doSomething()  // assign function
 
-console.log(doIt("Hi"))
+console.log(doIt("Hi!!"))
 
 console.log(doSomething()(message))
 
+// doIt มีค่าเป็น doSomething()
 
-
-function doSomething("Hi"){
+function doSomething(message){
     return function saySomething(say){
             return say
             }

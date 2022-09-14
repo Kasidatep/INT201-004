@@ -26,9 +26,8 @@ console.log(typeof sum2)
 console.log(sum2)
 // console.log(sum2(10, 20))
 
-/*
+
 console.log(add(10,20))
 console.log(remove(10,20))
 console.log(multiply(10,20))
 console.log(devide(10,20))
-*/
