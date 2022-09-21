@@ -94,3 +94,9 @@ for (let [index, letter] of letters.entries()){
     msg2   += `[`+ index+`:` +letter +`], `
 }
 console.log(msg2)
+
+//let nums = [1,2,3,4,5]
+console.log(nums)
+num2 = nums.reverse()
+console.log(num2)
+console.log(nums.reverse())
