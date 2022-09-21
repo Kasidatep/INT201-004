@@ -5,7 +5,7 @@
 # Module 1
 ### WEEK 2
   - FirstClassCitizen
-  - Sync - Async
+  - Sync-Async.js
   - Datatype.js
 
 ### WEEK 3
@@ -23,6 +23,9 @@
 
 ### WEEK 6 Quiz Module 1
 
+### WEEK 7
+  - Basic-Function.js (Module 1)
+  - EXAM KasP_countCovidStatus Version 2 (Module 1)
+  - EXAM countCovidStatus_solution (Module 1)
 ---------
 # Module 2
-### WEEK 7
