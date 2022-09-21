@@ -24,8 +24,9 @@
 ### WEEK 6 Quiz Module 1
 
 ### WEEK 7
-  - Basic-Function.js (Module 1)
-  - EXAM KasP_countCovidStatus Version 2 (Module 1)
-  - EXAM countCovidStatus_solution (Module 1)
+  - Basic-Function.js
+  - EXAM KasP_countCovidStatus Version 2
+  - EXAM countCovidStatus_solution 
+  - Assignment ImageFileExtension and solution
 ---------
 # Module 2
