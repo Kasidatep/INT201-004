@@ -1,11 +1,7 @@
-let i = 0
-while(i < 10){
-    console.log(i)
-    i++
+let a = 1000
+function countDigit(num){
+    let c = num.length
+    return c
 }
-console.log(`----------------`)
-let j = 0
-do{
-    console.log(j)
-    j++
-}while(j < 10)
+
+console.log(countDigit(a))
