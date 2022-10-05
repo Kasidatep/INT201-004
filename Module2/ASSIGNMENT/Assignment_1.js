@@ -17,7 +17,7 @@ class Person{
         return age
     }
     isEqual(anotherPerson){
-        return this.fristName.toLocaleUpperCase() ===  anotherPerson.fristName.toUpperCase() &&
+        return this.fristName.toUpperCase() ===  anotherPerson.fristName.toUpperCase() &&
         this.lastName.toUpperCase() === anotherPerson.lastName.toUpperCase()
     }
     toString(){
