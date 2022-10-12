@@ -40,3 +40,14 @@
   - working-function.js
 
 ### WEEK 9
+  - working-function.js
+    - function declaration
+    - arrow function
+    - anonymous function
+    - function scope 
+    - nested function
+    - independence functions
+    - closer
+    - object destructuring
+    - argument
+    - rest/spread parameter

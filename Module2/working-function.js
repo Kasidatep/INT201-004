@@ -171,13 +171,13 @@ console.log(`#2 sum: ${sum()}`) // Returns 15
 function getScore() {
     let mid = 10
     let final = 30
-//yourScore is nested function
-function yourScore() {
-    return firstname + ' scored ' + (mid + final)
+    //yourScore is nested function
+    function yourScore() {
+        return firstname + ' scored ' + (mid + final)
+    }
+    return yourScore
 }
-return yourScore
-}
-const scoreFn=getScore()
+const scoreFn = getScore()
 console.log(scoreFn())
 
 
@@ -196,30 +196,30 @@ console.log(scoreFn())
     console.log(inFn('somewhere'))
 
     //nested function
-    function average(nums){
-        function sum(){
-            let total=0       
-             for (const num of nums){
-                total+=num        
+    function average(nums) {
+        function sum() {
+            let total = 0
+            for (const num of nums) {
+                total += num
             }
-            return total    
+            return total
         }
-        return sum()/nums.length
+        return sum() / nums.length
     }
-    console.log(average([1,2,3,4,5]))
+    console.log(average([1, 2, 3, 4, 5]))
 
     //independence functions
-    function sum2(nums){
-        let total=0    
-        for (const num of nums){
-            total+=num    
+    function sum2(nums) {
+        let total = 0
+        for (const num of nums) {
+            total += num
         }
         return total
     }
-    function average2(nums){
-        return sum2(nums)/nums.length
+    function average2(nums) {
+        return sum2(nums) / nums.length
     }
-    console.log(average2([1,2,3,4,5]))
+    console.log(average2([1, 2, 3, 4, 5]))
 }
 
 
@@ -246,13 +246,13 @@ console.log(scoreFn())
             getCount
         }
     }
- //object destructuring
+    //object destructuring
     const { increment, decrement, getCount } = counter()
     increment()
     increment()
     console.log(getCount())
     const c = counter()
-// c={increment:increment, decrement:decrement, getCount:getCount}
+    // c={increment:increment, decrement:decrement, getCount:getCount}
     c.increment()
     c.increment()
     c.increment()
@@ -262,80 +262,82 @@ console.log(scoreFn())
 
 // argument
 {
-    function doSomething(a,b,c,d){
-        console.log(a)    
-        console.log(b)    
-        console.log(c)    
-        console.log(d)    
-        for(const a of arguments){
+    function doSomething(a, b, c, d) {
+        console.log(a)
+        console.log(b)
+        console.log(c)
+        console.log(d)
+        for (const a of arguments) {
             console.log(a)
         }
-        arguments[0]=1000    
+        arguments[0] = 1000
         console.log(a)
         console.log(arguments.length)
     }
-    doSomething(10,20,300)
+    doSomething(10, 20, 300)
 }
 
-//rest parameter
+//rest parameter การแยกกันของอาเรย์
 {
-    function doSomething(x,...other){
+    function doSomething(x, ...other) {
         console.log(x)
         console.log(other)
     }
 
-    doSomething('Hi',`Hello`,`Sawatdee`,`Hey`)
+    doSomething('Hi', `Hello`, `Sawatdee`, `Hey`)
 }
 
-//spread parameter
+//spread parameter การรวมกันของอาร์เรย์
 {
-    function sum(num1,num2,num3=0){
+    function sum(num1, num2, num3 = 0) {
         console.log(num1)
         console.log(num2)
         console.log(num3)
-        return num1+num2+num3
+        return num1 + num2 + num3
     }
 
-    let nums= [5, 20, 15]
-    let num2= [2,20]
-    //spread parameter
+    let nums = [5, 20, 15]
+    let num2 = [2, 20]
+    //spread parameter การรวมกัน
     console.log(sum(...nums)) //40
-    console.log(sum(...num2)) //22
+    console.log(sum(...num2, ...nums)) //27
 }
 
 {
     function arrayAdd1([x1], [y1]) {
-        return x1+y1
+        return x1 + y1
     }
     const a = [5, 8]
     const b = [2, 7]
     console.log(arrayAdd1(a, b)) // 7
 
-    functionarrayAdd2([x1, y1], [x2, y2]) {
-        returnx1 + x2 + y1 + y2
-    }console.log(arrayAdd2([1, 2], [3, 4])) // 10
+    function arrayAdd2([x1, y1], [x2, y2]) {
+        return x1 + x2 + y1 + y2
+    } console.log(arrayAdd2([1, 2], [3, 4])) // 10
 
 
-    functionarrayAdd3([x1, y1], [x2, y2]) {
-        return[x1 + x2, y1 + y2]
+    function arrayAdd3([x1, y1], [x2, y2]) {
+        return [x1 + x2, y1 + y2]
     }
     const x = [1, 2]
     const y = [3, 4]
     console.log(arrayAdd3(x, y)) // [4,6 ]
 
-    function studentId({ studentId}) {
+    const students = { studentId: 64001, displayName: 'jsGuy', fullName: { firstName: 'Somchai', lastName: 'DeeJai' } }
+
+    function studentId({ studentId }) {
         return studentId
-    }console.log(studentId(students)) //64001
+    }
 
-    const students = {studentId: 64001,displayName: 'jsGuy',fullName: {firstName: 'Somchai',lastName: 'DeeJai'}}
+    console.log(studentId(students)) //64001
 
-    function getFirstName({ displayName, fullName: { firstName} }) {
+    function getFirstName({ displayName, fullName: { firstName } }) {
         return `${displayName} is ${firstName}`
     }
     console.log(getFirstName(students)) //jsGuyis Somchai
 
-    const person = [{ id: 1, name: 'Suda' },{ id: 2, name: 'Surapong' },{ id: 3, name: 'Somchai' }]
+    const person = [{ id: 1, name: 'Suda' }, { id: 2, name: 'Surapong' }, { id: 3, name: 'Somchai' }]
     console.log(getPersonName(person))
 
-    function getPersonName([, { name }]) {return name}
+    function getPersonName([, { name }]) { return name }
 }
