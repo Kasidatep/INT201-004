@@ -21,12 +21,22 @@
 ### WEEK 5
   - Array.js
 
-### WEEK 6 Quiz Module 1
+### Quiz Module 1
 
-### WEEK 7
+### WEEK 6
   - Basic-Function.js
   - EXAM KasP_countCovidStatus Version 2
   - EXAM countCovidStatus_solution 
   - Assignment ImageFileExtension and solution
 ---------
 # Module 2
+
+### WEEK 7
+  - Object.js
+  - compareObject.js
+
+### WEEK 8
+  - compareObject.js `continous`
+  - working-function.js
+
+### WEEK 9
