@@ -8,32 +8,35 @@ class Person{
         return `${this.lastName}, ${this.fristName}`
     }
     getAges(){
-        const now = new Date(Date.now())
-        let age = now.getFullYear() - this.dateOfBirth.getFullYear()
-        let checkMonth = now.getMonth() - this.dateOfBirth.getMonth() 
-        if (checkMonth < 0 || (checkMonth === 0 && now.getDate() < this.dateOfBirth.getDate())) {
-            age--
-            }
-        return age
+        const diff_ms = Date.now()-this.dateOfBirth.getTime()
+        const diff_date = new Date(diff_ms)
+        return diff_date.getFullYear()-1970
     }
-    isEqual(anotherPerson){
-        return this.fristName.toUpperCase() ===  anotherPerson.fristName.toUpperCase() &&
-        this.lastName.toUpperCase() === anotherPerson.lastName.toUpperCase()
-    }
-    toString(){
-        return `Name= \'${this.getFullName()}\', Age= ${this.getAges()}`
-    }
+}
+
+// function compare(anotherPerson){
+//     return this?.fristName?.toLowerCase() ===  anotherPerson?.fristName?.toLowerCase() &&
+//     this?.lastName?.toLowerCase() === anotherPerson?.lastName?.toLowerCase()
+// }
+
+Person.prototype.isEqual=function(anotherPerson){
+    return this?.fristName?.toLowerCase() ===  anotherPerson?.fristName?.toLowerCase() &&
+    this?.lastName?.toLowerCase() === anotherPerson?.lastName?.toLowerCase()
+}
+
+Person.prototype.toString=function(){
+    return `name : '${this.getFullName()}', ages : ${this.getAges()}`
 }
 
 let p1 = new Person(`Kasidate`,`Phlaiphueak`,new Date(`2002-04-19`))
 let p2 = new Person(`Mark Zuckerberg`,undefined,new Date(`1984-05-14`))
 let p3 = new Person(`Barbara`,`Mandrell`,new Date(`1949-12-25`))
 let p4 = new Person(`MARK Zuckerberg`,`N/A`)
-let p5 = new Person(undefined,`Lastname`,undefined)
+let p5 = new Person(...[,],`Lastname`,undefined)
 console.log(p1.getFullName())
 console.log(p2.getFullName())
 console.log(p3.getFullName())
-console.log(p5.toString())
+console.log(`P5 --> ` + p5.toString())
 console.log(p1.getAges())
 console.log(p2.getAges())
 console.log(p3.getAges())
@@ -44,3 +47,4 @@ console.log(p1.toString())
 console.log(p2.toString())
 console.log(p3.toString())
 console.log(typeof Person)
+console.log(Person.prototype)

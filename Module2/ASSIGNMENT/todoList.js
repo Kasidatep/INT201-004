@@ -15,7 +15,7 @@ function todos(){
     let todos=[]
     let todoId=1
     function addTodo(desc){
-        const todo = new Todo(todoId++,desc)
+       const todo = new Todo(todoId++,desc)
         todos.push(todo)
     }
     function removeTodo(removeId){
@@ -52,3 +52,11 @@ console.log(myTodo.findTodo(3))
 console.log(myTodo.findTodo(5).getTodo())
 console.log(myTodo.findTodo(5).setDescription(`Done Statistic homeword 4`))
 console.log(myTodo.findTodo(5))
+console.log(`----------------------`)
+const anothorTodo = todos()
+anothorTodo.addTodo(`create persentation in canva`)
+console.log(anothorTodo.getTodos())
+anothorTodo.addTodo(`shoping Malk in shopee`)
+console.log(anothorTodo.findTodo(2))
+anothorTodo.removeTodo(1)
+console.log(anothorTodo.getTodos())
