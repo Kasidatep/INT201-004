@@ -1,4 +1,5 @@
 class Todo{
+
     constructor(id,description){
         this.id=id
         this.description=description
@@ -49,8 +50,8 @@ myTodo.addTodo(`eng task`)
 console.log(myTodo.getTodos())
 console.log(myTodo.findTodo(5))
 console.log(myTodo.findTodo(3))
-console.log(myTodo.findTodo(5).getTodo())
-console.log(myTodo.findTodo(5).setDescription(`Done Statistic homeword 4`))
+console.log(myTodo.findTodo(5))
+console.log(myTodo.findTodo(5).setDescription("88"))
 console.log(myTodo.findTodo(5))
 console.log(`----------------------`)
 const anothorTodo = todos()
