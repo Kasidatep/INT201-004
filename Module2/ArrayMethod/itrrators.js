@@ -61,7 +61,7 @@ console.log(numfilter)  // [ 2, 3, 5, 7, 11, 13 ]
 
 //filter()
 // visit each element in array and check filter in callbackFn
-// return ```new array``` had filter
+// return ```new array``` had filter it true in filterFn
 const negativeInteger = num.filter(num => num < 0)
 console.log(num)              // -3,-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15 original
 console.log(negativeInteger)  // [ -3, -2, -1 ]                              filter
@@ -78,7 +78,7 @@ console.log(mapProducts)                                            //[('bag', '
 //find() 
 //returns the first element in the provided array. If no values ==>> undefined
 console.log(Array.prototype.find)
-console.log(products.find(product => product.name === `pen`))                       // { id: 2, name: 'pen' }
+console.log(products.find(product => product.name === `pen`))                         // { id: 2, name: 'pen' }
 console.log(products.find(product => product.name.startsWith(`B`)))                   // { id: 33, name: 'BAG' }
 console.log(products.find(product => product.name.toUpperCase().startsWith(`B`)))     // { id: 123, name: 'bag' }
 

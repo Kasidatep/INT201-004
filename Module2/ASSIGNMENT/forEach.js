@@ -3,8 +3,7 @@ const employee = ['Buddy Everett',
     'Sinead Stephenson',
     'Jaime Duggan',
     'Leyla Hensley',
-    'Macy Devlin',
-    'Sabrina Garrett'
+    'Macy Devlin'
 ]
 console.log(`========== forEach() ==========`)
 
@@ -25,12 +24,19 @@ employee.forEach((element,index,array) => {
     console.log(`> ${element} is on the Index No. ${index} in [${array}]`)
 });
 
-const numeral = [1,2,3,4,undefined,6,7,8,...[,,,],12]
+const helloWorld = `HelloWorld`
+let helloWorldASCII = []
+console.log(helloWorld)
 console.log(`print element in array with for loop`)
-for (let index = 0; index < numeral.length; index++) {
-    console.log(numeral[index])
+for (let index = 0; index < helloWorld.length; index++) {
+    console.log(helloWorld[index]+" is "+ helloWorld[index].charCodeAt(0)+" in ASCII Code")
+    helloWorldASCII.push(helloWorld[index].charCodeAt(0))
 }
-console.log(`print element in array with forEach()`)
-numeral.forEach(element => console.log(element));
 
+console.log(`helloWorld to ASCII : ${helloWorldASCII}`)
+
+console.log(`print element in array with forEach()`)
+helloWorldASCII.forEach(element => {
+    console.log(`Code=${element} is ${String.fromCharCode(element)}`)
+})
 console.log(Array.prototype.forEach)

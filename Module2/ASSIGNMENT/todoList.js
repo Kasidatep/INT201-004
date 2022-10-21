@@ -1,37 +1,37 @@
-class Todo{
-
-    constructor(id,description){
-        this.id=id
-        this.description=description
+class Todo {
+    static currentId = 1
+    constructor(description) {
+        this.id = Todo.currentId++
+        this.description = description
     }
-    getTodo(){
-        return {id:this.id, description:this.description}
+    getTodo() {
+        return { id: this.id, description: this.description }
     }
-    setDescription(newDescription){
-        this.description=newDescription
+    setDescription(newDescription) {
+        this.description = newDescription
     }
 }
 
-function todos(){
-    let todos=[]
-    let todoId=1
-    function addTodo(desc){
-       const todo = new Todo(todoId++,desc)
+function todos() {
+    let todos = []
+    function addTodo(desc) {
+        // todos.push(new Todo(desc))
+        const todo = new Todo(desc)
         todos.push(todo)
     }
-    function removeTodo(removeId){
-        const newTodos=todos.filter(todo => todo.id!==removeId)
-        todos=newTodos
+    function removeTodo(removeId) {
+        // todos = todos.filter(todo=>todo.id!==removeId)
+        const newTodos = todos.filter(todo => todo.id !== removeId)
+        todos = newTodos
     }
-    function findTodo(searchId){
-        return todos.find(todo=>todo.id===searchId)
+    function findTodo(searchId) {
+        return todos.find(todo => todo.id === searchId)
     }
-    function getTodos(){
+    function getTodos() {
         return todos
     }
-
     return {
-        addTodo,removeTodo,findTodo,getTodos
+        addTodo, removeTodo, findTodo, getTodos
     }
 }
 
@@ -49,15 +49,14 @@ console.log(myTodo.getTodos())
 myTodo.addTodo(`eng task`)
 console.log(myTodo.getTodos())
 console.log(myTodo.findTodo(5))
-console.log(myTodo.findTodo(3))
-console.log(myTodo.findTodo(5))
-console.log(myTodo.findTodo(5).setDescription("88"))
+console.log("Removed : "+myTodo.findTodo(3))
+myTodo.findTodo(5).setDescription("new descriotion")
 console.log(myTodo.findTodo(5))
 console.log(`----------------------`)
 const anothorTodo = todos()
 anothorTodo.addTodo(`create persentation in canva`)
-console.log(anothorTodo.getTodos())
 anothorTodo.addTodo(`shoping Malk in shopee`)
-console.log(anothorTodo.findTodo(2))
-anothorTodo.removeTodo(1)
+console.log(anothorTodo.getTodos())
+console.log(anothorTodo.findTodo(9))
+anothorTodo.removeTodo(9)
 console.log(anothorTodo.getTodos())

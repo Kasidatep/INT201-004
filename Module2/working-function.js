@@ -226,7 +226,7 @@ console.log(scoreFn())
 // closer
 // feature 1. closer is nested function
 //         2. outer function return closer function 
-//         3. 
+//         3. variable in closer all function in closer can use ; outer cannot use
 {
     function counter() {
         //free variable    
