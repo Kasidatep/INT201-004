@@ -51,3 +51,8 @@
     - object destructuring
     - argument
     - rest/spread parameter
+
+### WEEK 10
+    - ArrayMethod
+
+### Quiz Module 2
