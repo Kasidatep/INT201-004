@@ -61,3 +61,4 @@ console.log("SORT DESC : "+numarray);
 numarray.reverse()
 console.log(numarray);
 //output: Array [1, 4, 21, 30, 100000]
+

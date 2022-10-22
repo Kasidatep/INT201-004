@@ -1,3 +1,33 @@
+// whis is arguments == all parameter in function arguments is array collect parameter 
+// ex.. function(2,5,7,4){} arguments[0] = 2 \ arguments[1] = 5 \ arguments[2] = 7 \ arguments[3] = 4
+// and can update argument ex.. arguments[1] = 555 parameterindex1 is change after this line to 555
+
+// default parameter == [function person (name="N/A",ages=12)] when not send parameter function use default parameter
+// function person (name="N/A",ages=12){}
+// person("Somchai")    ==> ("somchai",12) ex ..// meaning 
+// person(undefined,50) ==> ("N/A",50)
+// person()             ==>  ("N/A",12)
+
+// rest ==> ยุบหลาย ๆ ข้อมูล เป็น 1 array
+// spread ==> แยก 1 array เป็นหลาย ๆ ข้อมูล
+// ex..                                skip 2 element
+// rest [1,2,3,4,5,6,7,8] => rest => [,,...restNum] => restNam = [3,4,5,6,7,8,]
+// spread [9,8,7] => [1,2,3,...spread] => [1,2,3,9,8,7]
+
+// note left rest         =_=          right spread   ex.. spread = [1,2,3]
+// [a,b...rest] = [1,2,3,4,5,6]   |    all = [4,5,6,..spread] | mean_ex. all = [4,5,6,1,2,3]
+// mean rest = [3,4,5,6]
+
+// test line rest/spread -- 23
+// destructoring ---------- 112/130
+
+//test rest/spread
+const [,,...doRest] = [1,2,3,4,5,6,7,8]
+console.log(doRest) // [3,4,5,6,7,8,]
+const inSpread = [1,2,3]
+const doSpread = [7,8,9,...inSpread] 
+console.log(doSpread) //[7,8,9,1,2,3]
+
 //arguments object
 function printNumbers1(num1, num2, num3) {
     console.log(`argument length: ${arguments.length}`)
@@ -78,13 +108,17 @@ function printNumbers1(num1, num2, num3) {
       firstName: 'Somchai',
       lastName: 'DeeJai'
     }
-  }
+  }  
   
-  function studentId({ studentId }) {
+  //Destructuring testing  
+  const {studentId:id, fullName:{firstName:fname, lastName}, displayName:name, fullName:full} = students
+  console.log(`---->> ${id} ${fname} ${lastName} [${name}]`)
+  console.log(full)
+
+  function StudentId({ studentId }) {
     return studentId
   }
-  
-  console.log(studentId(students)) //64001
+  console.log(StudentId(students)) //64001
   
   function getFirstName({ displayName, fullName: { firstName } }) {
     return `${displayName} is ${firstName}`
@@ -103,3 +137,23 @@ function printNumbers1(num1, num2, num3) {
     { id: 3, name: 'Somchai' }
   ]
   console.log(getPersonName(person)) // Sompong
+
+  //test Desructering
+  const [,,{id:code, name:displayName}] = person
+  console.log(`-->> ${code} ${displayName}`)
+
+  
+  const log = {
+    title: 'client',
+    detail: [
+      {
+        locale: 'th',
+        lastEdit: '2022-08-14T09:40:22',
+        title: 'history'
+      }
+    ],
+    url: '/history/docs/js'
+  }
+
+  const {title, detail:[{locale,title:d_title}],url:linkLog} = log
+  console.log(`LOG ${title} ==> ${locale}, ${d_title} more: '${linkLog}'`)

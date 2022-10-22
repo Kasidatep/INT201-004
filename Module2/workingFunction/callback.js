@@ -1,3 +1,12 @@
+//callbackFn  ==> ex.. words.filter((word) => word.length > 6)
+// 1. arrow callbackFn   ==> words.filter( word => w.startsWith("e"))
+// 2. passing callbackFn ==> words.filter(wordstartsWithe)
+//      function wordstartsWithe(word){
+//          return word.startsWith("e")
+//      }
+// 3. inline callbackFn  ==> words.filter(function(word){return word.startsWith("e")})
+
+
 //1. Arrow function passing to filter function
 const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present']
 const result = words.filter((word) => word.length > 6)
@@ -25,3 +34,12 @@ console.log(
         return num > 1
     })
 )
+
+// testing  
+
+function wordstartsWithe(word){
+    return word.startsWith("e")
+  }
+const collectWord = words.filter(wordstartsWithe)
+ 
+console.log(collectWord)

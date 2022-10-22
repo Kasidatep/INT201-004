@@ -1,5 +1,4 @@
 // 1. USING OBJECT LITERAL TO CREATE OBJECT
-
 let profile = {
     id: 123,
     interests: [ 'music', 'skiing']

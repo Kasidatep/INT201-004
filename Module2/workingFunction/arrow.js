@@ -1,4 +1,14 @@
-//1. Function declaration
+//Note:: function
+// function declaration ==>  ประกาศฟังก์ชั่นปกติ มี keyword ฟังก์ชัน
+// function expresstion ==> ประกาศฟังก์ชันไว้ในตัวแปร
+// arrow fuction ==> ใช้เครื่องหมาย => 
+// arrow function one parameter not () ex.. num => {} // two or more much have () ex.. (num1,num2,num3) => {}
+// -------------- one line oparation sane line as parameter can remove {} and return // two or more much have { **********
+//                                                                                                             return ****
+//                                                                                                             }
+// testing 51
+
+//1. Function declaration 
 function doubleNum1(num) {
     return num + num
   }
@@ -37,3 +47,8 @@ function doubleNum1(num) {
     return x + y / 2
   }
   console.log(average(5, 3))
+  
+
+  //testing 
+  const multi2 = num => num*num
+  console.log(multi2(2))
