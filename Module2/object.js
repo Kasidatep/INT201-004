@@ -16,7 +16,7 @@ let book = {
     }
  }
 book.author.firstname = `Kasidate`
-book.author[`lastname`] = `Phlaiphueak`
+book[`author`][`lastname`] = `Phlaiphueak`
 console.log(book)
 
 // Default function parameters
@@ -26,6 +26,8 @@ function multiply(a, b = 1) {
   console.log(multiply(5, 2))  // expected output: 10
   console.log(multiply(5))     // expected output: 5
   console.log(multiply(5,undefined))  // expected output: 5
+  console.log(multiply(5,null))  // expected output: 0 ***
+  console.log(multiply(5, 0)) 
 
 
 // 2. USING NEW OPERATOR TO CREATE OBJECT 
@@ -55,7 +57,9 @@ let p2 = new Point(4,5)
 // p1=p2 //unable to reassign
 // p1.x=100
 // p1.y=50
+
 // p2=p1 //able to reassign
+
 console.log(p1.compare(p2))
 console.log(p2.compare(p1))
 

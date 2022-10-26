@@ -1,10 +1,13 @@
 let nums = [1,2,3,4,5]
 
-// for of use in array >> loop print data in array
-// For in use in object >> can print name of variable 
+// for..of use in array >> loop print data in array
+// For..in use in object >> can print name of variable 
 
 for (const num of nums){
-    console.log(`----> ${num}`)
+    console.log(`----> ${num}`) //value
+}
+for (const num in nums){
+    console.log(`====> ${num}`) //index
 }
 console.log(`// spread operator`)
 let a = []
@@ -18,8 +21,8 @@ console.log(d?.length)
 
 console.log(`// Array() Constractor`)
 let a2 = new Array()
-let b2 = new Array(10)
-let c2 = new Array(3,2,1,"Testing")
+let b2 = new Array(10) //length == 0
+let c2 = new Array(3,2,1,"Testing") //length 4
 console.log(a2)
 console.log(b2)
 console.log(c2)
@@ -36,6 +39,7 @@ console.log('//Array.from()')
 let afrom = [5,10,15,20,25,30]
 let bfrom = Array.from(afrom)
 let dof = Array.of(2)
+console.log(afrom===bfrom)
 console.log(afrom)
 console.log(bfrom)
 console.log(dof)
@@ -47,6 +51,16 @@ console.log(afrom)
 delete afrom[4]
 delete afrom[5]
 console.log(afrom)
+console.log(bfrom)
+console.log(`------------`)
+const zo1 = [1,2,3,4,5]
+const zo2 = zo1
+console.log(zo1===zo2)
+console.log(zo1)
+console.log(zo2)
+delete zo1[1]
+console.log(zo1)
+console.log(zo2)
 
 console.log('Idestructuringassignment')
 let arr1 = ["Hello","My name is","Kasidate","Bank","Phlaiphueak"]
@@ -91,9 +105,9 @@ for (let letter of letters.entries()){
 }
 console.log(msg2)
 for (let [index, letter] of letters.entries()){
-    msg2   += `[`+ index+`:` +letter +`], `
+    msg3   += `[`+ index+`:` +letter +`], `
 }
-console.log(msg2)
+console.log(msg3)
 
 //let nums = [1,2,3,4,5]
 console.log(nums)

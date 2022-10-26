@@ -94,7 +94,7 @@ const hello2 = function () {
 }
 //arrow function (expression)
 const hello3 = () => `hello world`
-//full syntax  (msg)=>{return `hello, ${msg}`}
+
 console.log(hello3())
 
 //one parameter
@@ -277,7 +277,7 @@ console.log(scoreFn())
     doSomething(10, 20, 300)
 }
 
-//rest parameter การแยกกันของอาเรย์
+//rest parameter 
 {
     function doSomething(x, ...other) {
         console.log(x)
@@ -287,7 +287,7 @@ console.log(scoreFn())
     doSomething('Hi', `Hello`, `Sawatdee`, `Hey`)
 }
 
-//spread parameter การรวมกันของอาร์เรย์
+//spread parameter 
 {
     function sum(num1, num2, num3 = 0) {
         console.log(num1)
@@ -298,7 +298,7 @@ console.log(scoreFn())
 
     let nums = [5, 20, 15]
     let num2 = [2, 20]
-    //spread parameter การรวมกัน
+    //spread parameter 
     console.log(sum(...nums)) //40
     console.log(sum(...num2, ...nums)) //27
 }
@@ -339,5 +339,5 @@ console.log(scoreFn())
     const person = [{ id: 1, name: 'Suda' }, { id: 2, name: 'Surapong' }, { id: 3, name: 'Somchai' }]
     console.log(getPersonName(person))
 
-    function getPersonName([, { name }]) { return name }
+    function getPersonNameIndex1([, { name }]) { return name }
 }

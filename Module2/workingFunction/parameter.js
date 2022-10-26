@@ -10,7 +10,7 @@
 
 // rest ==> ยุบหลาย ๆ ข้อมูล เป็น 1 array
 // spread ==> แยก 1 array เป็นหลาย ๆ ข้อมูล
-// ex..                                skip 2 element
+// ex..                               skip 2 element
 // rest [1,2,3,4,5,6,7,8] => rest => [,,...restNum] => restNam = [3,4,5,6,7,8,]
 // spread [9,8,7] => [1,2,3,...spread] => [1,2,3,9,8,7]
 
@@ -29,11 +29,12 @@ const doSpread = [7,8,9,...inSpread]
 console.log(doSpread) //[7,8,9,1,2,3]
 
 //arguments object
-function printNumbers1(num1, num2, num3) {
+function printNumbers1(num1, num2, num3, num4) {
     console.log(`argument length: ${arguments.length}`)
     console.log(arguments[0]) //5
     console.log(arguments[1]) //10
     console.log(arguments[2]) //15
+    console.log(arguments[3]) //
   }
   printNumbers1(5, 10, 15)
   
@@ -48,6 +49,7 @@ function printNumbers1(num1, num2, num3) {
     console.log(x) //10
     arguments[0] = 555
     console.log(x) //555
+    return console.log(`resurt : ${x+y}`)
   }
   updateArgument(10, 5)
   

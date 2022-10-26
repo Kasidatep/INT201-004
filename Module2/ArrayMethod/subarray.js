@@ -32,7 +32,7 @@ console.log(animals.slice(-2))  // new array have two last element in array // [
 console.log(animals)            // [ 'ant', 'bison', 'camel', 'duck', 'elephant' ] original array not change
 console.log(animals.slice(2,4)) // new array start at 2 end 4 [2 element >> index 2, 3] // ['camel', 'duck']
 console.log(animals.slice(2,-1))// new array start at 2 end at before last(1) element in array [2 element >> index 2,3] // ['camel', 'duck']
-console.log(animals.slice(2,-2))// new array start at 2 end at before last 2 element in array [1 element >> index 2]   // ['camel']
+console.log(animals.slice(2,-2))// new array start at 2 end at before last 2 element in array  [1 element >> index 2]   // ['camel']
 console.log(animals.slice())    // same original array  [ 'ant', 'bison', 'camel', 'duck', 'elephant' ] 
 
 const num = [1, 2, 3, 4];

@@ -6,7 +6,7 @@ function getLastElement(arr){
 let arr = [0,1,2,3,4,5]
 let arr_undefined
 //execute function declaration
-console.log(getLastElement(arr))            //5
+console.log(getLastElement(arr))            // 5
 console.log(getLastElement(arr_undefined))  // undefined
 
 //function expression

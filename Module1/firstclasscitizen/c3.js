@@ -19,9 +19,11 @@ console.log(doSomething()(message))
 
 // doIt มีค่าเป็น doSomething()
 
-function doSomething(message){
-    return function saySomething(say){
-            return say
+function doSomething2(message){
+    return function saySomething2(say){
+            return say + message
             }
 }
+
+console.log(doSomething2("Kasidate")("Hey.. "))
 

@@ -71,11 +71,14 @@ const items = new Array()
 console.log(items) //[]
 console.log(items.length) // 0
 
-const students = new Array(10) //10 is an initial length
+let students = new Array(10) //10 is an initial length
 console.log(students) //[empty 10 item]
 console.log(students.length)  // 10
+students = [1,2,3,4,5,6,7,8,9,10,11,12]
+console.log(students)  //[1,2,3,4,5,6,7,8,9,10,11,12]
+console.log(students.length)  // 12
 
-const scores = new Array(55, 65, 30)
+const scores = new Array(22, 65, 30)
 console.log(scores) //[22, 65, 30]
 console.log(scores.length)  //3
 scores[3] = 100
@@ -83,7 +86,7 @@ console.log(scores) //[22, 65, 30, 100]
 
 // Array.of()
 const xx = Array.of(10) //10 is the first element of x
-console.log(xx)  // [10]
+console.log(xx)    // [10]
 console.log(xx[0]) // 10
 
 //Array.from()
@@ -94,3 +97,4 @@ console.log(yy)  //[10, 50]
 delete yy[1]
 console.log(yy) //[10, 1 empty item]
 console.log(yy.length) // 2
+console.log(xx) 

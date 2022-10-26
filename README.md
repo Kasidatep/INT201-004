@@ -56,3 +56,4 @@
     - ArrayMethod
 
 ### Quiz Module 2
+--------

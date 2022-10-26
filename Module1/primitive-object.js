@@ -13,5 +13,5 @@ let Obj2 = Obj
 console.log(Obj)    //{ id: 1, name: 'your name', ages: 25 }
 console.log(Obj2)   //{ id: 1, name: 'your name', ages: 25 }
 Obj2.ages = 30
-console.log(Obj)    //{ id: 1, name: 'your name', ages: 30 }
-console.log(Obj2)   //{ id: 1, name: 'your name', ages: 30 }
+console.log(Obj)    //{ id: 1, name: 'your name',************** ages: 30 ************}
+console.log(Obj2)   //{ id: 1, name: 'your name',************** ages: 30 ************}

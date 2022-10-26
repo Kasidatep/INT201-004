@@ -83,8 +83,8 @@ console.log(studentArray.length)
 
 //Array Emtry
 let EmptyArray = []
-console.log(EmptyArray)     
-console.log(EmptyArray.length)  //0
+console.log(EmptyArray)         // []
+console.log(EmptyArray.length)  // 0
 
 // Array of Object 
 let ArrayObj = [ {studentId:64130500004, name:`Kasidate Phlaiphueak`, gender:`Male`},
