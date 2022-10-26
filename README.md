@@ -22,7 +22,7 @@
   - Array.js
 
 ### Quiz Module 1
-
+   - EXAM#1 [INT201-Exam-Round1/countcovidstatus-Kasidatep](https://github.com/INT201-Exam-Round1/countcovidstatus-Kasidatep)
 ### WEEK 6
   - Basic-Function.js
   - EXAM KasP_countCovidStatus Version 2
@@ -53,7 +53,8 @@
     - rest/spread parameter
 
 ### WEEK 10
-    - ArrayMethod
+   - ArrayMethod
 
 ### Quiz Module 2
+   - EXAM#2 [INT201-Exam-Module2-Round1/bookmark-Kasidatep](https://github.com/INT201-Exam-Module2-Round1/bookmark-Kasidatep)
 --------
