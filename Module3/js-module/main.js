@@ -1,0 +1,20 @@
+// const {getItemsOfCurrentPage,array,doSomething}=require('./myLib/getItemsOfCurrentPage.js')
+// console.log(getItemsOfCurrentPage(array,5,7))
+
+import { BookMark } from "./myLib/BookMark.js";
+
+const book = new BookMark(`121-325-1254-125-1`, 356)
+console.log(book)
+console.log(book.addBookMark(5))
+console.log(book.addBookMark(85))
+console.log(book.addBookMark(14))
+console.log(book.addBookMark(72))
+console.log(book.getBookMarks())
+console.log(book.addBookMark(54))
+console.log(`----------------`)
+console.log(book.removeBookMark(724))
+console.log(book.getBookMarks())
+console.log(`----------------`)
+console.log(book.goToFirstBookMark())
+console.log(book.goToLastBookMark())
+console.log(`-----------------------`)
