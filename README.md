@@ -58,3 +58,9 @@
 ### Quiz Module 2
    - EXAM#2 [INT201-Exam-Module2-Round1/bookmark-Kasidatep](https://github.com/INT201-Exam-Module2-Round1/bookmark-Kasidatep)
 --------
+# Module 3
+
+### WEEK 11
+  - JS-module.js
+  - EXAM SOLUTION Module1 #2 `getItemsOfCurrentPage`
+  - EXAM SOLUTION Module2 #1 `BookMarks`

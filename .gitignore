@@ -1,5 +1,5 @@
 # dependencies
-/node_modules
+*/node_modules/*
 
 # file_tester
-tester.js
+*/tester.js
