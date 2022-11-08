@@ -16,41 +16,63 @@ function bookCatagorie(books) {
     arrOfBook = books.map(book => book.categories)
     return arrOfBook
 }
+
 let authorList = []
 bookAuthor(bookList).forEach((authors, bookid) => {
-
-    authors.forEach((author) =>{
-       if(authorList.find(authors => authors === author)===undefined) authorList.push({book: bookid, author: author})
+    authors.forEach((author) => {
+        if (authorList.find(authors => authors === author) === undefined) authorList.push({ book: bookid, author: author })
     })
 })
-authorList.forEach((book,id)=> {
+authorList.forEach((book, id) => {
     const div = document.createElement('div');
-    div.innerHTML = `${id+1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Author: [${authorList.findIndex(a => a.author===book.author)}] ${book.author}`
+    div.innerHTML = `${id + 1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Author: [${authorList.findIndex(a => a.author === book.author)}] ${book.author}`
     document.body.appendChild(div)
 })
 
 let catagorieList = []
 bookCatagorie(bookList).forEach((categoriesinbook, bookid) => {
-    categoriesinbook.forEach((catagory) =>{
-       if(catagorieList.find(catagorie => catagorie === catagory)===undefined) catagorieList.push({book: bookid, catagories: catagory})
+    categoriesinbook.forEach((catagory) => {
+        if (catagorieList.find(catagorie => catagorie === catagory) === undefined) catagorieList.push({ book: bookid, catagories: catagory })
     })
 })
-catagorieList.forEach((book,id)=> {
+catagorieList.forEach((book, id) => {
     const div = document.createElement('div');
-    div.innerHTML = `${id+1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Catagories: [${catagorieList.findIndex(catagorie => catagorie.catagories===book.catagories)}] ${book.catagories}`
-    document.body.appendChild(div)
-})
-
-console.log(DataBook(bookList))
-const data = DataBook(bookList)
-data.forEach((book,id)=> {
-    const div = document.createElement('div');
-    div.innerHTML = ` ${id+1}, ${book.title}, ${book.publishedDate?.$date.slice(0,4)}, ${book.thumbnailUrl} ${authorList.findIndex(a => a===book.author)};`
+    div.innerHTML = `${id + 1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Catagories: [${catagorieList.findIndex(catagorie => catagorie.catagories === book.catagories)}] ${book.catagories}`
     document.body.appendChild(div)
 })
 
 console.log("Hi")
+// const bookAPI = async (book) => {
+//     const response = await fetch("http://openlibrary.org/api/books?bibkeys=ISBN:" + book.isbn + "&jscmd=details&format=json");
+//     const myJson = await response.json(); //extract JSON from the http response
+//     const thumbnail_urlAPI = myJson["ISBN:"+book.isbn].thumbnail_url
+//     //console.log(thumbnail_urlAPI)
+//    // return thumbnail_urlAPI
+// }
 
+bookList.forEach(book => {
+    // const display = bookAPI(book)
+    //console.log(display)
+})
+//book.thumbnailUrl??bookAPI(book).thumbnail_url
+
+//console.log(DataBook(bookList))
+const data = DataBook(bookList)
+data.forEach((book, id) => {
+    let thumbnail_urlAPI = undefined
+    const callAPI = async () => {
+        const response = await fetch("http://openlibrary.org/api/books?bibkeys=ISBN:" + book.isbn + "&jscmd=details&format=json");
+        const myJson = await response.json(); //extract JSON from the http response
+        thumbnail_urlAPI = myJson["ISBN:" + book.isbn].thumbnail_url
+        console.log(thumbnail_urlAPI)
+    }
+    callAPI()
+    const div = document.createElement('div');
+    console.log(thumbnail_urlAPI)
+    div.innerHTML = ` ${id + 1}, ${book.title}, ${book.publishedDate?.$date.slice(0, 4)}, ${book.thumbnailUrl}//${thumbnail_urlAPI} ${authorList.findIndex(a => a === book.author)};`
+    document.body.appendChild(div)
+
+})
 // {
 //     "title": "Unlocking Android",
 //     "isbn": "1933988673",
