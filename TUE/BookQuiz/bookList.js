@@ -1,4 +1,4 @@
-exports.bookList = [
+export const bookList = [
   {
     "title": "Unlocking Android",
     "isbn": "1933988673",
@@ -4465,3 +4465,4 @@ exports.bookList = [
     "categories": []
   }
 ]
+

@@ -7,7 +7,7 @@ function convertISBN(isbnNumber) {
     console.log(isbn.length)
     let sum = 0
     if (isbn.length === 10) {
-        
+        checkISBN10(isbn)
     }
     return newisbntext
 }
@@ -28,6 +28,9 @@ function checkISBN10(isbnNumber) {
         isbn.push(sum)
         return isbn
     }
+}
     console.log(convertISBN(`978-0-901690-54-8`))
     console.log(convertISBN(`978186197271`))
     console.log(convertISBN(`978186197271`))
+
+    
