@@ -1,4 +1,3 @@
-//const books = require('./bookList').bookList;
 import { bookList } from './bookList.js';
 
 function DataBook(books) {
@@ -26,7 +25,7 @@ bookAuthor(bookList).forEach((authors, bookid) => {
 authorList.forEach((book, id) => {
     const div = document.createElement('div');
     div.innerHTML = `${id + 1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Author: [${authorList.findIndex(a => a.author === book.author)}] ${book.author}`
-    document.body.appendChild(div)
+   // document.body.appendChild(div)
 })
 
 let catagorieList = []
@@ -38,42 +37,39 @@ bookCatagorie(bookList).forEach((categoriesinbook, bookid) => {
 catagorieList.forEach((book, id) => {
     const div = document.createElement('div');
     div.innerHTML = `${id + 1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Catagories: [${catagorieList.findIndex(catagorie => catagorie.catagories === book.catagories)}] ${book.catagories}`
-    document.body.appendChild(div)
+    // document.body.appendChild(div)
 })
 
 console.log("Hi")
-// const bookAPI = async (book) => {
-//     const response = await fetch("http://openlibrary.org/api/books?bibkeys=ISBN:" + book.isbn + "&jscmd=details&format=json");
-//     const myJson = await response.json(); //extract JSON from the http response
-//     const thumbnail_urlAPI = myJson["ISBN:"+book.isbn].thumbnail_url
-//     //console.log(thumbnail_urlAPI)
-//    // return thumbnail_urlAPI
-// }
-
-bookList.forEach(book => {
-    // const display = bookAPI(book)
-    //console.log(display)
-})
-//book.thumbnailUrl??bookAPI(book).thumbnail_url
 
 //console.log(DataBook(bookList))
 const data = DataBook(bookList)
-data.forEach((book, id) => {
-    let thumbnail_urlAPI = undefined
-    const callAPI = async () => {
+ data.forEach(async(book, id) => {
         const response = await fetch("http://openlibrary.org/api/books?bibkeys=ISBN:" + book.isbn + "&jscmd=details&format=json");
-        const myJson = await response.json(); //extract JSON from the http response
-        thumbnail_urlAPI = myJson["ISBN:" + book.isbn].thumbnail_url
-        console.log(thumbnail_urlAPI)
-    }
-    callAPI()
-    const div = document.createElement('div');
-    console.log(thumbnail_urlAPI)
-    div.innerHTML = ` ${id + 1}, ${book.title}, ${book.publishedDate?.$date.slice(0, 4)}, ${book.thumbnailUrl}//${thumbnail_urlAPI} ${authorList.findIndex(a => a === book.author)};`
-    document.body.appendChild(div)
-
+        const bookData = await response.json(); 
+        console.log(bookData)
+        const thumbnail_url = await bookData["ISBN:" + book.isbn]?.thumbnail_url
+        const description = await bookData["ISBN:" + book.isbn].details?.subjects[0] +" or " + bookData["ISBN:" + book.isbn].details?.title
+        const publisher = await bookData["ISBN:" + book.isbn].details.publishers?.[0]
+        const numOfPublish = await bookData["ISBN:" + book.isbn].details?.revision
+        const numOfPage = await bookData["ISBN:" + book.isbn].details?.number_of_pages??null
+        const div = document.createElement('div');
+        div.innerHTML = `${id + 1},
+        
+        
+        `
+        document.body.appendChild(div)
 })
-// {
+// ${book.isbn},
+// ${book.title}, 
+// ${book.shortDescription??`${book.title}: Book about ${description}`}
+// ${publisher??null}
+// ${book.publishedDate?.$date.slice(0, 4)??null}
+// ${numOfPublish??1}
+// ${book.thumbnailUrl??thumbnail_url}
+// ${(book?.pageCount===0)?numOfPage:book?.pageCount}
+
+//  {
 //     "title": "Unlocking Android",
 //     "isbn": "1933988673",
 //     "pageCount": 416,
