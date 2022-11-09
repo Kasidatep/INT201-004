@@ -67,3 +67,6 @@
 
 ### WEEK 12
   - [DOM](./Document/DOM.pdf)
+  - Node Type
+  - Call Node
+  - Create Node
