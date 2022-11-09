@@ -9,8 +9,8 @@
   - Datatype.js
 
 ### WEEK 3
-  - Datatype.js
-  - Variable.js
+  - [Datatype](Document/TypesValuesVariables.pdf).js
+  - [Variable](Document/TypesValuesVariables.pdf).js
 
 ### WEEK 4
   - [operator.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
@@ -24,7 +24,7 @@
 ### Quiz Module 1
    - EXAM#1 [INT201-Exam-Round1/countcovidstatus-Kasidatep](https://github.com/INT201-Exam-Round1/countcovidstatus-Kasidatep)
 ### WEEK 6
-  - Basic-Function.js
+  - [Basic-Function](Document/Basic_Array_Function.pdf).js
   - EXAM KasP_countCovidStatus Version 2
   - EXAM countCovidStatus_solution 
   - Assignment ImageFileExtension and solution
@@ -32,12 +32,12 @@
 # Module 2
 
 ### WEEK 7
-  - Object.js
+  - [Object](Document/Object.pdf).js
   - compareObject.js
 
 ### WEEK 8
   - compareObject.js `continous`
-  - working-function.js
+  - [working-function](Document/WorkingFunction.pdf).js
 
 ### WEEK 9
   - working-function.js
@@ -53,7 +53,7 @@
     - rest/spread parameter
 
 ### WEEK 10
-   - ArrayMethod
+   - [ArrayMethod](Document/arrayMethods.pdf)
 
 ### Quiz Module 2
    - EXAM#2 [INT201-Exam-Module2-Round1/bookmark-Kasidatep](https://github.com/INT201-Exam-Module2-Round1/bookmark-Kasidatep)
@@ -61,6 +61,10 @@
 # Module 3
 
 ### WEEK 11
-  - JS-module.js
+  - [JS-module](./Document/JSModules_V2.pdf).js
   - EXAM SOLUTION Module1 #2 `getItemsOfCurrentPage`
   - EXAM SOLUTION Module2 #1 `BookMarks`
+
+### WEEK 12
+  - [DOM](./Document/DOM.pdf)
+  - 
