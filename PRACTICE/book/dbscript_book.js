@@ -1,4 +1,4 @@
-import { bookList } from './bookList.js';
+import { bookList } from '../../TUE/BookQuiz/bookList.js';
 
 function DataBook(books) {
     let arrOfBook = []
