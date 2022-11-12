@@ -14,8 +14,14 @@ function todoManagement() {
   function getTodos() {
     return todos
   }
-  function getNumberOfDone() {}
-  function getNumberOfNotDone() {}
+  function getNumberOfDone() {
+    const done = todos.filter(todo => todo.done === true)
+    return done.length
+  }
+  function getNumberOfNotDone() {
+    const notDone = todos.filter(todo => todo.done === false)
+    return notDone.length
+  }
 
   return {
     addTodo,
@@ -26,4 +32,4 @@ function todoManagement() {
     getNumberOfNotDone
   }
 }
-module.exports = todoManagement
+export {todoManagement}

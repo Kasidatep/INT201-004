@@ -39,12 +39,10 @@ catagorieList.forEach((book, id) => {
     div.innerHTML = `${id + 1} --- Book: ${book.book}  &nbsp; &nbsp; &nbsp; &nbsp; Catagories: [${catagorieList.findIndex(catagorie => catagorie.catagories === book.catagories)}] ${book.catagories}`
     // document.body.appendChild(div)
 })
-
-console.log("Hi")
-
+let end = null
 //console.log(DataBook(bookList))
 const data = DataBook(bookList)
- data.forEach(async(book, id) => {
+  data.forEach( async(book, id) => {
         const response = await fetch("http://openlibrary.org/api/books?bibkeys=ISBN:" + book.isbn + "&jscmd=details&format=json");
         const bookData = await response.json(); 
         console.log(bookData)
@@ -54,13 +52,14 @@ const data = DataBook(bookList)
         const numOfPublish = await bookData["ISBN:" + book.isbn].details?.revision
         const numOfPage = await bookData["ISBN:" + book.isbn].details?.number_of_pages??null
         const div = document.createElement('div');
-        div.innerHTML = `${id + 1},
-        
-        
+        div.innerHTML = `
+        INSERT INTO
+        ${id + 1},
+        ${book.isbn},
         `
         document.body.appendChild(div)
 })
-// ${book.isbn},
+
 // ${book.title}, 
 // ${book.shortDescription??`${book.title}: Book about ${description}`}
 // ${publisher??null}
