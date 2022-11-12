@@ -3,3 +3,7 @@
 
 # file_tester
 **/tester.js
+
+# dotenv environment variables file
+.env
+.env.test
