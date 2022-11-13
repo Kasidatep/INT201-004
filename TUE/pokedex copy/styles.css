@@ -1,0 +1,101 @@
+*{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container p{
+    font-size: 32px;
+    font-weight: bolder;
+    color: red;
+}
+
+.container div{
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.pokeCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 10px;
+}
+
+.pokeCard p{
+    font-size: 18px;
+    color: blue;
+}
+
+.pokeImg {
+    width: 120px;
+    height: 120px;
+}
+
+.pokeInfo{
+    top: 100px;
+    z-index: 10;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 15px rgba(17, 16, 16, 0.458);
+    border-radius: 20px;
+    padding: 20px;
+    position: fixed;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+}
+ .pokeInfo p {
+    font-size: 20px;
+    justify-content: flex-end;
+    display: block;
+    margin-top: -290px;
+    position: fixed;
+ }
+ .imgInfo{
+    width: 150px;
+    position: fixed;
+    margin-top: -3%;
+    left: 33%;
+ }
+ .infoName{
+    color: blue;
+    font-size: 30px;
+    font-weight: bolder;
+    position: relative;
+    margin-top: 20%;
+    right: 30%;
+ }
+ .infoDetail{
+        font-size: 18px;
+        position: fixed;
+        left: 750px;
+        top: 180px;
+        width: 20%;
+        text-align: left;
+        text-decoration: wavy;
+        background-color: rgba(0, 0, 0, 0.016);
+        padding: 10px 10px;
+        border-radius: 20px;
+ }
+ .infoDetail span{
+    color: rgb(30, 30, 31);
+    font-weight: bolder;
+    font-size: 18px;
+    display: block;
+ }

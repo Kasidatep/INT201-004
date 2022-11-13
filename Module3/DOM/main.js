@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 // root node or document node
 const rootNode = window.document
 console.log(rootNode)
@@ -65,3 +67,4 @@ console.log(divChildren)
 console.log(divChildren[1].previousElementSibling)
 console.log(divChildren[1].nextElementSibling)
 
+console.log(env)
