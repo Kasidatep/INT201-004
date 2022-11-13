@@ -2,7 +2,7 @@
 **/node_modules/**
 
 # file_tester
-**/tester.js
+tester.js
 
 # dotenv environment variables file
 .env
