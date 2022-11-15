@@ -12,4 +12,5 @@ class Todo {
     this.description = newDescription
   }
 }
-export {Todo}
+//export {Todo}
+module.exports = Todo

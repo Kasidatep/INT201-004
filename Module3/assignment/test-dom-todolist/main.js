@@ -1,7 +1,21 @@
-import {todoManagement} from "./lib/todoManagement"
-import {todoUserInterface} from "./UI/todoList.js"
+import { todoManagement } from "./lib/todoManagement.js"
+import { todoUserInterface } from "./UI/todoList.js"
 
-const {addTodo, getNumberOfDone, getNumberOfNotDone} = todoManagement()
-const {showTodoItem,showNumberOfDone,showNumberOfNotDone} = todoUserInterface()
+const { addTodo, getNumberOfDone, getNumberOfNotDone } = todoManagement()
+const { showTodoItem, showNumberOfDone, showNumberOfNotDone } = todoUserInterface()
 
+// const {
+//     addTodo,
+//     removeTodo,
+//     findTodo,
+//     getTodos,
+//     getNumberOfDone,
+//     getNumberOfNotDone
+//   } = todoManagement()
 
+showTodoItem(addTodo("Hi Js"), "Hi Js")
+showTodoItem(addTodo("Welcome HTML"), "Welcome HTML")
+showTodoItem(addTodo("Ooh, Ruby"), "Ooh, Ruby")
+showTodoItem(addTodo("Sawatdee, Kotlin"), "Sawatdee, Kotlin")
+console.log(showNumberOfDone(getNumberOfDone()))
+console.log(showNumberOfNotDone(getNumberOfNotDone()))
