@@ -6,7 +6,7 @@ function todoUserInterface() {
     const listTodoElement = document.getElementById("listTodo")
     listTodoElement.appendChild(divElement)
     const pDesc = document.createElement("p")
-    pDesc.
+    pDesc.innerText = newDescription
     divElement.append(pDesc)
     const notDonebtn = document.createElement("button")
     notDonebtn.innerText = "Not Done"
@@ -16,11 +16,11 @@ function todoUserInterface() {
     divElement.append(removebtn)
   }
   function showNumberOfDone(numberOfDone) {
-    document.getElementById("done").innerText = `Number of Done:0`
+    document.getElementById("done").textContent = `Number of Done:${numberOfDone}`
   }
   function showNumberOfNotDone(numberOfNotDone) {
     const pNotDone = document.getElementById("notDone")
-    pNotDone.innerText = `Number of Not Done:${numberOfNotDone}`
+    pNotDone.textContent = `Number of Not Done:${numberOfNotDone}`
   }
   return { showTodoItem, showNumberOfDone, showNumberOfNotDone }
 }
