@@ -1,0 +1,3482 @@
+[
+	{
+		"isbn" : "013268327X",
+		"bookName" : "Personal Videoconferencing",
+		"bookDescription" : " Personal Videoconferencing by Evan Rosen, undefined or Personal Videoconferencing",
+		"publisher" : "Prentice Hall",
+		"publishdate" : 1996,
+		"num_of_publish" : 1,
+		"rate" : "4.15",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosen.jpg"
+	},
+	{
+		"isbn" : "013319955X",
+		"bookName" : "Comprehensive Networking Glossary and Acronym Guide",
+		"bookDescription" : "This glossary offers a complete collection of technical terms and acronyms used in the networking industry.",
+		"publisher" : "Manning",
+		"publishdate" : 1995,
+		"num_of_publish" : 5,
+		"rate" : "3.71",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/malkin.jpg"
+	},
+	{
+		"isbn" : "020152029X",
+		"bookName" : "Multimedia Computing",
+		"bookDescription" : " Multimedia Computing by Matthew E. Hodges, MIT Project Athena. or Multimedia computing",
+		"publisher" : "Addison-Wesley",
+		"publishdate" : 1993,
+		"num_of_publish" : 8,
+		"rate" : "3.32",
+		"img_url" : "https://covers.openlibrary.org/b/id/4606585-S.jpg"
+	},
+	{
+		"isbn" : "1617290017",
+		"bookName" : "iOS 4 in Action",
+		"bookDescription" : " iOS 4 in Action by Jocelyn Harrington, Development or iOS 4 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 12,
+		"rate" : "4.57",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jharrington.jpg"
+	},
+	{
+		"isbn" : "1617290084",
+		"bookName" : "Specification by Example",
+		"bookDescription" : " Specification by Example by Gojko Adzic, Development or Specification by example",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "4.39",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg"
+	},
+	{
+		"isbn" : "1617290114",
+		"bookName" : "PowerShell and WMI",
+		"bookDescription" : " PowerShell and WMI by Richard Siddaway, undefined or Powershell And Wmi",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "4.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway2.jpg"
+	},
+	{
+		"isbn" : "1617290122",
+		"bookName" : "Activiti in Action",
+		"bookDescription" : " Activiti in Action by Tijs Rademakers, Management information systems or Activiti in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 4,
+		"rate" : "3.95",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rademakers2.jpg"
+	},
+	{
+		"isbn" : "1617290130",
+		"bookName" : "Enterprise OSGi In Action",
+		"bookDescription" : " Enterprise OSGi In Action by Holly Cummins, undefined or Enterprise OSGi in Action: With examples using Apache Aries",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.34",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cummins.jpg"
+	},
+	{
+		"isbn" : "1617290149",
+		"bookName" : "Sass and Compass in Action",
+		"bookDescription" : " Sass and Compass in Action by Wynn Netherland, undefined or Sass And Compass In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 5,
+		"rate" : "3.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/netherland.jpg"
+	},
+	{
+		"isbn" : "1617290173",
+		"bookName" : "OpenCL in Action",
+		"bookDescription" : " OpenCL in Action by Matthew Scarpino, Parallel programming (Computer science) or OpenCL in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "4.63",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino2.jpg"
+	},
+	{
+		"isbn" : "1617290181",
+		"bookName" : "Machine Learning in Action",
+		"bookDescription" : " Machine Learning in Action by Peter Harrington, Handbooks, manuals or Machine learning in action",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.04",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pharrington.jpg"
+	},
+	{
+		"isbn" : "1617290211",
+		"bookName" : "Learn Windows PowerShell in a Month of Lunches",
+		"bookDescription" : " Learn Windows PowerShell in a Month of Lunches by Don Jones, Windows PowerShell (Computer program language) or Learn Windows PowerShell in a month of lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 5,
+		"rate" : "3.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones.jpg"
+	},
+	{
+		"isbn" : "1617290238",
+		"bookName" : "Hadoop in Practice",
+		"bookDescription" : " Hadoop in Practice by Alex Holmes, undefined or Hadoop In Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 5,
+		"rate" : "4.1",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes.jpg"
+	},
+	{
+		"isbn" : "1617290246",
+		"bookName" : "Arduino in Action",
+		"bookDescription" : " Arduino in Action by Martin Evans, undefined or Arduino In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "3.99",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mevans.jpg"
+	},
+	{
+		"isbn" : "1617290262",
+		"bookName" : "Metaprogramming in .NET",
+		"bookDescription" : " Metaprogramming in .NET by Kevin Hazzard, undefined or Metaprogramming In Net",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.87",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazzard.jpg"
+	},
+	{
+		"isbn" : "1617290270",
+		"bookName" : "SOA Governance in Action",
+		"bookDescription" : " SOA Governance in Action by Jos Dirksen, undefined or Soa Governance in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 4,
+		"rate" : "4.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dirksen.jpg"
+	},
+	{
+		"isbn" : "1617290319",
+		"bookName" : "Silverlight 5 in Action",
+		"bookDescription" : " Silverlight 5 in Action by Pete Brown, undefined or Silverlight 5 In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 7,
+		"rate" : "3.54",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown2.jpg"
+	},
+	{
+		"isbn" : "1617290327",
+		"bookName" : "Ext JS in Action, Second Edition",
+		"bookDescription" : " Ext JS in Action, Second Edition by Jesus Garcia, undefined or Ext JS in Action: Covers Ext JS Version 4.0",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 5,
+		"rate" : "4.13",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garcia3.jpg"
+	},
+	{
+		"isbn" : "1617290343",
+		"bookName" : "Big Data",
+		"bookDescription" : " Big Data by Nathan Marz, undefined or Big Data",
+		"publisher" : "Manning",
+		"publishdate" : null,
+		"num_of_publish" : 6,
+		"rate" : "4.29",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marz.jpg"
+	},
+	{
+		"isbn" : "1617290394",
+		"bookName" : "Linked Data",
+		"bookDescription" : " Linked Data by David Wood, undefined or Linked Data: Structured Data on the Web",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 4,
+		"rate" : "3.49",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dwood.jpg"
+	},
+	{
+		"isbn" : "1617290416",
+		"bookName" : "ASP.NET MVC 4 in Action",
+		"bookDescription" : " ASP.NET MVC 4 in Action by Jeffrey Palermo, undefined or Aspnet Mvc 3",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.98",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo3.jpg"
+	},
+	{
+		"isbn" : "1617290432",
+		"bookName" : "HTML5 for .NET Developers",
+		"bookDescription" : " HTML5 for .NET Developers by Jim Jackson, undefined or Html5 For Net Developers Single Page Web Apps Javascript And Semantic Markup",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "4.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jackson.jpg"
+	},
+	{
+		"isbn" : "1617290459",
+		"bookName" : "Java Persistence with Hibernate, Second Edition",
+		"bookDescription" : " Java Persistence with Hibernate, Second Edition by Christian Bauer, undefined or Java Persistence With Hibernate",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.02",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer3.jpg"
+	},
+	{
+		"isbn" : "1617290475",
+		"bookName" : "SQL Server MVP Deep Dives, Volume 2",
+		"bookDescription" : " SQL Server MVP Deep Dives, Volume 2 by Kalen Delaney, undefined or SQL Server MVP Deep Dives Volume 2",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 5,
+		"rate" : "4.87",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/delaney.jpg"
+	},
+	{
+		"isbn" : "1617290491",
+		"bookName" : "HTML5 in Action",
+		"bookDescription" : " HTML5 in Action by Rob Crowther, undefined or Html5 In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 5,
+		"rate" : "4.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther2.jpg"
+	},
+	{
+		"isbn" : "1617290505",
+		"bookName" : "Android in Action, Third Edition",
+		"bookDescription" : " Android in Action, Third Edition by W. Frank Ableson, Development or Android in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "4.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson3.jpg"
+	},
+	{
+		"isbn" : "1617290521",
+		"bookName" : "HBase in Action",
+		"bookDescription" : " HBase in Action by Nicholas Dimiduk, undefined or Hbase In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 5,
+		"rate" : "4.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dimidukkhurana.jpg"
+	},
+	{
+		"isbn" : "1617290548",
+		"bookName" : "Third-Party JavaScript ",
+		"bookDescription" : " Third-Party JavaScript by Ben Vinegar, undefined or Third-party JavaScript",
+		"publisher" : "Manning",
+		"publishdate" : 2013,
+		"num_of_publish" : 4,
+		"rate" : "3.54",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vinegar.jpg"
+	},
+	{
+		"isbn" : "1617290556",
+		"bookName" : "PowerShell in Depth",
+		"bookDescription" : " PowerShell in Depth by Don Jones, undefined or Powershell In Depth An Administrators Guide",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 5,
+		"rate" : "4.21",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones2.jpg"
+	},
+	{
+		"isbn" : "1617290564",
+		"bookName" : "50 Android Hacks",
+		"bookDescription" : " 50 Android Hacks by Carlos M. Sessa, undefined or 50 Android Hacks",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 8,
+		"rate" : "4.25",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sessa.jpg"
+	},
+	{
+		"isbn" : "1617290572",
+		"bookName" : "Node.js in Action",
+		"bookDescription" : " Node.js in Action by Mike Cantelon, undefined or Nodejs In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 4,
+		"rate" : "3.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cantelon.jpg"
+	},
+	{
+		"isbn" : "1617290610",
+		"bookName" : "Flex Mobile in Action",
+		"bookDescription" : " Flex Mobile in Action by Jonathan Campos, undefined or Flex Mobile in Action",
+		"publisher" : "Manning Pubns Co",
+		"publishdate" : 2012,
+		"num_of_publish" : 2,
+		"rate" : "4.48",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/campos.jpg"
+	},
+	{
+		"isbn" : "1617290629",
+		"bookName" : "CoffeeScript in Action",
+		"bookDescription" : " CoffeeScript in Action by Patrick Lee, undefined or CoffeeScripts in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 7,
+		"rate" : "4.88",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lee.jpg"
+	},
+	{
+		"isbn" : "1617290653",
+		"bookName" : "Functional Programming in Scala",
+		"bookDescription" : " Functional Programming in Scala by Paul Chiusano, undefined or Functional Programming In Scala",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "4.19",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bjarnason.jpg"
+	},
+	{
+		"isbn" : "1617290750",
+		"bookName" : "Single Page Web Applications",
+		"bookDescription" : " Single Page Web Applications by Michael S. Mikowski, undefined or Single Page Web Applications Javascript Endtoend",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 8,
+		"rate" : "4.53",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mikowski.jpg"
+	},
+	{
+		"isbn" : "1617290769",
+		"bookName" : "Neo4j in Action",
+		"bookDescription" : " Neo4j in Action by Jonas Partner, undefined or Neo4j in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "4.33",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/partner.jpg"
+	},
+	{
+		"isbn" : "1617290777",
+		"bookName" : "Programming the TI-83 Plus/TI-84 Plus",
+		"bookDescription" : " Programming the TI-83 Plus/TI-84 Plus by Christopher R. Mitchell, undefined or Programming the Ti8384",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.31",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell.jpg"
+	},
+	{
+		"isbn" : "1617290793",
+		"bookName" : "Play for Scala",
+		"bookDescription" : " Play for Scala by Peter Hilton, undefined or Play for Scala: Covers Play 2",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hilton.jpg"
+	},
+	{
+		"isbn" : "1617290823",
+		"bookName" : "Mule in Action, Second Edition",
+		"bookDescription" : " Mule in Action, Second Edition by David Dossot, undefined or Mule in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 4,
+		"rate" : "4.99",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dossot2.jpg"
+	},
+	{
+		"isbn" : "161729084X",
+		"bookName" : "Using the TI-83 Plus/TI-84 Plus",
+		"bookDescription" : " Using the TI-83 Plus/TI-84 Plus by Christopher R. Mitchell, undefined or Using the TI-83 Plus/TI-84 Plus: Full Coverage of the TI-84 Plus Silver Edition",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 2,
+		"rate" : "4.2",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell2.jpg"
+	},
+	{
+		"isbn" : "1617290858",
+		"bookName" : "Redis in Action",
+		"bookDescription" : " Redis in Action by Josiah Carlson, undefined or Redis in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.77",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carlson.jpg"
+	},
+	{
+		"isbn" : "1617290866",
+		"bookName" : "Dart in Action",
+		"bookDescription" : " Dart in Action by Chris Buckett, undefined or Dart in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 2,
+		"rate" : "4.4",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett.jpg"
+	},
+	{
+		"isbn" : "1617290890",
+		"bookName" : "The Art of Unit Testing, Second Edition",
+		"bookDescription" : " The Art of Unit Testing, Second Edition by Roy Osherove, undefined or The Art of Unit Testing: with examples in C#",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.89",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/osherove2.jpg"
+	},
+	{
+		"isbn" : "1617290904",
+		"bookName" : "Play for Java",
+		"bookDescription" : " Play for Java by Nicolas Leroux, undefined or Playing for Java",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 7,
+		"rate" : "3.5",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/leroux.jpg"
+	},
+	{
+		"isbn" : "1617290920",
+		"bookName" : "Hello World! Second Edition",
+		"bookDescription" : " Hello World! Second Edition by Warren Sande, undefined or Hello World!: Computer Programming for Kids and Other Beginners",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "4.03",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande2.jpg"
+	},
+	{
+		"isbn" : "1617290939",
+		"bookName" : "Node.js in Practice",
+		"bookDescription" : " Node.js in Practice by Alex Young, undefined or Nodejs In Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier2.jpg"
+	},
+	{
+		"isbn" : "1617290947",
+		"bookName" : "Windows Store App Development: C# and XAML",
+		"bookDescription" : " Windows Store App Development: C# and XAML by Peter M. Brown, undefined or Windows 8 Xaml in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 7,
+		"rate" : "3.28",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown3.jpg"
+	},
+	{
+		"isbn" : "1617290955",
+		"bookName" : "SonarQube in Action",
+		"bookDescription" : " SonarQube in Action by G. Ann Campbell, undefined or SonarQube in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.19",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/papapetrou.jpg"
+	},
+	{
+		"isbn" : "1617290963",
+		"bookName" : "Grails in Action, Second Edition",
+		"bookDescription" : " Grails in Action, Second Edition by Glen Smith, Java (Computer program language) or Grails in action",
+		"publisher" : "null",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.78",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith2.jpg"
+	},
+	{
+		"isbn" : "1617290971",
+		"bookName" : "Learn Windows IIS in a Month of Lunches",
+		"bookDescription" : " Learn Windows IIS in a Month of Lunches by Jason C. Helmick, undefined or Learn Windows IIS in a Month of Lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.16",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/helmick.jpg"
+	},
+	{
+		"isbn" : "161729098X",
+		"bookName" : "Mondrian in Action",
+		"bookDescription" : " Mondrian in Action by William Back, undefined or Mondrian in Action: Open source business analytics",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "3.08",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/back.jpg"
+	},
+	{
+		"isbn" : "1617291005",
+		"bookName" : "RabbitMQ in Depth",
+		"bookDescription" : " RabbitMQ in Depth by Gavin M. Roy, undefined or RabbitMQ in Depth",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roy.jpg"
+	},
+	{
+		"isbn" : "1617291013",
+		"bookName" : "Akka in Action",
+		"bookDescription" : " Akka in Action by Raymond Roestenburg, undefined or Akka in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.45",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roestenburg.jpg"
+	},
+	{
+		"isbn" : "1617291021",
+		"bookName" : "Solr in Action",
+		"bookDescription" : " Solr in Action by Trey Grainger, undefined or Solr in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 7,
+		"rate" : "4.48",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/grainger.jpg"
+	},
+	{
+		"isbn" : "161729103X",
+		"bookName" : "Extending jQuery",
+		"bookDescription" : " Extending jQuery by Keith B. Wood, undefined or Extending Jquery",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "4.85",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wood.jpg"
+	},
+	{
+		"isbn" : "1617291048",
+		"bookName" : "OCA Java SE 7 Programmer I Certification Guide",
+		"bookDescription" : " OCA Java SE 7 Programmer I Certification Guide by Mala Gupta, undefined or Oca Java Se 7 Programmer I Certification Guide Prepare For The 1zo803 Exam",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "3.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta.jpg"
+	},
+	{
+		"isbn" : "1617291056",
+		"bookName" : "Kanban in Action",
+		"bookDescription" : " Kanban in Action by Marcus Hammarberg, undefined or Kanban in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 4,
+		"rate" : "3.41",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hammarberg.jpg"
+	},
+	{
+		"isbn" : "1617291072",
+		"bookName" : "Making Sense of NoSQL",
+		"bookDescription" : " Making Sense of NoSQL by Daniel G. McCreary, undefined or Making Sense of NoSQL: A guide for managers and the rest of us",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 4,
+		"rate" : "4.41",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mccreary.jpg"
+	},
+	{
+		"isbn" : "1617291080",
+		"bookName" : "Learn Windows PowerShell in a Month of Lunches, Second Edition",
+		"bookDescription" : " Learn Windows PowerShell in a Month of Lunches, Second Edition by Don Jones, undefined or Learn Windows Powershell 3 in a Month of Lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 3,
+		"rate" : "3.63",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones3.jpg"
+	},
+	{
+		"isbn" : "1617291099",
+		"bookName" : "Rails 4 in Action",
+		"bookDescription" : " Rails 4 in Action by Ryan Bigg, undefined or Rails 4 In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "3.97",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bigg2.jpg"
+	},
+	{
+		"isbn" : "1617291145",
+		"bookName" : "AOP in .NET",
+		"bookDescription" : " AOP in .NET by Matthew D. Groves, undefined or AOP in .NET: Practical Aspect-Oriented Programming",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 4,
+		"rate" : "4.87",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/groves.jpg"
+	},
+	{
+		"isbn" : "1617291153",
+		"bookName" : "CMIS and Apache Chemistry in Action",
+		"bookDescription" : " CMIS and Apache Chemistry in Action by Florian Müller, undefined or CMIS and Apache Chemistry in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.55",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mueller.jpg"
+	},
+	{
+		"isbn" : "1617291161",
+		"bookName" : "Learn PowerShell Toolmaking in a Month of Lunches",
+		"bookDescription" : " Learn PowerShell Toolmaking in a Month of Lunches by Don Jones, undefined or Learn Powershell Toolmaking In A Month Of Lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 5,
+		"rate" : "3.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones4.jpg"
+	},
+	{
+		"isbn" : "1617291196",
+		"bookName" : "Learn Active Directory Management in a Month of Lunches",
+		"bookDescription" : " Learn Active Directory Management in a Month of Lunches by Richard Siddaway, undefined or Learn Active Directory Management In A Month Of Lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 6,
+		"rate" : "4.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway3.jpg"
+	},
+	{
+		"isbn" : "161729120X",
+		"bookName" : "Spring in Action, Fourth Edition",
+		"bookDescription" : " Spring in Action, Fourth Edition by Craig Walls, undefined or Spring in Action: Covers Spring 4",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "3.88",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls5.jpg"
+	},
+	{
+		"isbn" : "1617291218",
+		"bookName" : "The Mikado Method",
+		"bookDescription" : " The Mikado Method by Ola Ellnestam, undefined or The Mikado Method",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 2,
+		"rate" : "3.75",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ellnestam.jpg"
+	},
+	{
+		"isbn" : "1617291242",
+		"bookName" : "The Responsive Web",
+		"bookDescription" : " The Responsive Web by Matthew Carver, undefined or The Responsive Web",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "4.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carver.jpg"
+	},
+	{
+		"isbn" : "1617291250",
+		"bookName" : "Fast ASP.NET Websites",
+		"bookDescription" : " Fast ASP.NET Websites by Dean Alan Hume, undefined or Fast Aspnet Websites",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "4.1",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hume.jpg"
+	},
+	{
+		"isbn" : "1617291269",
+		"bookName" : "iOS in Practice",
+		"bookDescription" : " iOS in Practice by Bear P. Cahill, undefined or Ios In Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 5,
+		"rate" : "3.65",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cahill.jpg"
+	},
+	{
+		"isbn" : "1617291277",
+		"bookName" : "SBT in Action",
+		"bookDescription" : " SBT in Action by Joshua Suereth, Scala (Computer program language) or SBT in action",
+		"publisher" : "null",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.98",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth2.jpg"
+	},
+	{
+		"isbn" : "1617291293",
+		"bookName" : "Scalatra in Action",
+		"bookDescription" : " Scalatra in Action by Ivan Porto Carrero, undefined or Scalatra in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "4.64",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carrero2.jpg"
+	},
+	{
+		"isbn" : "1617291307",
+		"bookName" : "Gradle in Action",
+		"bookDescription" : " Gradle in Action by Benjamin Muschko, undefined or Gradle in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 4,
+		"rate" : "4.03",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/muschko.jpg"
+	},
+	{
+		"isbn" : "1617291315",
+		"bookName" : "PowerShell Deep Dives",
+		"bookDescription" : " PowerShell Deep Dives by Edited by Jeffery Hicks, undefined or Powershell Deep Dives",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 6,
+		"rate" : "4.99",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hicks.jpg"
+	},
+	{
+		"isbn" : "1617291323",
+		"bookName" : "F# Deep Dives",
+		"bookDescription" : " F# Deep Dives by Tomas Petricek, undefined or F# Deep Dives",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.21",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek_trelford.jpg"
+	},
+	{
+		"isbn" : "1617291331",
+		"bookName" : "AngularJS in Action",
+		"bookDescription" : " AngularJS in Action by Brian Ford, undefined or Angular JS in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "4.18",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bford.jpg"
+	},
+	{
+		"isbn" : "161729134X",
+		"bookName" : "C# in Depth, Third Edition",
+		"bookDescription" : " C# in Depth, Third Edition by Jon Skeet, undefined or C# in Depth",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 7,
+		"rate" : "4.06",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet3.jpg"
+	},
+	{
+		"isbn" : "1617291358",
+		"bookName" : "Software Development Metrics",
+		"bookDescription" : " Software Development Metrics by David Nicolette, undefined or Software Development Metrics",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "4.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nicolette.jpg"
+	},
+	{
+		"isbn" : "1617291374",
+		"bookName" : "Windows Phone 8 in Action",
+		"bookDescription" : " Windows Phone 8 in Action by Timothy Binkley-Jones, undefined or Windows Phone 8 In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "3.74",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/binkley.jpg"
+	},
+	{
+		"isbn" : "1617291382",
+		"bookName" : "R in Action, Second Edition",
+		"bookDescription" : " R in Action, Second Edition by Robert Kabacoff, undefined or R in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kabacoff2.jpg"
+	},
+	{
+		"isbn" : "1617291390",
+		"bookName" : "PostGIS in Action, Second Edition",
+		"bookDescription" : " PostGIS in Action, Second Edition by Regina Obe, undefined or PostGIS in Action, 2nd Edition",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "4.33",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/obe2.jpg"
+	},
+	{
+		"isbn" : "1617291412",
+		"bookName" : "The Joy of Clojure, Second Edition",
+		"bookDescription" : " The Joy of Clojure, Second Edition by Michael Fogus, undefined or The Joy of Clojure",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 6,
+		"rate" : "4.38",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fogus2.jpg"
+	},
+	{
+		"isbn" : "1617291420",
+		"bookName" : "iOS 7 in Action",
+		"bookDescription" : " iOS 7 in Action by Brendan G. Lim, Operating systems (computers) or IOS 7 in Action",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2014,
+		"num_of_publish" : 3,
+		"rate" : "4.97",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim2.jpg"
+	},
+	{
+		"isbn" : "1617291439",
+		"bookName" : "Hello App Inventor!",
+		"bookDescription" : " Hello App Inventor! by Paula Beer, undefined or Hello App Inventor!: Android programming for kids and the rest of us",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "3.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/beer.jpg"
+	},
+	{
+		"isbn" : "1617291455",
+		"bookName" : "Ember.js in Action",
+		"bookDescription" : " Ember.js in Action by Joachim Haagen Skeie, Programming languages (electronic computers) or Ember. Js in Action",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2014,
+		"num_of_publish" : 1,
+		"rate" : "3.78",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeie.jpg"
+	},
+	{
+		"isbn" : "1617291471",
+		"bookName" : "Netty in Action",
+		"bookDescription" : " Netty in Action by Norman Maurer, undefined or Netty In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.09",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/maurer.jpg"
+	},
+	{
+		"isbn" : "161729148X",
+		"bookName" : "OCP Java SE 7 Programmer II Certification Guide",
+		"bookDescription" : " OCP Java SE 7 Programmer II Certification Guide by Mala Gupta, undefined or OCP Java SE 7 Programmer II Certification Guide",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "3.17",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta2.jpg"
+	},
+	{
+		"isbn" : "1617291501",
+		"bookName" : "RavenDB in Action",
+		"bookDescription" : " RavenDB in Action by Itamar Syn-Hershko, Database management or RavenDB in Action",
+		"publisher" : "Manning Publications Co. LLC",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "4.25",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/syn-hershko.jpg"
+	},
+	{
+		"isbn" : "1617291528",
+		"bookName" : "Clojure in Action, Second Edition",
+		"bookDescription" : " Clojure in Action, Second Edition by Amit Rathore, undefined or Clojure in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.7",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore2.jpg"
+	},
+	{
+		"isbn" : "1617291560",
+		"bookName" : "Practical Data Science with R",
+		"bookDescription" : " Practical Data Science with R by Nina Zumel, undefined or Practical Data Science With R",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 7,
+		"rate" : "3.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/zumel.jpg"
+	},
+	{
+		"isbn" : "1617291609",
+		"bookName" : "MongoDB in Action, Second Edition",
+		"bookDescription" : " MongoDB in Action, Second Edition by Kyle Banker, undefined or MongoDB in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.36",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker2.jpg"
+	},
+	{
+		"isbn" : "1617291617",
+		"bookName" : "ArcGIS Web Development",
+		"bookDescription" : " ArcGIS Web Development by Rene Rubalcava, undefined or ArcGIS Web Development",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.52",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rubalcava.jpg"
+	},
+	{
+		"isbn" : "1617291625",
+		"bookName" : "Elasticsearch in Action",
+		"bookDescription" : " Elasticsearch in Action by Radu Gheorghe, undefined or Elasticsearch in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hinman.jpg"
+	},
+	{
+		"isbn" : "161729165X",
+		"bookName" : "BDD in Action",
+		"bookDescription" : " BDD in Action by John F. Smart, undefined or BDD in Action: Behavior-driven development for the whole software lifecycle",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "4.47",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smart.jpg"
+	},
+	{
+		"isbn" : "1617291684",
+		"bookName" : "Learn SCCM 2012 in a Month of Lunches",
+		"bookDescription" : " Learn SCCM 2012 in a Month of Lunches by James Bannan, undefined or Learn System Center Configuration Manager in a Month of Lunches",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.89",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bannan.jpg"
+	},
+	{
+		"isbn" : "1617291692",
+		"bookName" : "The Well-Grounded Rubyist, Second Edition",
+		"bookDescription" : " The Well-Grounded Rubyist, Second Edition by David A. Black, undefined or The Well-Grounded Rubyist",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 5,
+		"rate" : "3.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black3.jpg"
+	},
+	{
+		"isbn" : "1617291706",
+		"bookName" : "Programming for Musicians and Digital Artists",
+		"bookDescription" : " Programming for Musicians and Digital Artists by Ajay Kapur, undefined or Programming for Musicians and Digital Artists",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.94",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kapur.jpg"
+	},
+	{
+		"isbn" : "1617291749",
+		"bookName" : "Titanium Alloy in Action",
+		"bookDescription" : " Titanium Alloy in Action by Ricardo Alcocer, undefined or Titanium Alloy in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.07",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alcocer.jpg"
+	},
+	{
+		"isbn" : "1617291757",
+		"bookName" : "Giraph in Action",
+		"bookDescription" : " Giraph in Action by Claudio Martella, undefined or Giraph in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "3.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/martella.jpg"
+	},
+	{
+		"isbn" : "1617291781",
+		"bookName" : "Go in Action",
+		"bookDescription" : " Go in Action by Brian Ketelsen, undefined or Go in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.28",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ketelsen.jpg"
+	},
+	{
+		"isbn" : "1617291803",
+		"bookName" : "Reactive Design Patterns",
+		"bookDescription" : " Reactive Design Patterns by Roland Kuhn, undefined or Reactive Design Patterns",
+		"publisher" : "Manning",
+		"publishdate" : null,
+		"num_of_publish" : 5,
+		"rate" : "3.56",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kuhn.jpg"
+	},
+	{
+		"isbn" : "161729182X",
+		"bookName" : "CORS in Action",
+		"bookDescription" : " CORS in Action by Monsur Hossain, undefined or CORS in Action: Creating and consuming cross-origin APIs",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "3.55",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hossain.jpg"
+	},
+	{
+		"isbn" : "1617291838",
+		"bookName" : "Grokking Functional Programming",
+		"bookDescription" : " Grokking Functional Programming by Aslam Khan, undefined or Grokking Functional Programming",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.78",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/khan.jpg"
+	},
+	{
+		"isbn" : "1617291897",
+		"bookName" : "Storm Applied",
+		"bookDescription" : " Storm Applied by Sean Allen, undefined or Storm Applied",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.33",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pathirana.jpg"
+	},
+	{
+		"isbn" : "1617291927",
+		"bookName" : "Real-World Machine Learning",
+		"bookDescription" : " Real-World Machine Learning by Henrik Brink, undefined or Real-World Machine Learning",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.48",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brink.jpg"
+	},
+	{
+		"isbn" : "1617291935",
+		"bookName" : "jQuery UI in Action",
+		"bookDescription" : " jQuery UI in Action by Theodore J. (T.J.) VanToll III, Development or jQuery UI in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "3.07",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vantoll.jpg"
+	},
+	{
+		"isbn" : "1617291943",
+		"bookName" : "Web Components in Action",
+		"bookDescription" : " Web Components in Action by Chris Buckett, undefined or Web Components in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "3.93",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett2.jpg"
+	},
+	{
+		"isbn" : "1617291951",
+		"bookName" : "JavaScript Application Design",
+		"bookDescription" : " JavaScript Application Design by Nicolas G. Bevacqua, undefined or JavaScript Application Design: A Build First Approach",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.29",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bevacqua.jpg"
+	},
+	{
+		"isbn" : "1617291978",
+		"bookName" : "Git in Practice",
+		"bookDescription" : " Git in Practice by Mike McQuaid, undefined or Git in Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.71",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcquaid.jpg"
+	},
+	{
+		"isbn" : "1617291986",
+		"bookName" : "Impala in Action",
+		"bookDescription" : " Impala in Action by Richard L. Saltzer, undefined or Impala in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "3.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/saltzer.jpg"
+	},
+	{
+		"isbn" : "1617291994",
+		"bookName" : "Java 8 in Action",
+		"bookDescription" : " Java 8 in Action by Raoul-Gabriel Urma, undefined or Java 8 in Action",
+		"publisher" : "Manning Pubn",
+		"publishdate" : null,
+		"num_of_publish" : 7,
+		"rate" : "4.32",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/urma.jpg"
+	},
+	{
+		"isbn" : "161729201X",
+		"bookName" : "Elixir in Action",
+		"bookDescription" : " Elixir in Action by Saša Juric´, Elixir (Computer program language) or Elixir in action",
+		"publisher" : "null",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.65",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/juric.jpg"
+	},
+	{
+		"isbn" : "1617292036",
+		"bookName" : "Getting MEAN with Mongo, Express, Angular, and Node",
+		"bookDescription" : " Getting MEAN with Mongo, Express, Angular, and Node by Simon Holmes, undefined or Getting MEAN with Mongo, Express, Angular, and Node",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.7",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sholmes.jpg"
+	},
+	{
+		"isbn" : "1617292079",
+		"bookName" : "jQuery in Action, Third Edition",
+		"bookDescription" : " jQuery in Action, Third Edition by Bear Bibeault, Web site development or JQuery in Action",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : null,
+		"num_of_publish" : 1,
+		"rate" : "4.18",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/derosa.jpg"
+	},
+	{
+		"isbn" : "1617292117",
+		"bookName" : "D3.js in Action",
+		"bookDescription" : " D3.js in Action by Elijah Meeks, undefined or D3.js in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "3.32",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/meeks.jpg"
+	},
+	{
+		"isbn" : "1617292133",
+		"bookName" : "Learn SQL Server Administration in a Month of Lunches",
+		"bookDescription" : " Learn SQL Server Administration in a Month of Lunches by Don Jones, undefined or Learn SQL Server Administration in a Month of Lunches: Covers Microsoft SQL Server 2005-2014",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 2,
+		"rate" : "3.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones5.jpg"
+	},
+	{
+		"isbn" : "1617292141",
+		"bookName" : "Geoprocessing with Python",
+		"bookDescription" : " Geoprocessing with Python by Chris Garrard, undefined or Geoprocessing with Python",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.1",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garrard.jpg"
+	},
+	{
+		"isbn" : "161729215X",
+		"bookName" : "Barcodes with iOS",
+		"bookDescription" : " Barcodes with iOS by Oliver Drobnik, undefined or Barcodes with iOS: Bringing together the digital and physical worlds",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 4,
+		"rate" : "4.07",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drobnik.jpg"
+	},
+	{
+		"isbn" : "1617292168",
+		"bookName" : "OpenStack in Action",
+		"bookDescription" : " OpenStack in Action by Cody Bumgardner, OpenStack (Electronic resource) or OpenStack in action",
+		"publisher" : "null",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.66",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bumgardner.jpg"
+	},
+	{
+		"isbn" : "1617292184",
+		"bookName" : "PowerShell in Depth, Second Edition",
+		"bookDescription" : " PowerShell in Depth, Second Edition by Don Jones, undefined or PowerShell in Depth",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones6.jpg"
+	},
+	{
+		"isbn" : "1617292192",
+		"bookName" : "Oculus Rift in Action",
+		"bookDescription" : " Oculus Rift in Action by Bradley Austin Davis, undefined or Oculus Rift in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "4.51",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bdavis.jpg"
+	},
+	{
+		"isbn" : "1617292222",
+		"bookName" : "Hadoop in Practice, Second Edition",
+		"bookDescription" : " Hadoop in Practice, Second Edition by Alex Holmes, undefined or Hadoop in Practice: Includes 104 Techniques",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.83",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes2.jpg"
+	},
+	{
+		"isbn" : "161729232X",
+		"bookName" : "Unity in Action",
+		"bookDescription" : " Unity in Action by Joseph Hocking, undefined or Unity in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.03",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hocking.jpg"
+	},
+	{
+		"isbn" : "1617292338",
+		"bookName" : "Practical Probabilistic Programming",
+		"bookDescription" : " Practical Probabilistic Programming by Avi Pfeffer, undefined or Practical Probabilistic Programming",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 3,
+		"rate" : "3.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pfeffer.jpg"
+	},
+	{
+		"isbn" : "1617292419",
+		"bookName" : "Learn Git in a Month of Lunches",
+		"bookDescription" : " Learn Git in a Month of Lunches by Rick Umali, Development or Learn Git in a month of lunches",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.04",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/umali.jpg"
+	},
+	{
+		"isbn" : "1617292427",
+		"bookName" : "Express.js in Action",
+		"bookDescription" : " Express.js in Action by Evan M. Hahn, undefined or Express in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.77",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hahn.jpg"
+	},
+	{
+		"isbn" : "1617292435",
+		"bookName" : "Understanding SPAs",
+		"bookDescription" : " Understanding SPAs by Emmit A. Scott, undefined or SPA Design and Architecture",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "4.36",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scott2.jpg"
+	},
+	{
+		"isbn" : "1884777066",
+		"bookName" : "Object Oriented Application Frameworks",
+		"bookDescription" : "Frameworks are object-oriented programming environments for vertical application areas. This book is the first to survey this exciting new technology, its concepts, and practical applications.",
+		"publisher" : "Manning",
+		"publishdate" : 1995,
+		"num_of_publish" : 4,
+		"rate" : "4.43",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewis2.jpg"
+	},
+	{
+		"isbn" : "1884777082",
+		"bookName" : "Client/Server Yellow Pages",
+		"bookDescription" : "This unique guide covers software products and vendors active in the client/server marketplace. Over 200 products and over 250 vendors are included.",
+		"publisher" : "Manning",
+		"publishdate" : 1995,
+		"num_of_publish" : 4,
+		"rate" : "4.5",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewis.jpg"
+	},
+	{
+		"isbn" : "1884777295",
+		"bookName" : "Building Secure and Reliable Network Applications",
+		"bookDescription" : "\"... tackles the difficult problem of building reliable distributed computing systems in a way that not only presents the principles but also describes proven practical solutions.\" --John Warne, BNR Europe",
+		"publisher" : "Manning",
+		"publishdate" : 1996,
+		"num_of_publish" : 6,
+		"rate" : "3.57",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/birman.jpg"
+	},
+	{
+		"isbn" : "1884777368",
+		"bookName" : "Mobile Agents",
+		"bookDescription" : "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet.",
+		"publisher" : "Manning",
+		"publishdate" : 1997,
+		"num_of_publish" : 7,
+		"rate" : "4.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cockayne.jpg"
+	},
+	{
+		"isbn" : "1884777384",
+		"bookName" : "Coffeehouse",
+		"bookDescription" : "Coffeehouse is an anthology of stories, poems and essays originally published on the World Wide Web.",
+		"publisher" : "Manning",
+		"publishdate" : 1997,
+		"num_of_publish" : 8,
+		"rate" : "3.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/asher.jpg"
+	},
+	{
+		"isbn" : "1884777392",
+		"bookName" : "Java Applets and Channels Without Programming",
+		"bookDescription" : " Java Applets and Channels Without Programming by Ronny Richardson, Java & variants or Java Applets and Channels Without Programming",
+		"publisher" : "Manning Pubns Co",
+		"publishdate" : 1999,
+		"num_of_publish" : 5,
+		"rate" : "3.47",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shoffner.jpg"
+	},
+	{
+		"isbn" : "1884777449",
+		"bookName" : "Maximum MIDI",
+		"bookDescription" : " Maximum MIDI by Paul Messick, undefined or Maximum MIDI",
+		"publisher" : "Manning",
+		"publishdate" : 1997,
+		"num_of_publish" : 4,
+		"rate" : "3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/messick.jpg"
+	},
+	{
+		"isbn" : "1884777465",
+		"bookName" : "Advanced OWL 5.0",
+		"bookDescription" : " Advanced OWL 5.0 by Ted Neward, Development or Advanced OWL 5.0",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 4,
+		"rate" : "4.61",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward2.jpg"
+	},
+	{
+		"isbn" : "1884777473",
+		"bookName" : "The Awesome Power of Direct3D/DirectX",
+		"bookDescription" : "The Awesome Power of Direct3D/DirectX shows you how to build a complete working 3D application, including 3D sound, joystick input, animation, textures, shadows, and even collision detection.",
+		"publisher" : "null",
+		"publishdate" : 2002,
+		"num_of_publish" : 6,
+		"rate" : "4.56",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kovach.jpg"
+	},
+	{
+		"isbn" : "1884777481",
+		"bookName" : "Inside LotusScript",
+		"bookDescription" : "Develop Notes and Domino Web applications by providing advanced LotusScript code for direct use in your programs. This book emphasizes practical, useable code and solutions to common Notes programming problems.",
+		"publisher" : "Manning",
+		"publishdate" : 1997,
+		"num_of_publish" : 9,
+		"rate" : "3.04",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcginn.jpg"
+	},
+	{
+		"isbn" : "188477749X",
+		"bookName" : "Java Network Programming, Second Edition",
+		"bookDescription" : " Java Network Programming, Second Edition by Merlin Hughes, Java (Computer progam language) or Java network programming",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 7,
+		"rate" : "4.48",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hughes.jpg"
+	},
+	{
+		"isbn" : "1884777503",
+		"bookName" : "Core OWL 5.0",
+		"bookDescription" : " Core OWL 5.0 by Ted Neward, Microsoft Windows (Computer file) or Core Owl 5.0",
+		"publisher" : "Manning",
+		"publishdate" : 1997,
+		"num_of_publish" : 5,
+		"rate" : "2.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward.jpg"
+	},
+	{
+		"isbn" : "188477752X",
+		"bookName" : "Practical Methods for Your Year 2000 Problem",
+		"bookDescription" : "Practical Methods for Your Year 2000 Problem gives the Year 2000 project team a step-by-step methodology for addressing the Year 2000 problem.",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 5,
+		"rate" : "4.51",
+		"img_url" : "https://covers.openlibrary.org/b/id/2085105-S.jpg"
+	},
+	{
+		"isbn" : "1884777538",
+		"bookName" : "The Awesome Power of PowerJ",
+		"bookDescription" : " The Awesome Power of PowerJ by Tim Hatton, PowerJ. or The awesome power of PowerJ",
+		"publisher" : "Manning Publications",
+		"publishdate" : 1998,
+		"num_of_publish" : 6,
+		"rate" : "3.23",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton2.jpg"
+	},
+	{
+		"isbn" : "1884777546",
+		"bookName" : "The Awesome Power of Power++",
+		"bookDescription" : " The Awesome Power of Power++ by Tim Hatton, undefined or The Awesome Power of Power",
+		"publisher" : "null",
+		"publishdate" : 1998,
+		"num_of_publish" : 1,
+		"rate" : "3.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton3.jpg"
+	},
+	{
+		"isbn" : "1884777554",
+		"bookName" : "PFC Programmer's Reference Manual",
+		"bookDescription" : " PFC Programmer's Reference Manual by Richard Brooks, PowerBuilder or PFC programmers' reference manual",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 6,
+		"rate" : "3.89",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brooks.jpg"
+	},
+	{
+		"isbn" : "1884777562",
+		"bookName" : "The Awesome Power of Java Beans",
+		"bookDescription" : " The Awesome Power of Java Beans by Lawrence H. Rodrigues, JavaBeans. or The awesome power of Java beans",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 9,
+		"rate" : "3.42",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rodrigues.jpg"
+	},
+	{
+		"isbn" : "1884777589",
+		"bookName" : "Magical A-Life Avatars",
+		"bookDescription" : "\"Distinctive book explaining how to get intelligent software agents to work.\" --Clipcode.com",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 6,
+		"rate" : "3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/small.jpg"
+	},
+	{
+		"isbn" : "1884777597",
+		"bookName" : "Practical Software Requirements",
+		"bookDescription" : " Practical Software Requirements by Benjamin L. Kovitz, Computer software -- Development. or Practical software requirements",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 7,
+		"rate" : "3.33",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kovitz.jpg"
+	},
+	{
+		"isbn" : "1884777600",
+		"bookName" : "Internet and Intranet Applications with PowerBuilder 6",
+		"bookDescription" : " Internet and Intranet Applications with PowerBuilder 6 by Tom Cervenka, PowerBuilder. or Internet & Intranet applications with PowerBuilder 6",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 5,
+		"rate" : "4.97",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cervenka.jpg"
+	},
+	{
+		"isbn" : "1884777643",
+		"bookName" : "Up to Speed with Swing",
+		"bookDescription" : " Up to Speed with Swing by Steven J. Gutz, Swing (Computer file) or Up to speed with Swing",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 7,
+		"rate" : "3.93",
+		"img_url" : "https://covers.openlibrary.org/b/id/2085109-S.jpg"
+	},
+	{
+		"isbn" : "1884777651",
+		"bookName" : "Distributed Programming with Java",
+		"bookDescription" : " Distributed Programming with Java by Qusay H. Mahmoud, Java (Computer program language) or Distributed programming with Java",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 7,
+		"rate" : "4.29",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mahmoud.jpg"
+	},
+	{
+		"isbn" : "188477766X",
+		"bookName" : "Java Servlets by Example",
+		"bookDescription" : " Java Servlets by Example by Alan R. Williamson, Java & variants or Java Servlets by Example",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2002,
+		"num_of_publish" : 8,
+		"rate" : "3.21",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/williamson.jpg"
+	},
+	{
+		"isbn" : "1884777678",
+		"bookName" : "Java Foundation Classes",
+		"bookDescription" : " Java Foundation Classes by Stephen C. Drye, Java foundation classes. or Java foundation classes",
+		"publisher" : "Manning",
+		"publishdate" : 2001,
+		"num_of_publish" : 8,
+		"rate" : "3.7",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drye.jpg"
+	},
+	{
+		"isbn" : "1884777686",
+		"bookName" : "Distributed Application Development with PowerBuilder 6.0",
+		"bookDescription" : " Distributed Application Development with PowerBuilder 6.0 by Michael J. Barlotta, PowerBuilder. or Distributed application development with PowerBuilder 6",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 5,
+		"rate" : "4.25",
+		"img_url" : "https://covers.openlibrary.org/b/id/2085112-S.jpg"
+	},
+	{
+		"isbn" : "1884777694",
+		"bookName" : "Implementing Elliptic Curve Cryptography",
+		"bookDescription" : "\"The book provides all the theory and working programs needed to create real applications based on the latest IEEE P1363 standard.\" --Reviewed in Cryptologia",
+		"publisher" : "Manning",
+		"publishdate" : 1998,
+		"num_of_publish" : 7,
+		"rate" : "3.35",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosing.jpg"
+	},
+	{
+		"isbn" : "1884777708",
+		"bookName" : "PowerBuilder 6.0 Questions & Answers",
+		"bookDescription" : " PowerBuilder 6.0 Questions & Answers by Tim Hatton, Object-oriented programming (OOP) or PowerBuilder 6.0 Questions & Answers",
+		"publisher" : "Manning Publications",
+		"publishdate" : 1998,
+		"num_of_publish" : 5,
+		"rate" : "4.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton.jpg"
+	},
+	{
+		"isbn" : "1884777716",
+		"bookName" : "Server-Based Java Programming",
+		"bookDescription" : " Server-Based Java Programming by Ted Neward, Java (Computer program language) or Server-based Java programming",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 13,
+		"rate" : "3.51",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward3.jpg"
+	},
+	{
+		"isbn" : "1884777740",
+		"bookName" : "The Quick Python Book",
+		"bookDescription" : " The Quick Python Book by Daryl Harms, High level programming languages or The Quick Python Book",
+		"publisher" : "Manning Publications",
+		"publishdate" : 1999,
+		"num_of_publish" : 9,
+		"rate" : "3.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/harms.jpg"
+	},
+	{
+		"isbn" : "1884777759",
+		"bookName" : "Up to Speed with Swing, Second Edition",
+		"bookDescription" : "Now in its Second Edition, Up to Speed with Swing is for you if you want to get on the fast track to Java Swing. The second edition has been extensively updated to cover Java 1.2 with additional code examples and illustrations.",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 8,
+		"rate" : "3.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gutz2.jpg"
+	},
+	{
+		"isbn" : "1884777767",
+		"bookName" : "Practical LotusScript",
+		"bookDescription" : " Practical LotusScript by Anthony Patton, High level programming languages or Practical LotusScript",
+		"publisher" : "Manning Publications",
+		"publishdate" : 1999,
+		"num_of_publish" : 8,
+		"rate" : "3.26",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/patton.jpg"
+	},
+	{
+		"isbn" : "1884777775",
+		"bookName" : "SQR in PeopleSoft and Other Applications",
+		"bookDescription" : " SQR in PeopleSoft and Other Applications by Galina, Database software or SQR in Peoplesoft and Other Applications",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2003,
+		"num_of_publish" : 4,
+		"rate" : "3.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/landres.jpg"
+	},
+	{
+		"isbn" : "1884777783",
+		"bookName" : "Oracle8i Database Administration",
+		"bookDescription" : " Oracle8i Database Administration by Noel Yuhanna, Oracle (Computer file) or Oracle 8i database administration",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 6,
+		"rate" : "3.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/yuhanna.jpg"
+	},
+	{
+		"isbn" : "1884777791",
+		"bookName" : "Object Oriented Perl",
+		"bookDescription" : " Object Oriented Perl by Damian Conway, Object-oriented programming (OOP) or Object Oriented Perl",
+		"publisher" : "Manning Publications",
+		"publishdate" : 1999,
+		"num_of_publish" : 15,
+		"rate" : "4.73",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/conway.jpg"
+	},
+	{
+		"isbn" : "1884777805",
+		"bookName" : "Elements of Programming with Perl",
+		"bookDescription" : " Elements of Programming with Perl by Andrew L. Johnson, Perl (Computer program language) or Elements of programming with Perl",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 6,
+		"rate" : "3.37",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/johnson.jpg"
+	},
+	{
+		"isbn" : "1884777813",
+		"bookName" : "Python and Tkinter Programming",
+		"bookDescription" : " Python and Tkinter Programming by John E. Grayson, Python (Computer program language) or Python and Tkinter programming.",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 8,
+		"rate" : "4.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/grayson.jpg"
+	},
+	{
+		"isbn" : "1884777848",
+		"bookName" : "Swing",
+		"bookDescription" : " Swing by Matthew Robinson, Swing (Computer file) or Swing",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 8,
+		"rate" : "4.44",
+		"img_url" : "https://covers.openlibrary.org/b/id/931324-S.jpg"
+	},
+	{
+		"isbn" : "1884777864",
+		"bookName" : "Jaguar Development with PowerBuilder 7",
+		"bookDescription" : " Jaguar Development with PowerBuilder 7 by Michael Barlotta, PowerBuilder. or Jaguar development with PowerBuilder 7",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 6,
+		"rate" : "4.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barlotta2.jpg"
+	},
+	{
+		"isbn" : "1884777872",
+		"bookName" : "XML Programming with VB and ASP",
+		"bookDescription" : " XML Programming with VB and ASP by Mark Wilson, Microsoft Visual BASIC or XML programming with VB & ASP",
+		"publisher" : "Manning",
+		"publishdate" : 1999,
+		"num_of_publish" : 10,
+		"rate" : "3.23",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilson.jpg"
+	},
+	{
+		"isbn" : "1884777902",
+		"bookName" : "3D User Interfaces with Java 3D",
+		"bookDescription" : " 3D User Interfaces with Java 3D by Jon Barrilleaux, User interfaces (Computer systems) or 3D user interfaces with Java 3D",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 11,
+		"rate" : "3.13",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barrilleaux.jpg"
+	},
+	{
+		"isbn" : "1884777929",
+		"bookName" : "Essential Guide to Peoplesoft Development and Customization",
+		"bookDescription" : " Essential Guide to Peoplesoft Development and Customization by Tony DeLia, PeopleSoft software or Essential guide to PeopleSoft development and customization",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 8,
+		"rate" : "3.49",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/delia.jpg"
+	},
+	{
+		"isbn" : "1884777996",
+		"bookName" : "Web Development with JavaServer Pages",
+		"bookDescription" : " Web Development with JavaServer Pages by Duane K. Fields, JavaServer pages or Web development with JavaServer pages",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2000,
+		"num_of_publish" : 16,
+		"rate" : "4.6",
+		"img_url" : "https://covers.openlibrary.org/b/id/931327-S.jpg"
+	},
+	{
+		"isbn" : "1930110006",
+		"bookName" : "Data Munging with Perl",
+		"bookDescription" : " Data Munging with Perl by David Cross, Databases & data structures or Data Munging with Perl",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2001,
+		"num_of_publish" : 14,
+		"rate" : "3.8",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cross.jpg"
+	},
+	{
+		"isbn" : "1930110022",
+		"bookName" : "Graphics Programming with Perl",
+		"bookDescription" : " Graphics Programming with Perl by Martien Verbruggen, Computer graphics software or Graphics Programming with Perl",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2002,
+		"num_of_publish" : 11,
+		"rate" : "3.36",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/verbruggen.jpg"
+	},
+	{
+		"isbn" : "1930110049",
+		"bookName" : "Domino Development with Java",
+		"bookDescription" : " Domino Development with Java by Anthony Patton, Lotus Domino (Computer file) or Domino development with Java",
+		"publisher" : "Manning",
+		"publishdate" : 2000,
+		"num_of_publish" : 9,
+		"rate" : "4",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/patton2.jpg"
+	},
+	{
+		"isbn" : "1930110057",
+		"bookName" : "Kermit 95+",
+		"bookDescription" : " Kermit 95+ by Kermit Project at Columbia University, undefined or Kermit 95+",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2003,
+		"num_of_publish" : 1,
+		"rate" : "4.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kermit.jpg"
+	},
+	{
+		"isbn" : "1930110065",
+		"bookName" : "Web Development with Apache and Perl",
+		"bookDescription" : " Web Development with Apache and Perl by Theo Petersen, Apache (Computer file : Apache Group) or Web development with Apache and Perl",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 14,
+		"rate" : "4.56",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petersen.jpg"
+	},
+	{
+		"isbn" : "193011009X",
+		"bookName" : "JSP Tag Libraries",
+		"bookDescription" : " JSP Tag Libraries by Gal Shachor, Java & variants or JSP Tag Libraries",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2001,
+		"num_of_publish" : 14,
+		"rate" : "3.79",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shachor.jpg"
+	},
+	{
+		"isbn" : "1930110197",
+		"bookName" : "Microsoft.NET for Programmers",
+		"bookDescription" : " Microsoft.NET for Programmers by Fergal Grimes, Microsoft .NET or Microsoft .Net for programmers",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 17,
+		"rate" : "4.04",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/grimes.jpg"
+	},
+	{
+		"isbn" : "1930110332",
+		"bookName" : "Java 2 Micro Edition",
+		"bookDescription" : " Java 2 Micro Edition by James P. White, Java (Computer program language) or Java 2 micro edition",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 10,
+		"rate" : "4.88",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/white.jpg"
+	},
+	{
+		"isbn" : "1930110359",
+		"bookName" : "Java 3D Programming",
+		"bookDescription" : " Java 3D Programming by Daniel Selman, Computer Programming or Java 3D Programming",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2002,
+		"num_of_publish" : 8,
+		"rate" : "3.24",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/selman.jpg"
+	},
+	{
+		"isbn" : "1930110405",
+		"bookName" : "LDAP Programming, Management and Integration",
+		"bookDescription" : " LDAP Programming, Management and Integration by Clayton Donley, LDAP (Computer network protocol) or LDAP programming management and integration",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 11,
+		"rate" : "3.23",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/donley.jpg"
+	},
+	{
+		"isbn" : "1930110421",
+		"bookName" : "Programming Web Services with Java",
+		"bookDescription" : " Programming Web Services with Java by Ajamu A. Wesley, undefined or Programming Web Services with Java",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 1,
+		"rate" : "4.44",
+		"img_url" : "https://covers.openlibrary.org/b/id/10678339-S.jpg"
+	},
+	{
+		"isbn" : "193011043X",
+		"bookName" : "Bitter Java",
+		"bookDescription" : " Bitter Java by Bruce A. Tate, Java (Computer program language) or Bitter Java",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 19,
+		"rate" : "3.19",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tate.jpg"
+	},
+	{
+		"isbn" : "1930110456",
+		"bookName" : "JDK 1.4 Tutorial",
+		"bookDescription" : " JDK 1.4 Tutorial by Gregory M. Travis, Java (Computer program language) or JDK 1.4 tutorial",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 8,
+		"rate" : "4.61",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/travis.jpg"
+	},
+	{
+		"isbn" : "1930110464",
+		"bookName" : "Instant Messaging in Java",
+		"bookDescription" : "This intermediate Java programming book provides Java programmers with the information and tools needed to create your own IM client and server software.",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2002,
+		"num_of_publish" : 10,
+		"rate" : "3.41",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shigeoka.jpg"
+	},
+	{
+		"isbn" : "1930110529",
+		"bookName" : "JSTL in Action",
+		"bookDescription" : " JSTL in Action by Shawn Bayern, JavaServer pages. or JSTL in action",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 12,
+		"rate" : "4.1",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bayern.jpg"
+	},
+	{
+		"isbn" : "1930110545",
+		"bookName" : ".NET Multithreading",
+		"bookDescription" : " .NET Multithreading by Alan Dennis, Internet programming. or .NET multithreading",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 11,
+		"rate" : "3.44",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dennis.jpg"
+	},
+	{
+		"isbn" : "1930110561",
+		"bookName" : "JMX in Action",
+		"bookDescription" : " JMX in Action by Benjamin G. Sullins, Java (Computer program language) or JMX in action",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 11,
+		"rate" : "4.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins.jpg"
+	},
+	{
+		"isbn" : "1930110588",
+		"bookName" : "Java Development with Ant",
+		"bookDescription" : "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team J2EE projects. And, most important, it's easy to learn.",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 14,
+		"rate" : "4.35",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher.jpg"
+	},
+	{
+		"isbn" : "1930110596",
+		"bookName" : "SCWCD Exam Study Kit",
+		"bookDescription" : " SCWCD Exam Study Kit by Hanumant Deshmukh, Electronic data processing personnel -- Certification. or SCWCD exam study kit",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2002,
+		"num_of_publish" : 10,
+		"rate" : "4.29",
+		"img_url" : "https://covers.openlibrary.org/b/id/954552-S.jpg"
+	},
+	{
+		"isbn" : "1930110820",
+		"bookName" : "Extending and Embedding Perl",
+		"bookDescription" : " Extending and Embedding Perl by Tim Jenness, Perl (Computer program language) or Extending and embedding Perl",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 12,
+		"rate" : "4.5",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jenness.jpg"
+	},
+	{
+		"isbn" : "1930110855",
+		"bookName" : "Programming Mac OS X",
+		"bookDescription" : " Programming Mac OS X by Kevin O'Malley, Mac OS. or Programming Mac OS X",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 16,
+		"rate" : "4.86",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/omalley.jpg"
+	},
+	{
+		"isbn" : "1930110936",
+		"bookName" : "AspectJ in Action",
+		"bookDescription" : " AspectJ in Action by Ramnivas Laddad, Object-oriented programming (Computer science) or AspectJ in action",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 10,
+		"rate" : "4.7",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laddad.jpg"
+	},
+	{
+		"isbn" : "1930110944",
+		"bookName" : "EJB Cookbook",
+		"bookDescription" : "\"This book provides a great reference for the average EJB developer. It provides recipes for most common tasks that an EJB developer would need.\" -- Computing Reviews, Nov. 2003",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 18,
+		"rate" : "4.31",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins2.jpg"
+	},
+	{
+		"isbn" : "1930110952",
+		"bookName" : "Bitter EJB",
+		"bookDescription" : " Bitter EJB by Bruce Tate, JavaBeans. or Bitter EJB",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 13,
+		"rate" : "4.88",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tate2.jpg"
+	},
+	{
+		"isbn" : "1930110979",
+		"bookName" : "Code Generation in Action",
+		"bookDescription" : "Code Generation In Action covers building database access, user interface, remote procedure, test cases, and business logic code as well as code for other key system functions.",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 9,
+		"rate" : "3.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/herrington.jpg"
+	},
+	{
+		"isbn" : "1930110995",
+		"bookName" : "JUnit in Action",
+		"bookDescription" : " JUnit in Action by Vincent Massol with Ted Husted, Java (Computer program language) or JUnit in action",
+		"publisher" : "Manning",
+		"publishdate" : 2003,
+		"num_of_publish" : 13,
+		"rate" : "4.73",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/massol.jpg"
+	},
+	{
+		"isbn" : "1932394001",
+		"bookName" : "SQR in PeopleSoft and Other Applications, Second Edition",
+		"bookDescription" : " SQR in PeopleSoft and Other Applications, Second Edition by Galina Landres, Database software or SQR in PeopleSoft and Other Applications Second Edition",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2003,
+		"num_of_publish" : 8,
+		"rate" : "3.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/landres2.jpg"
+	},
+	{
+		"isbn" : "1932394052",
+		"bookName" : "XDoclet in Action",
+		"bookDescription" : " XDoclet in Action by Craig Walls, High level programming languages or XDoclet in Action (In Action series)",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2003,
+		"num_of_publish" : 9,
+		"rate" : "2.93",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls.jpg"
+	},
+	{
+		"isbn" : "1932394117",
+		"bookName" : "Tapestry in Action",
+		"bookDescription" : " Tapestry in Action by Howard M. Lewis Ship, Internet programming or Tapestry in action",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 11,
+		"rate" : "3.08",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewisship.jpg"
+	},
+	{
+		"isbn" : "1932394125",
+		"bookName" : "JavaServer Faces in Action",
+		"bookDescription" : " JavaServer Faces in Action by Kito D. Mann, JavaServer pages. or JavaServer faces in action",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 10,
+		"rate" : "4.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mann.jpg"
+	},
+	{
+		"isbn" : "1932394133",
+		"bookName" : "Technology Paradise Lost",
+		"bookDescription" : " Technology Paradise Lost by Erik Keller, Information technology -- Finance or Technology paradise lost",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 11,
+		"rate" : "3.44",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/keller.jpg"
+	},
+	{
+		"isbn" : "193239415X",
+		"bookName" : "Hibernate in Action",
+		"bookDescription" : "\"2005 Best Java Book!\" -- Java Developer's Journal",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 12,
+		"rate" : "3.45",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer.jpg"
+	},
+	{
+		"isbn" : "1932394206",
+		"bookName" : "Explorer's Guide to the Semantic Web",
+		"bookDescription" : "\"A thorough look at one vision of the Web's future ...particularly well written...Highly recommended.\" -- Choice Magazine",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 11,
+		"rate" : "4.19",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/passin.jpg"
+	},
+	{
+		"isbn" : "1932394222",
+		"bookName" : "Microsoft Reporting Services in Action",
+		"bookDescription" : " Microsoft Reporting Services in Action by Teo Lachev, SQL or Microsoft Reporting Services in Action (In Action series)",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2004,
+		"num_of_publish" : 8,
+		"rate" : "3.54",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lachev.jpg"
+	},
+	{
+		"isbn" : "1932394230",
+		"bookName" : "JUnit Recipes",
+		"bookDescription" : " JUnit Recipes by J. B. Rainsberger with contributions by Scott Stirling, Java (Computer program language) or JUnit recipes",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 10,
+		"rate" : "4.64",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rainsberger.jpg"
+	},
+	{
+		"isbn" : "1932394249",
+		"bookName" : "Struts in Action",
+		"bookDescription" : " Struts in Action by Ted N. Husted, Struts framework. or Struts recipes",
+		"publisher" : "Manning",
+		"publishdate" : 2002,
+		"num_of_publish" : 6,
+		"rate" : "3.75",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/husted.jpg"
+	},
+	{
+		"isbn" : "1932394273",
+		"bookName" : "SWT/JFace in Action",
+		"bookDescription" : "Guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. Packed with examples and no fluff.",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 11,
+		"rate" : "4.09",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino.jpg"
+	},
+	{
+		"isbn" : "1932394281",
+		"bookName" : "Lucene in Action",
+		"bookDescription" : " Lucene in Action by Erik Hatcher, Lucene (Electronic resource) or Lucene in Action",
+		"publisher" : "Manning",
+		"publishdate" : 2004,
+		"num_of_publish" : 13,
+		"rate" : "3.85",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher2.jpg"
+	},
+	{
+		"isbn" : "193239429X",
+		"bookName" : "Manager's Guide to Open Source",
+		"bookDescription" : " Manager's Guide to Open Source by Maria Winslow, Linux (computer operating system) or Manager's Guide to Open Source",
+		"publisher" : "Pearson Education, Limited",
+		"publishdate" : 2004,
+		"num_of_publish" : 1,
+		"rate" : "3.69",
+		"img_url" : "undefined"
+	},
+	{
+		"isbn" : "1932394354",
+		"bookName" : "Spring in Action",
+		"bookDescription" : " Spring in Action by Craig Walls, Java & variants or Spring in Action (In Action series)",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2005,
+		"num_of_publish" : 11,
+		"rate" : "4.11",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls2.jpg"
+	},
+	{
+		"isbn" : "1932394389",
+		"bookName" : "SCWCD Exam Study Kit Second Edition",
+		"bookDescription" : " SCWCD Exam Study Kit Second Edition by Hanumant Deshmukh, Electronic data processing personnel -- Certification -- Study guides. or SC exam study kit",
+		"publisher" : "Manning",
+		"publishdate" : 2005,
+		"num_of_publish" : 7,
+		"rate" : "4.43",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/deshmukh2.jpg"
+	},
+	{
+		"isbn" : "1932394400",
+		"bookName" : "SCBCD Exam Study Kit",
+		"bookDescription" : " SCBCD Exam Study Kit by Paul Sanghera, Computing and Information Technology or SCBCD Exam Study Kit",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2005,
+		"num_of_publish" : 15,
+		"rate" : "3.35",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sanghera.jpg"
+	},
+	{
+		"isbn" : "1932394419",
+		"bookName" : "Hibernate Quickly",
+		"bookDescription" : "\"If you want to learn Hibernate quickly, this book shows you step by step.\" - Sang Shin, Java Technology Architect, Sun Microsystems",
+		"publisher" : "Manning",
+		"publishdate" : 2005,
+		"num_of_publish" : 13,
+		"rate" : "4.71",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/peak.jpg"
+	},
+	{
+		"isbn" : "1932394494",
+		"bookName" : "RSS and Atom in Action",
+		"bookDescription" : " RSS and Atom in Action by Dave Johnson, Programming languages or RSS and Atom in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 11,
+		"rate" : "4.58",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dmjohnson.jpg"
+	},
+	{
+		"isbn" : "1932394508",
+		"bookName" : "Minimal Perl",
+		"bookDescription" : " Minimal Perl by Tim Maher, Programming languages or Minimal Perl",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 14,
+		"rate" : "2.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/maher.jpg"
+	},
+	{
+		"isbn" : "1932394532",
+		"bookName" : "WebWork in Action",
+		"bookDescription" : " WebWork in Action by Patrick Lightbody, Object-oriented programming (Computer science) or WebWork in action",
+		"publisher" : "Manning",
+		"publishdate" : 2005,
+		"num_of_publish" : 10,
+		"rate" : "3.4",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lightbody.jpg"
+	},
+	{
+		"isbn" : "1932394583",
+		"bookName" : "POJOs in Action",
+		"bookDescription" : "\"POJOs in Action is required reading for battle-weary EJB developers and for new developers who want to avoid the sins of the fathers by using lightweight frameworks. -- C# Online.NET",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 14,
+		"rate" : "3.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crichardson.jpg"
+	},
+	{
+		"isbn" : "1932394591",
+		"bookName" : "Understanding Enterprise SOA",
+		"bookDescription" : "\"SOA is real ... Pulier is uniquely qualified to make [it] accessible to the general business audience.\" - Paul Gaffney, Staples, Inc., From the Foreword",
+		"publisher" : "Manning",
+		"publishdate" : 2005,
+		"num_of_publish" : 8,
+		"rate" : "3.38",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pulier.jpg"
+	},
+	{
+		"isbn" : "1932394613",
+		"bookName" : "Ajax in Action",
+		"bookDescription" : " Ajax in Action by Dave Crane, Ajax (Web site development technology) or Ajax in action",
+		"publisher" : "Manning",
+		"publishdate" : 2005,
+		"num_of_publish" : 16,
+		"rate" : "4.39",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane.jpg"
+	},
+	{
+		"isbn" : "1932394621",
+		"bookName" : "wxPython in Action",
+		"bookDescription" : "\"The book is easy to read and provides an approach to a very practical contemporary topic. The authors have organized their material well.\" -- Melissa Strange, Walden University, www.reviews.com",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 13,
+		"rate" : "3.97",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rappin.jpg"
+	},
+	{
+		"isbn" : "1932394680",
+		"bookName" : "SOA Security",
+		"bookDescription" : " SOA Security by Ramarao Kanneganti, Data security & data encryption or SOA Security",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 12,
+		"rate" : "3.42",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kanneganti.jpg"
+	},
+	{
+		"isbn" : "1932394699",
+		"bookName" : "Ruby for Rails",
+		"bookDescription" : " Ruby for Rails by David A. Black, undefined or Ruby For Rails",
+		"publisher" : "Manning",
+		"publishdate" : 2006,
+		"num_of_publish" : 4,
+		"rate" : "4.15",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black.jpg"
+	},
+	{
+		"isbn" : "1932394753",
+		"bookName" : "PHP in Action",
+		"bookDescription" : "\"If there was ever a textbook for software development in PHP, this would be it.\" Cal Evans, Podcast Review, Zend Developer Network",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 11,
+		"rate" : "3.51",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/reiersol.jpg"
+	},
+	{
+		"isbn" : "1932394761",
+		"bookName" : "SQL Server 2005 Reporting Services in Action",
+		"bookDescription" : " SQL Server 2005 Reporting Services in Action by Bret Updegraff, SQL server or SQL server 2005 reporting services in action",
+		"publisher" : "Manning",
+		"publishdate" : 2006,
+		"num_of_publish" : 8,
+		"rate" : "4.36",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/updegraff.jpg"
+	},
+	{
+		"isbn" : "193239477X",
+		"bookName" : "ASP.NET 2.0 Web Parts in Action",
+		"bookDescription" : "\"ASP.NET Web Parts in Action is a must read book for every developer who wants to extend his knowledge of the ASP.NET framework.\" -- Simon Busoli, DotNetSlackers.com",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 12,
+		"rate" : "3.34",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neimke.jpg"
+	},
+	{
+		"isbn" : "1932394796",
+		"bookName" : "iText in Action",
+		"bookDescription" : "\"I've been using iText for over a year, but I still learnt an awful lot while reading this book.\" --JavaLobby",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 16,
+		"rate" : "4.81",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lowagie.jpg"
+	},
+	{
+		"isbn" : "193239480X",
+		"bookName" : "Ant in Action",
+		"bookDescription" : "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team enterprise projects. And, most important, it s easy to learn.",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 12,
+		"rate" : "3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/loughran.jpg"
+	},
+	{
+		"isbn" : "1932394818",
+		"bookName" : "C++/CLI in Action",
+		"bookDescription" : " ... a great resource, an outstanding job, a must-read... Ayman B. Shoukry, VC++ Team, Microsoft Corporation",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 15,
+		"rate" : "3.03",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sivakumar.jpg"
+	},
+	{
+		"isbn" : "1932394826",
+		"bookName" : "iBATIS in Action",
+		"bookDescription" : " Gets new users going and gives experienced users in-depth coverage of advanced features. Jeff Cunningham, The Weather Channel Interactive",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 11,
+		"rate" : "3.68",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/begin.jpg"
+	},
+	{
+		"isbn" : "1932394834",
+		"bookName" : "Laszlo in Action",
+		"bookDescription" : " Laszlo in Action by Norman Klein, Laszlo (Computer program language) or Laszlo in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 11,
+		"rate" : "4.81",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/klein.jpg"
+	},
+	{
+		"isbn" : "1932394842",
+		"bookName" : "Groovy in Action",
+		"bookDescription" : " Groovy in Action by Dierk Koenig with Andrew Glover, Groovy (Computer program language) or Groovy in action",
+		"publisher" : "Manning",
+		"publishdate" : 2007,
+		"num_of_publish" : 9,
+		"rate" : "4.66",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koenig.jpg"
+	},
+	{
+		"isbn" : "1932394850",
+		"bookName" : "Test Driven",
+		"bookDescription" : " Test Driven by Lasse Koskela, Computing and Information Technology or Test Driven",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 10,
+		"rate" : "4.84",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koskela.jpg"
+	},
+	{
+		"isbn" : "1932394885",
+		"bookName" : "Java Persistence with Hibernate",
+		"bookDescription" : "\"...this book is the ultimate solution. If you are going to use Hibernate in your application, you have no other choice, go rush to the store and get this book.\" --JavaLobby",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2006,
+		"num_of_publish" : 12,
+		"rate" : "4.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer2.jpg"
+	},
+	{
+		"isbn" : "1932394907",
+		"bookName" : "Windows PowerShell in Action",
+		"bookDescription" : " If all it had going for it was the authoratative pedigree of the writer, it might be worth it, but it's also well-written, well-organized, and thorough, which I think makes it invaluable as both a learning tool and a reference. Slashdot.org",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 18,
+		"rate" : "3.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/payette.jpg"
+	},
+	{
+		"isbn" : "1932394923",
+		"bookName" : "NHibernate in Action",
+		"bookDescription" : " NHibernate in Action by Pierre Henri Kuate, Computing and Information Technology or NHibernate in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 12,
+		"rate" : "4.45",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kuate.jpg"
+	},
+	{
+		"isbn" : "1932394982",
+		"bookName" : "Wicket in Action",
+		"bookDescription" : " Wicket in Action by Martijn Dashorst, Computing and Information Technology or Wicket in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 10,
+		"rate" : "4.75",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dashorst.jpg"
+	},
+	{
+		"isbn" : "1932394990",
+		"bookName" : "Ajax in Practice",
+		"bookDescription" : " Ajax in Practice by Dave Crane, Computer Software Packages or Ajax in Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 10,
+		"rate" : "3.77",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane2.jpg"
+	},
+	{
+		"isbn" : "1933988029",
+		"bookName" : "JBoss in Action",
+		"bookDescription" : " JBoss in Action by Javid Jamae, Programming - Software Development or JBoss in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 12,
+		"rate" : "3.65",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jamae.jpg"
+	},
+	{
+		"isbn" : "1933988037",
+		"bookName" : "Prototype and Scriptaculous in Action",
+		"bookDescription" : " Prototype and Scriptaculous in Action by Dave Crane, Internet languages or Prototype and Scriptaculous in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 12,
+		"rate" : "4.4",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane3.jpg"
+	},
+	{
+		"isbn" : "1933988053",
+		"bookName" : "AspectJ in Action, Second Edition",
+		"bookDescription" : " AspectJ in Action, Second Edition by Ramnivas Laddad, Java (Computer program language) or AspectJ in action",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 6,
+		"rate" : "4.16",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laddad2.jpg"
+	},
+	{
+		"isbn" : "193398807X",
+		"bookName" : "Struts 2 in Action",
+		"bookDescription" : " Struts 2 in Action by Donald Brown, Programming - Software Development or Struts 2 in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 14,
+		"rate" : "3.98",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dbrown.jpg"
+	},
+	{
+		"isbn" : "1933988134",
+		"bookName" : "Spring in Action, Second Edition",
+		"bookDescription" : " Spring in Action, Second Edition by Craig Walls with Ryan Breidenbach, Java (Computer program language) or Spring in action",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2007,
+		"num_of_publish" : 12,
+		"rate" : "4.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls3.jpg"
+	},
+	{
+		"isbn" : "1933988169",
+		"bookName" : "LINQ in Action",
+		"bookDescription" : " LINQ in Action by Fabrice Marguerie, Computer Programming or LINQ in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 16,
+		"rate" : "3.85",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marguerie.jpg"
+	},
+	{
+		"isbn" : "1933988177",
+		"bookName" : "Lucene in Action, Second Edition",
+		"bookDescription" : "With clear writing, reusable examples, and unmatched advice on best practices, Lucene in Action is still the definitive guide to developing with Lucene.",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 6,
+		"rate" : "4.72",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher3.jpg"
+	},
+	{
+		"isbn" : "1933988215",
+		"bookName" : "Open-Source ESBs in Action",
+		"bookDescription" : " Open-Source ESBs in Action by Tijs Rademakers, Middleware or Open source ESBs in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 12,
+		"rate" : "4.25",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rademakers.jpg"
+	},
+	{
+		"isbn" : "1933988231",
+		"bookName" : "GWT in Action",
+		"bookDescription" : " GWT in Action by Robert Hanson, Computer Software Packages or GWT in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 11,
+		"rate" : "4.57",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hanson.jpg"
+	},
+	{
+		"isbn" : "1933988258",
+		"bookName" : "Becoming Agile",
+		"bookDescription" : " Becoming Agile by Greg Smith, Computing and Information Technology or Becoming Agile",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 11,
+		"rate" : "3.68",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smith.jpg"
+	},
+	{
+		"isbn" : "1933988266",
+		"bookName" : "SOA Patterns",
+		"bookDescription" : " SOA Patterns by Arnon Rotem-Gal-Oz, Service-oriented architecture (Computer science) or SOA patterns",
+		"publisher" : "Manning",
+		"publishdate" : 2012,
+		"num_of_publish" : 2,
+		"rate" : "3.77",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rotem.jpg"
+	},
+	{
+		"isbn" : "1933988274",
+		"bookName" : "The Art of Unit Testing",
+		"bookDescription" : " The Art of Unit Testing by Roy Osherove, Computer software -- Testing or The art of unit testing",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "3.08",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/osherove.jpg"
+	},
+	{
+		"isbn" : "1933988290",
+		"bookName" : "GWT in Practice",
+		"bookDescription" : " GWT in Practice by Robert Cooper, undefined or GWT in Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 7,
+		"rate" : "4.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cooper.jpg"
+	},
+	{
+		"isbn" : "1933988312",
+		"bookName" : "Collective Intelligence in Action",
+		"bookDescription" : " Collective Intelligence in Action by Satnam Alag, Swarm intelligence or Collective intelligence in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 5,
+		"rate" : "4.67",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg"
+	},
+	{
+		"isbn" : "1933988320",
+		"bookName" : "Zend Framework in Action",
+		"bookDescription" : " Zend Framework in Action by Rob Allen, Web site development or Zend framework in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 5,
+		"rate" : "2.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg"
+	},
+	{
+		"isbn" : "1933988347",
+		"bookName" : "EJB 3 in Action",
+		"bookDescription" : " EJB 3 in Action by Debu Panda, Computer Programming or EJB 3 in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2007,
+		"num_of_publish" : 14,
+		"rate" : "3.65",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/panda.jpg"
+	},
+	{
+		"isbn" : "1933988355",
+		"bookName" : "jQuery in Action",
+		"bookDescription" : "\"The best-thought-out and researched piece of literature on the jQuery library.\" --From the forward by John Resig, Creator of jQuery",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 17,
+		"rate" : "4.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault.jpg"
+	},
+	{
+		"isbn" : "1933988363",
+		"bookName" : "C# in Depth",
+		"bookDescription" : " C# in Depth by Jon Skeet, C & Visual C or C# in Depth",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 9,
+		"rate" : "3.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet.jpg"
+	},
+	{
+		"isbn" : "193398838X",
+		"bookName" : "Taming Text",
+		"bookDescription" : " Taming Text by Grant S. Ingersoll, undefined or Taming Text",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 3,
+		"rate" : "3.51",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ingersoll.jpg"
+	},
+	{
+		"isbn" : "1933988398",
+		"bookName" : "Gnuplot in Action",
+		"bookDescription" : " Gnuplot in Action by Philipp K. Janert, undefined or Gnuplot in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "4.98",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/janert.jpg"
+	},
+	{
+		"isbn" : "1933988401",
+		"bookName" : "Seam in Action",
+		"bookDescription" : " Seam in Action by Dan Allen, Programming - Software Development or Seam in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 10,
+		"rate" : "4.51",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dallen.jpg"
+	},
+	{
+		"isbn" : "1933988428",
+		"bookName" : "Silverlight 2 in Action",
+		"bookDescription" : " Silverlight 2 in Action by Chad A. Campbell, Silverlight (Electronic resource) or Silverlight 2 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 8,
+		"rate" : "4.42",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/campbell.jpg"
+	},
+	{
+		"isbn" : "1933988452",
+		"bookName" : "Website Owner's Manual",
+		"bookDescription" : " Website Owner's Manual by Paul A. Boag, undefined or Website Owners Manual",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 11,
+		"rate" : "3.09",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/boag.jpg"
+	},
+	{
+		"isbn" : "1933988479",
+		"bookName" : "Ruby in Practice",
+		"bookDescription" : " Ruby in Practice by Jeremy McAnally, Programming languages or Ruby in Practice",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 10,
+		"rate" : "2.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcanally.jpg"
+	},
+	{
+		"isbn" : "1933988487",
+		"bookName" : "Adobe AIR in Action",
+		"bookDescription" : " Adobe AIR in Action by Joey Lott, Microcomputer Application Software or Adobe AIR in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 12,
+		"rate" : "3.17",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lott.jpg"
+	},
+	{
+		"isbn" : "1933988495",
+		"bookName" : "Hello World!",
+		"bookDescription" : "Hello World! provides a gentle but thorough introduction to the world of computer programming.",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 6,
+		"rate" : "4.39",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande.jpg"
+	},
+	{
+		"isbn" : "1933988509",
+		"bookName" : "Flexible Rails",
+		"bookDescription" : "\"Flexible Rails created a standard to which I hold other technical books. You definitely get your money's worth.\"",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2008,
+		"num_of_publish" : 9,
+		"rate" : "3.97",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong.jpg"
+	},
+	{
+		"isbn" : "1933988541",
+		"bookName" : "Open Source SOA",
+		"bookDescription" : " Open Source SOA by Jeff Davis, Service-oriented architecture (Computer science) or Open source SOA",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "4.43",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/davis.jpg"
+	},
+	{
+		"isbn" : "193398855X",
+		"bookName" : "Dependency Injection",
+		"bookDescription" : " If you do large scale java apps, you probably want to have someone on the team have this book. Michael Neale",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 10,
+		"rate" : "3.43",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/prasanna.jpg"
+	},
+	{
+		"isbn" : "1933988592",
+		"bookName" : "Team Foundation Server 2008 in Action",
+		"bookDescription" : " Team Foundation Server 2008 in Action by Jamil Azher, Microsoft Visual studio or Team Foundation Server 2008 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 6,
+		"rate" : "3.54",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/azher.jpg"
+	},
+	{
+		"isbn" : "1933988606",
+		"bookName" : "DSLs in Boo: Domain-Specific Languages in .NET",
+		"bookDescription" : " DSLs in Boo: Domain-Specific Languages in .NET by Oren Eini writing as Ayende Rahien, Microsoft .NET or DSLs in Boo",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 5,
+		"rate" : "3.53",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rahien.jpg"
+	},
+	{
+		"isbn" : "1933988622",
+		"bookName" : "ASP.NET MVC in Action",
+		"bookDescription" : "ASP.NET MVC in Action is a guide to pragmatic MVC-based web development. After a thorough overview, it dives into issues of architecture and maintainability. The book assumes basic knowledge of ASP.NET (v. 3.5) and expands your expertise.",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 8,
+		"rate" : "3.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo.jpg"
+	},
+	{
+		"isbn" : "1933988649",
+		"bookName" : "Hibernate Search in Action",
+		"bookDescription" : "\"A great resource for true database independent full text search.\" --Aaron Walker, base2Services",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 8,
+		"rate" : "3.67",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bernard.jpg"
+	},
+	{
+		"isbn" : "1933988657",
+		"bookName" : "The Well-Grounded Rubyist",
+		"bookDescription" : " The Well-Grounded Rubyist by David A. Black, undefined or The well-grounded Rubyist",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "3.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black2.jpg"
+	},
+	{
+		"isbn" : "1933988665",
+		"bookName" : "Algorithms of the Intelligent Web",
+		"bookDescription" : " Algorithms of the Intelligent Web by Haralambos Marmanis, undefined or Algorithms of the Intelligent Web",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 10,
+		"rate" : "3.84",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marmanis.jpg"
+	},
+	{
+		"isbn" : "1933988673",
+		"bookName" : "Unlocking Android",
+		"bookDescription" : " Unlocking Android by W. Frank Ableson, Android (Computer program) or Unlocking Android",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg"
+	},
+	{
+		"isbn" : "193398869X",
+		"bookName" : "Secrets of the JavaScript Ninja",
+		"bookDescription" : " Secrets of the Javascript Ninja is definitely a book for anyone looking to significantly improve their Javascript knowledge and skills. Ryan Doherty, Web Development Engineer, Mozilla",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 15,
+		"rate" : "4.03",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/resig.jpg"
+	},
+	{
+		"isbn" : "1933988711",
+		"bookName" : "Brownfield Application Development in .NET",
+		"bookDescription" : " Brownfield Application Development in .NET by Kyle Baley, Development or Brownfield application development in .NET",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 6,
+		"rate" : "2.94",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg"
+	},
+	{
+		"isbn" : "193398872X",
+		"bookName" : "SQL Server 2008 Administration in Action",
+		"bookDescription" : " SQL Server 2008 Administration in Action by Rod Colledge, undefined or SQL Server 2008 administration in action",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 6,
+		"rate" : "4.4",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/colledge.jpg"
+	},
+	{
+		"isbn" : "1933988746",
+		"bookName" : "Flex 3 in Action",
+		"bookDescription" : " Flex 3 in Action by Tariq Ahmed with Jon Hirschi, undefined or Flex 3 In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2009,
+		"num_of_publish" : 6,
+		"rate" : "4.15",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg"
+	},
+	{
+		"isbn" : "1933988754",
+		"bookName" : "SharePoint 2010 Site Owner's Manual",
+		"bookDescription" : " SharePoint 2010 Site Owner's Manual by Yvonne M. Harryman, Microsoft SharePoint (Electronic resource) or SharePoint 2010 site owner's manual",
+		"publisher" : "Manning",
+		"publishdate" : 2012,
+		"num_of_publish" : 3,
+		"rate" : "3.86",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/harryman.jpg"
+	},
+	{
+		"isbn" : "1933988762",
+		"bookName" : "Hello! Flex 4",
+		"bookDescription" : " Hello! Flex 4 by Peter Armstrong, Development or Hello! Flex 4",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2009,
+		"num_of_publish" : 5,
+		"rate" : "4.11",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg"
+	},
+	{
+		"isbn" : "1933988770",
+		"bookName" : "C++ Concurrency in Action",
+		"bookDescription" : "C++ Concurrency in Action is the first book to show you how to take advantage of the new C++ Standard and TR2 to write robust multi-threaded applications in C++.",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 8,
+		"rate" : "4.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/williams.jpg"
+	},
+	{
+		"isbn" : "1933988789",
+		"bookName" : "Erlang and OTP in Action",
+		"bookDescription" : " Erlang and OTP in Action by Martin Logan, undefined or Erlang and OTP in Action",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2010,
+		"num_of_publish" : 8,
+		"rate" : "4.38",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/logan.jpg"
+	},
+	{
+		"isbn" : "1933988797",
+		"bookName" : "Flex on Java",
+		"bookDescription" : " A beautifully written book that is a must have for every Java Developer. Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2010,
+		"num_of_publish" : 5,
+		"rate" : "2.93",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg"
+	},
+	{
+		"isbn" : "1933988819",
+		"bookName" : "SharePoint 2007 Developer's Guide to Business Data Catalog",
+		"bookDescription" : " SharePoint 2007 Developer's Guide to Business Data Catalog by Brett Lonsdale, Microsoft SharePoint (Electronic resource) or SharePoint 2007 developer's guide to business data catalog",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 8,
+		"rate" : "4.16",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lonsdale.jpg"
+	},
+	{
+		"isbn" : "193398886X",
+		"bookName" : "iPhone in Action",
+		"bookDescription" : " There is not another iPhone title that does such a great coverage of both Web and SDK topics under one roof, thus providing a well-rounded developer education. Vladimir Pasman, Cocoacast.com",
+		"publisher" : "Manning",
+		"publishdate" : 2008,
+		"num_of_publish" : 9,
+		"rate" : "3.09",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/callen.jpg"
+	},
+	{
+		"isbn" : "1933988894",
+		"bookName" : "Tuscany SCA in Action",
+		"bookDescription" : " Tuscany SCA in Action by Simon Laws, Computer networks or Tuscany SCA in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "4.67",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laws.jpg"
+	},
+	{
+		"isbn" : "1933988916",
+		"bookName" : "OSGi in Action",
+		"bookDescription" : " OSGi in Action by Richard S. Hall, Java (Computer program language) or OSGi in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 8,
+		"rate" : "4.33",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hall.jpg"
+	},
+	{
+		"isbn" : "1933988924",
+		"bookName" : "Real-World Functional Programming",
+		"bookDescription" : " Real-World Functional Programming by Tomas Petricek with Jon Skeet, undefined or Real-world functional programming",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 10,
+		"rate" : "3.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek.jpg"
+	},
+	{
+		"isbn" : "1933988932",
+		"bookName" : "Grails in Action",
+		"bookDescription" : " Grails in Action by Glen Smith, Web site development or Grails in action",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "2.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith.jpg"
+	},
+	{
+		"isbn" : "1933988940",
+		"bookName" : "ActiveMQ in Action",
+		"bookDescription" : " ActiveMQ in Action by Bruce Snyder, Java (Computer program language) or ActiveMQ in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "3.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/snyder.jpg"
+	},
+	{
+		"isbn" : "1933988967",
+		"bookName" : "Mule in Action",
+		"bookDescription" : " Mule in Action by David Dossot, Mule (Computer file) or Mule in action",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 5,
+		"rate" : "4.98",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dossot.jpg"
+	},
+	{
+		"isbn" : "1933988991",
+		"bookName" : "JavaFX in Action",
+		"bookDescription" : " JavaFX in Action by Simon Morris, undefined or JavaFX in action",
+		"publisher" : "Manning Pub.",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "4.01",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/morris.jpg"
+	},
+	{
+		"isbn" : "1935182005",
+		"bookName" : "PowerShell in Practice",
+		"bookDescription" : " PowerShell in Practice by Richard Siddaway, undefined or Powershell",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2010,
+		"num_of_publish" : 8,
+		"rate" : "4.36",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway.jpg"
+	},
+	{
+		"isbn" : "1935182021",
+		"bookName" : "JUnit in Action, Second Edition",
+		"bookDescription" : " JUnit in Action, Second Edition by Petar Tahchiev, Java (Computer program language) or JUnit in action",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 11,
+		"rate" : "4.31",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tahchiev.jpg"
+	},
+	{
+		"isbn" : "1935182048",
+		"bookName" : "SQL Server MVP Deep Dives",
+		"bookDescription" : " SQL Server MVP Deep Dives by Contributions from 53 SQL Server MVPs, Database design or SQL Server MVP deep dives",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "4.11",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsen.jpg"
+	},
+	{
+		"isbn" : "1935182056",
+		"bookName" : "Spring in Practice",
+		"bookDescription" : " Spring in Practice by Willie Wheeler with Joshua White, undefined or Spring in Practice: Covers Spring 3",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "2.95",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wheeler.jpg"
+	},
+	{
+		"isbn" : "1935182080",
+		"bookName" : "Hello! Python",
+		"bookDescription" : " Hello! Python by Anthony Briggs, Python (Computer program language) or Hello! Python",
+		"publisher" : "Manning",
+		"publishdate" : 2012,
+		"num_of_publish" : 5,
+		"rate" : "3.54",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/briggs.jpg"
+	},
+	{
+		"isbn" : "1935182129",
+		"bookName" : "Ten Years of UserFriendly.Org",
+		"bookDescription" : "This unique collector's volume includes every daily strip from November 17, 1997 to November 16, 2007. Many of the cartoons are annotated with comments from UserFriendly artist and creator JD Illiad Frazer.",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2008,
+		"num_of_publish" : 3,
+		"rate" : "3.24",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/userfriendly.jpg"
+	},
+	{
+		"isbn" : "1935182137",
+		"bookName" : "Windows PowerShell in Action, Second Edition",
+		"bookDescription" : " Windows PowerShell in Action, Second Edition by Bruce Payette, Windows PowerShell (Computer program language) or Windows PowerShell in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "3.86",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/payette2.jpg"
+	},
+	{
+		"isbn" : "193518217X",
+		"bookName" : "OSGi in Depth",
+		"bookDescription" : " OSGi in Depth by Alexandre de Castro Alves, Java (Computer program language) or OSGi in depth",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "3.55",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg"
+	},
+	{
+		"isbn" : "1935182188",
+		"bookName" : "Entity Framework 4 in Action",
+		"bookDescription" : " Entity Framework 4 in Action by Stefano Mostarda, ActiveX or Entity framework 4 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "3.37",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mostarda.jpg"
+	},
+	{
+		"isbn" : "1935182196",
+		"bookName" : "Hadoop in Action",
+		"bookDescription" : " Hadoop in Action by Chuck Lam, Electronic data processing or Hadoop in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2010,
+		"num_of_publish" : 8,
+		"rate" : "3.79",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lam.jpg"
+	},
+	{
+		"isbn" : "193518220X",
+		"bookName" : "The Quick Python Book, Second Edition",
+		"bookDescription" : " The Quick Python Book, Second Edition by Naomi R. Ceder, Python (Computer program language) or The quick Python book",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 6,
+		"rate" : "2.96",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ceder.jpg"
+	},
+	{
+		"isbn" : "1935182234",
+		"bookName" : "Griffon in Action",
+		"bookDescription" : " Griffon in Action by Andres Almiray, User interfaces (Computer system) or Griffon in action",
+		"publisher" : "Manning",
+		"publishdate" : 2012,
+		"num_of_publish" : 5,
+		"rate" : "2.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg"
+	},
+	{
+		"isbn" : "1935182269",
+		"bookName" : "PostGIS in Action",
+		"bookDescription" : " PostGIS in Action by Regina O. Obe, Database searching or PostGIS in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "4.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/obe.jpg"
+	},
+	{
+		"isbn" : "1935182277",
+		"bookName" : "Rails 3 in Action",
+		"bookDescription" : "Rails 3 in Action will provide a thorough introduction to Ruby-based web development using Rails. Like Rails 3 itself, this book combines Merb and Rails in the form of authors Yehuda Katz, Merb Lead Developer.",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "3.85",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/katz.jpg"
+	},
+	{
+		"isbn" : "1935182307",
+		"bookName" : "Spring Dynamic Modules in Action",
+		"bookDescription" : " Spring Dynamic Modules in Action by Arnaud Cogoluegnes, undefined or Spring Dynamic Modules In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2010,
+		"num_of_publish" : 4,
+		"rate" : "4.68",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cogoluegnes.jpg"
+	},
+	{
+		"isbn" : "1935182323",
+		"bookName" : "jQuery in Action, Second Edition",
+		"bookDescription" : " jQuery in Action, Second Edition by Bear Bibeault, undefined or jQuery in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2010,
+		"num_of_publish" : 11,
+		"rate" : "4.72",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault2.jpg"
+	},
+	{
+		"isbn" : "193518234X",
+		"bookName" : "Restlet in Action",
+		"bookDescription" : " Restlet in Action by Jerome Louvel, undefined or Restlet In Action Developing Restful Web Apis In Java",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "4.95",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/louvel.jpg"
+	},
+	{
+		"isbn" : "1935182358",
+		"bookName" : "Spring in Action, Third Edition",
+		"bookDescription" : " Spring in Action, Third Edition by Craig Walls, undefined or Spring in action",
+		"publisher" : "Manning Publications Co.",
+		"publishdate" : 2011,
+		"num_of_publish" : 4,
+		"rate" : "3.74",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls4.jpg"
+	},
+	{
+		"isbn" : "1935182366",
+		"bookName" : "Camel in Action",
+		"bookDescription" : " Camel in Action by Claus Ibsen, Apache Camel (Computer file) or Camel in Action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "4.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ibsen.jpg"
+	},
+	{
+		"isbn" : "1935182374",
+		"bookName" : "Silverlight 4 in Action, Revised Edition",
+		"bookDescription" : " Silverlight 4 in Action, Revised Edition by Pete Brown, Development or Silverlight 4 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 9,
+		"rate" : "4.25",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown.jpg"
+	},
+	{
+		"isbn" : "1935182390",
+		"bookName" : "R in Action",
+		"bookDescription" : " R in Action by Robert I. Kabacoff, Graphic methods or R in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 8,
+		"rate" : "4.46",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kabacoff.jpg"
+	},
+	{
+		"isbn" : "1935182420",
+		"bookName" : "Flex 4 in Action",
+		"bookDescription" : " Flex 4 in Action by Tariq Ahmed, Flex (Computer file) or Flex 4 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 6,
+		"rate" : "3.65",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg"
+	},
+	{
+		"isbn" : "1935182447",
+		"bookName" : "Groovy in Action, Second Edition",
+		"bookDescription" : " Groovy in Action, Second Edition by Dierk König, undefined or Groovy in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : null,
+		"num_of_publish" : 2,
+		"rate" : "2.95",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koenig2.jpg"
+	},
+	{
+		"isbn" : "1935182463",
+		"bookName" : "ASP.NET 4.0 in Practice",
+		"bookDescription" : "ASP.NET 4.0 in Practice contains real world techniques from well-known professionals who have been using ASP.NET since the first previews.",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "3.61",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bochicchio.jpg"
+	},
+	{
+		"isbn" : "1935182471",
+		"bookName" : "C# in Depth, Second Edition",
+		"bookDescription" : " C# in Depth, Second Edition by Jon Skeet, C# (Computer program language) or C# in depth",
+		"publisher" : "Manning",
+		"publishdate" : null,
+		"num_of_publish" : 11,
+		"rate" : "2.99",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet2.jpg"
+	},
+	{
+		"isbn" : "193518248X",
+		"bookName" : "Azure in Action",
+		"bookDescription" : " Azure in Action by Chris Hay, undefined or Azure in Action",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2010,
+		"num_of_publish" : 2,
+		"rate" : "3.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hay.jpg"
+	},
+	{
+		"isbn" : "1935182498",
+		"bookName" : "MacRuby in Action",
+		"bookDescription" : " MacRuby in Action by Brendan G. Lim with Jerry Cheung, Ruby (Computer program language) or MacRuby in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.56",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim.jpg"
+	},
+	{
+		"isbn" : "1935182501",
+		"bookName" : "Dependency Injection in .NET",
+		"bookDescription" : " Dependency Injection in .NET by Mark Seemann, Internet programming or Dependency injection in .NET",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 14,
+		"rate" : "4.87",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/seemann.jpg"
+	},
+	{
+		"isbn" : "1935182528",
+		"bookName" : "The Cloud at Your Service",
+		"bookDescription" : " The Cloud at Your Service by Jothy Rosenberg, undefined or The Cloud at Your Service",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2010,
+		"num_of_publish" : 17,
+		"rate" : "4.3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosenberg.jpg"
+	},
+	{
+		"isbn" : "1935182544",
+		"bookName" : "Portlets in Action",
+		"bookDescription" : " Portlets in Action by Ashish Sarin, Web portals or Portlets in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "4.37",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sarin.jpg"
+	},
+	{
+		"isbn" : "1935182552",
+		"bookName" : "Continuous Integration in .NET",
+		"bookDescription" : " Continuous Integration in .NET by Marcin Kawalerowicz, undefined or Continuous Integration In Net",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "4.88",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kawalerowicz.jpg"
+	},
+	{
+		"isbn" : "1935182579",
+		"bookName" : "Effective Unit Testing",
+		"bookDescription" : " Effective Unit Testing by Lasse Koskela, undefined or Effective Unit Testing: A guide for Java developers",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "2.99",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koskela2.jpg"
+	},
+	{
+		"isbn" : "1935182587",
+		"bookName" : "iPhone and iPad in Action",
+		"bookDescription" : " iPhone and iPad in Action by Brandon Trebitowski, Development or IPhone and iPad in action",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 8,
+		"rate" : "4.12",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/trebitowski.jpg"
+	},
+	{
+		"isbn" : "1935182595",
+		"bookName" : "Clojure in Action",
+		"bookDescription" : " Clojure in Action by Amit Rathore, Computer programming or Clojure in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "2.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore.jpg"
+	},
+	{
+		"isbn" : "1935182617",
+		"bookName" : "iText in Action, Second Edition",
+		"bookDescription" : " iText in Action, Second Edition by Bruno Lowagie, PDF (Computer file format) or iText in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2010,
+		"num_of_publish" : 12,
+		"rate" : "3.84",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lowagie2.jpg"
+	},
+	{
+		"isbn" : "1935182625",
+		"bookName" : "Generative Art",
+		"bookDescription" : " Generative Art by Matt Pearson, Technique or Generative art",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "3",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pearson.jpg"
+	},
+	{
+		"isbn" : "1935182633",
+		"bookName" : "Agile ALM",
+		"bookDescription" : " Agile ALM by Michael Hüttermann, Java (Computer program language) or Agile ALM",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 8,
+		"rate" : "3.48",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/huettermann.jpg"
+	},
+	{
+		"isbn" : "1935182684",
+		"bookName" : "Mahout in Action",
+		"bookDescription" : " Mahout in Action by Sean Owen, Web site development or Mahout in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "4.43",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/owen.jpg"
+	},
+	{
+		"isbn" : "1935182706",
+		"bookName" : "Scala in Depth",
+		"bookDescription" : " Scala in Depth by Joshua D. Suereth, Multiparadigm programming (Computer science) or Scala in depth",
+		"publisher" : "Manning",
+		"publishdate" : 2012,
+		"num_of_publish" : 4,
+		"rate" : "4.13",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth.jpg"
+	},
+	{
+		"isbn" : "1935182714",
+		"bookName" : "SharePoint 2010 Workflows in Action",
+		"bookDescription" : " SharePoint 2010 Workflows in Action by Phil Wicklund, undefined or Sharepoint 2010 Workflows In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "4.59",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wicklund.jpg"
+	},
+	{
+		"isbn" : "1935182722",
+		"bookName" : "Android in Action, Second Edition",
+		"bookDescription" : " Android in Action, Second Edition by W. Frank Ableson, Development or Android in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "3.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg"
+	},
+	{
+		"isbn" : "1935182730",
+		"bookName" : "SQL Server DMVs in Action",
+		"bookDescription" : " SQL Server DMVs in Action by Ian W. Stirk, SQL (Computer program language) or SQL server DMVs in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 8,
+		"rate" : "4.02",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/stirk.jpg"
+	},
+	{
+		"isbn" : "1935182757",
+		"bookName" : "Scala in Action",
+		"bookDescription" : " Scala in Action by Nilanjan Raychaudhuri, undefined or Scala In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 6,
+		"rate" : "3.6",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/raychaudhuri.jpg"
+	},
+	{
+		"isbn" : "1935182773",
+		"bookName" : "SharePoint 2010 Web Parts in Action",
+		"bookDescription" : " SharePoint 2010 Web Parts in Action by Wictor Wilén, undefined or Sharepoint 2010 Web Parts in Action",
+		"publisher" : "Manning Publications Company",
+		"publishdate" : 2011,
+		"num_of_publish" : 3,
+		"rate" : "4.91",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilen.jpg"
+	},
+	{
+		"isbn" : "193518279X",
+		"bookName" : "ASP.NET MVC 2 in Action",
+		"bookDescription" : " ASP.NET MVC 2 in Action by Jeffrey Palermo, Active server pages or ASP.NET MVC 2 in action",
+		"publisher" : "Manning",
+		"publishdate" : 2010,
+		"num_of_publish" : 7,
+		"rate" : "3.27",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo2.jpg"
+	},
+	{
+		"isbn" : "1935182803",
+		"bookName" : "Lift in Action",
+		"bookDescription" : " Lift in Action by Timothy Perrett, undefined or Lift in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 5,
+		"rate" : "4.86",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/perrett.jpg"
+	},
+	{
+		"isbn" : "193518282X",
+		"bookName" : "Liferay in Action",
+		"bookDescription" : " Liferay in Action by Richard Sezov, Web site development or Liferay in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 9,
+		"rate" : "4.14",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sezov.jpg"
+	},
+	{
+		"isbn" : "1935182846",
+		"bookName" : "GWT in Action, Second Edition",
+		"bookDescription" : " GWT in Action, Second Edition by Adam Tacy, undefined or Gwt in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 5,
+		"rate" : "4.7",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tacy.jpg"
+	},
+	{
+		"isbn" : "1935182854",
+		"bookName" : "Tika in Action",
+		"bookDescription" : " Tika in Action by Chris A. Mattmann, undefined or Tika In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "4.31",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mattmann.jpg"
+	},
+	{
+		"isbn" : "1935182870",
+		"bookName" : "MongoDB in Action",
+		"bookDescription" : " MongoDB in Action by Kyle Banker, Object-oriented databases or MongoDB in action",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 4,
+		"rate" : "3.53",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker.jpg"
+	},
+	{
+		"isbn" : "1935182897",
+		"bookName" : "Hello! HTML5 & CSS3",
+		"bookDescription" : " Hello! HTML5 & CSS3 by Rob Crowther, undefined or Hello Html5 Css3 A Userfriendly Reference Guide",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 6,
+		"rate" : "3.68",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther.jpg"
+	},
+	{
+		"isbn" : "1935182927",
+		"bookName" : "Android in Practice",
+		"bookDescription" : " Android in Practice by Charlie Collins, Development or Android in practice",
+		"publisher" : "Manning",
+		"publishdate" : 2011,
+		"num_of_publish" : 7,
+		"rate" : "4.81",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/collins.jpg"
+	},
+	{
+		"isbn" : "1935182943",
+		"bookName" : "Making Java Groovy",
+		"bookDescription" : " Making Java Groovy by Kenneth A. Kousen, undefined or Making Java Groovy",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2013,
+		"num_of_publish" : 3,
+		"rate" : "4.84",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kousen.jpg"
+	},
+	{
+		"isbn" : "1935182951",
+		"bookName" : "Spring Batch in Action",
+		"bookDescription" : " Spring Batch in Action by Arnaud Cogoluegnes, Development or Spring batch in action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2011,
+		"num_of_publish" : 6,
+		"rate" : "4.79",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier.jpg"
+	},
+	{
+		"isbn" : "193518296X",
+		"bookName" : "Spring Roo in Action",
+		"bookDescription" : " Spring Roo in Action by Ken Rimple, undefined or Spring Roo In Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 8,
+		"rate" : "4.62",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rimple.jpg"
+	},
+	{
+		"isbn" : "1935182978",
+		"bookName" : "RabbitMQ in Action",
+		"bookDescription" : " RabbitMQ in Action by Alvaro Videla, undefined or Rabbitmq in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2012,
+		"num_of_publish" : 4,
+		"rate" : "4.08",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/videla.jpg"
+	},
+	{
+		"isbn" : "1935182994",
+		"bookName" : "EJB 3 in Action, Second Edition",
+		"bookDescription" : " EJB 3 in Action, Second Edition by Debu Panda, undefined or EJB 3 in Action",
+		"publisher" : "Manning Publications",
+		"publishdate" : 2014,
+		"num_of_publish" : 8,
+		"rate" : "4.32",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/panda2.jpg"
+	},
+	{
+		"isbn" : "9781935182047",
+		"bookName" : "SQL Server MVP Deep Dives",
+		"bookDescription" : " SQL Server MVP Deep Dives by Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen, Database design or SQL Server MVP deep dives",
+		"publisher" : "Manning",
+		"publishdate" : 2009,
+		"num_of_publish" : 7,
+		"rate" : "3.92",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsenaw.jpg"
+	},
+	{
+		"isbn" : "9781935182924",
+		"bookName" : "Android in Practice",
+		"bookDescription" : " Android in Practice by Matthias Kaeppler, Development or Android in practice",
+		"publisher" : "Manning",
+		"publishdate" : null,
+		"num_of_publish" : 7,
+		"rate" : "3.9",
+		"img_url" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kaeppler.jpg"
+	}
+]

@@ -1,0 +1,8382 @@
+[
+	{
+		"bookid" : "AL00014",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1935182498",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00022",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "188477766X",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00036",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1935182552",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00038",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988266",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00043",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1884777813",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00044",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988711",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00052",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988347",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00061",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290955",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00077",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988967",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00078",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1932394281",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00083",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988037",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00084",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1884777503",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00095",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1930110936",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00099",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290084",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00102",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1933988606",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00119",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290122",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00120",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617291196",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00122",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "161729182X",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00125",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1935182137",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00132",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617292338",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00138",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1930110529",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00140",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290610",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00141",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "193518279X",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00154",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617291412",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00159",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1932394532",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00176",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290564",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00194",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1935182048",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00203",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1884777805",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00216",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1884777759",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00217",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1930110197",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00224",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617290246",
+		"amountOfBook" : 1,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00228",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1617291471",
+		"amountOfBook" : 2,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00230",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1932394117",
+		"amountOfBook" : 4,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00242",
+		"bookzone_zoneId" : 1,
+		"book_isbn" : "1930110596",
+		"amountOfBook" : 3,
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00047",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1617290491",
+		"amountOfBook" : 4,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00048",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1932394273",
+		"amountOfBook" : 2,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00053",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1930110855",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00056",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "193398855X",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00069",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1932394583",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00071",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1617290130",
+		"amountOfBook" : 2,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00072",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1617291560",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00075",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1932394990",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00093",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988215",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00096",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988754",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00109",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1930110561",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00116",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1617292192",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00118",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1884777473",
+		"amountOfBook" : 4,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00131",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "193239480X",
+		"amountOfBook" : 2,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00145",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "193518234X",
+		"amountOfBook" : 2,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00157",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988673",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00181",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988622",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00186",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988657",
+		"amountOfBook" : 2,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00189",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1930110057",
+		"amountOfBook" : 3,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00239",
+		"bookzone_zoneId" : 2,
+		"book_isbn" : "1933988592",
+		"amountOfBook" : 1,
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00049",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1935182854",
+		"amountOfBook" : 3,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00085",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "193398869X",
+		"amountOfBook" : 3,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00108",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1933988932",
+		"amountOfBook" : 4,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00113",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1617290238",
+		"amountOfBook" : 4,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00114",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1933988134",
+		"amountOfBook" : 1,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00127",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1617292184",
+		"amountOfBook" : 4,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00129",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1935182927",
+		"amountOfBook" : 3,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00135",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1617290947",
+		"amountOfBook" : 3,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00149",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1932394885",
+		"amountOfBook" : 1,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00163",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1935182129",
+		"amountOfBook" : 4,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00165",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "193239429X",
+		"amountOfBook" : 2,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00185",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1935182277",
+		"amountOfBook" : 1,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00222",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1930110464",
+		"amountOfBook" : 3,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00233",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1617290505",
+		"amountOfBook" : 2,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00244",
+		"bookzone_zoneId" : 3,
+		"book_isbn" : "1617290866",
+		"amountOfBook" : 2,
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00013",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617290971",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00020",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1933988258",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00023",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "161729103X",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00024",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1933988916",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00040",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1884777686",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00050",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1884777791",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00051",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617290432",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00054",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "193518220X",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00059",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617290920",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00068",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1930110995",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00074",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617291897",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00080",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1884777546",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00104",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1884777775",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00107",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1933988169",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00111",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1932394494",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00115",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1933988177",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00130",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617290319",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00139",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617291625",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00146",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617292419",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00169",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617292435",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00171",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1930110065",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00180",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1932394508",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00191",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "193398838X",
+		"amountOfBook" : 1,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00195",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617290653",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00199",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617291218",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00209",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1935182021",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00213",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1884777554",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00226",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1617291307",
+		"amountOfBook" : 2,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00227",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1933988770",
+		"amountOfBook" : 3,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00232",
+		"bookzone_zoneId" : 4,
+		"book_isbn" : "1932394834",
+		"amountOfBook" : 4,
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00006",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1884777902",
+		"amountOfBook" : 2,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00011",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1935182196",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00021",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617290416",
+		"amountOfBook" : 3,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00026",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1884777562",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00030",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1933988398",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00041",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1884777295",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00065",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1933988789",
+		"amountOfBook" : 3,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00070",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617291080",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00081",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "161729201X",
+		"amountOfBook" : 2,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00082",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1932394230",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00094",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1935182625",
+		"amountOfBook" : 3,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00117",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1933988274",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00137",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1932394419",
+		"amountOfBook" : 2,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00147",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1935182803",
+		"amountOfBook" : 3,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00148",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617291692",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00156",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617290394",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00184",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1935182994",
+		"amountOfBook" : 4,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00187",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617291331",
+		"amountOfBook" : 2,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00207",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "013319955X",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00212",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1884777678",
+		"amountOfBook" : 2,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00234",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1933988509",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00236",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1933988665",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00243",
+		"bookzone_zoneId" : 5,
+		"book_isbn" : "1617290114",
+		"amountOfBook" : 1,
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00001",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1933988762",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00012",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1933988495",
+		"amountOfBook" : 2,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00017",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "161729215X",
+		"amountOfBook" : 2,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00029",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1884777708",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00046",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1935182080",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00058",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1884777597",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00064",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1932394621",
+		"amountOfBook" : 3,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00076",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617290793",
+		"amountOfBook" : 2,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00087",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "161729098X",
+		"amountOfBook" : 3,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00090",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617290572",
+		"amountOfBook" : 3,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00128",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617291269",
+		"amountOfBook" : 3,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00152",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617292168",
+		"amountOfBook" : 4,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00166",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617290327",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00174",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1617290858",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00182",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1935182846",
+		"amountOfBook" : 2,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00196",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1884777449",
+		"amountOfBook" : 4,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00198",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "9781935182924",
+		"amountOfBook" : 1,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00204",
+		"bookzone_zoneId" : 6,
+		"book_isbn" : "1933988452",
+		"amountOfBook" : 3,
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00003",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1935182374",
+		"amountOfBook" : 2,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00015",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1884777848",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00018",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1935182420",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00019",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1933988029",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00031",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617290548",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00032",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617291528",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00033",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1884777783",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00034",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617290890",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00092",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1930110359",
+		"amountOfBook" : 1,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00101",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1884777368",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00106",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617290823",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00134",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1932394680",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00150",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1930110022",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00160",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617291390",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00170",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1932394753",
+		"amountOfBook" : 2,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00172",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1617291242",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00173",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "9781935182047",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00175",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1932394052",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00177",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1884777716",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00210",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1932394761",
+		"amountOfBook" : 4,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00214",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "193518248X",
+		"amountOfBook" : 1,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00235",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "161729165X",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00237",
+		"bookzone_zoneId" : 7,
+		"book_isbn" : "1932394818",
+		"amountOfBook" : 3,
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00002",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617290211",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00004",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1884777651",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00005",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "193239415X",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00009",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617290904",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00027",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182617",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00045",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1932394699",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00057",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1884777872",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00063",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291374",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00073",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1932394133",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00079",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291056",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00088",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1933988320",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00097",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182269",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00098",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1884777643",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00105",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291099",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00110",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1933988940",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00112",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1932394249",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00121",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291293",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00136",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182358",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00142",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1930110588",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00143",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291617",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00144",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617290181",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00161",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291838",
+		"amountOfBook" : 3,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00179",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182447",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00183",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182587",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00192",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1884777384",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00193",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "193398807X",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00202",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1932394613",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00208",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1933988991",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00215",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "161729134X",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00220",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182897",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00223",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1935182579",
+		"amountOfBook" : 4,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00229",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1930110820",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00240",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "161729120X",
+		"amountOfBook" : 1,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00241",
+		"bookzone_zoneId" : 8,
+		"book_isbn" : "1617291803",
+		"amountOfBook" : 2,
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00008",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1933988053",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00010",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617290475",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00025",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617291420",
+		"amountOfBook" : 2,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00035",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617290270",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00039",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1933988355",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00042",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617292079",
+		"amountOfBook" : 2,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00055",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1935182943",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00089",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1932394400",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00100",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1884777392",
+		"amountOfBook" : 2,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00126",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617292427",
+		"amountOfBook" : 2,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00133",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617291978",
+		"amountOfBook" : 1,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00151",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1935182978",
+		"amountOfBook" : 1,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00155",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617290629",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00167",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1932394982",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00178",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "193398872X",
+		"amountOfBook" : 1,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00190",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617290750",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00200",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1884777600",
+		"amountOfBook" : 2,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00201",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1933988428",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00205",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "161729232X",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00206",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1617291927",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00218",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1932394826",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00219",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1935182056",
+		"amountOfBook" : 3,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00221",
+		"bookzone_zoneId" : 9,
+		"book_isbn" : "1935182366",
+		"amountOfBook" : 4,
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00007",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1884777538",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00016",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1930110049",
+		"amountOfBook" : 2,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00028",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291994",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00037",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291439",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00060",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "161729148X",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00062",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1884777864",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00066",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1933988290",
+		"amountOfBook" : 2,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00067",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1935182757",
+		"amountOfBook" : 4,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00086",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291072",
+		"amountOfBook" : 4,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00091",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617292141",
+		"amountOfBook" : 4,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00103",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1935182773",
+		"amountOfBook" : 2,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00123",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1935182684",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00124",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617292133",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00153",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1932394206",
+		"amountOfBook" : 4,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00158",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291315",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00162",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291455",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00164",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1930110456",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00168",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1935182951",
+		"amountOfBook" : 4,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00188",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1932394222",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00197",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291323",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00211",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1933988797",
+		"amountOfBook" : 3,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00225",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1932394850",
+		"amountOfBook" : 2,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00231",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1884777481",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "AL00238",
+		"bookzone_zoneId" : 10,
+		"book_isbn" : "1617291706",
+		"amountOfBook" : 1,
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"bookid" : "NY00005",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1932394982",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00006",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617291781",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00011",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1935182943",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00024",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617291331",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00046",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1935182269",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00050",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988428",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00062",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "193239477X",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00066",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617291994",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00077",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1932394001",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00089",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1932394508",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00102",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988991",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00108",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988363",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00116",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988797",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00119",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1930110049",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00123",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617292117",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00155",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1935182501",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00157",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988134",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00195",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1884777597",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00196",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617292222",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00215",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1617291307",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00242",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "188477752X",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00248",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1884777864",
+		"amountOfBook" : 4,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00250",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988290",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00261",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1933988916",
+		"amountOfBook" : 3,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00287",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "193518248X",
+		"amountOfBook" : 1,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00301",
+		"bookzone_zoneId" : 11,
+		"book_isbn" : "1935182234",
+		"amountOfBook" : 2,
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00009",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1935182625",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00015",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "161729215X",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00036",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110545",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00041",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1932394583",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00043",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1617292133",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00049",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1935182803",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00063",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "9781935182924",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00081",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1617291625",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00086",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1933988215",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00088",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "161729103X",
+		"amountOfBook" : 3,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00092",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1884777384",
+		"amountOfBook" : 3,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00100",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1935182552",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00105",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1935182447",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00120",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110456",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00131",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110596",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00160",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110197",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00169",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1935182358",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00175",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1933988622",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00178",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1932394796",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00181",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1884777848",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00194",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "161729182X",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00207",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1933988509",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00211",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110464",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00221",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1932394206",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00257",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1933988258",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00258",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1932394621",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00274",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1933988541",
+		"amountOfBook" : 1,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00288",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1930110952",
+		"amountOfBook" : 4,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00302",
+		"bookzone_zoneId" : 12,
+		"book_isbn" : "1617291218",
+		"amountOfBook" : 2,
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00001",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1933988312",
+		"amountOfBook" : 2,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00016",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1932394419",
+		"amountOfBook" : 2,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00034",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1884777503",
+		"amountOfBook" : 1,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00045",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1932394117",
+		"amountOfBook" : 1,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00051",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1617290017",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00056",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1617290122",
+		"amountOfBook" : 3,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00057",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "188477766X",
+		"amountOfBook" : 2,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00096",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1933988894",
+		"amountOfBook" : 1,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00137",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "161729201X",
+		"amountOfBook" : 1,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00140",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1935182854",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00161",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1930110936",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00164",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1933988657",
+		"amountOfBook" : 3,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00172",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1617291501",
+		"amountOfBook" : 2,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00191",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1884777651",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00199",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1617290149",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00203",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1617291978",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00237",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "193398855X",
+		"amountOfBook" : 1,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00246",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1935182757",
+		"amountOfBook" : 4,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00296",
+		"bookzone_zoneId" : 13,
+		"book_isbn" : "1932394125",
+		"amountOfBook" : 2,
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00020",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1884777767",
+		"amountOfBook" : 4,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00037",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617291145",
+		"amountOfBook" : 4,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00047",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "193518282X",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00055",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290890",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00065",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290432",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00078",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617291315",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00080",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617291005",
+		"amountOfBook" : 4,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00094",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1884777643",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00098",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1932394834",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00101",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290327",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00117",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "193518220X",
+		"amountOfBook" : 3,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00118",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1930110561",
+		"amountOfBook" : 3,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00167",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1933988452",
+		"amountOfBook" : 3,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00183",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290866",
+		"amountOfBook" : 3,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00208",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1935182196",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00218",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1884777481",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00222",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1932394818",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00223",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290629",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00262",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617290238",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00264",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1932394249",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00294",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1932394907",
+		"amountOfBook" : 1,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00295",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1884777740",
+		"amountOfBook" : 4,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00298",
+		"bookzone_zoneId" : 14,
+		"book_isbn" : "1617291374",
+		"amountOfBook" : 2,
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00007",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617292184",
+		"amountOfBook" : 1,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00023",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1932394389",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00031",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1884777929",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00053",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290319",
+		"amountOfBook" : 1,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00060",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1933988746",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00069",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1884777902",
+		"amountOfBook" : 1,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00071",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290343",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00090",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290475",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00103",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290130",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00133",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1884777589",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00141",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1935182684",
+		"amountOfBook" : 1,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00153",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290955",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00156",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1884777872",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00170",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1884777708",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00173",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1935182870",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00185",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1935182137",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00205",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1935182080",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00206",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "161729084X",
+		"amountOfBook" : 1,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00224",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617290769",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00227",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "161729148X",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00233",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "193398869X",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00259",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617291080",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00273",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1933988479",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00275",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1933988053",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00297",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1932394885",
+		"amountOfBook" : 3,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00309",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "1617292419",
+		"amountOfBook" : 4,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00310",
+		"bookzone_zoneId" : 15,
+		"book_isbn" : "193518296X",
+		"amountOfBook" : 2,
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00012",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1617291420",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00061",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1935182420",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00109",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1884777368",
+		"amountOfBook" : 4,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00110",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1933988177",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00113",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1933988274",
+		"amountOfBook" : 3,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00121",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1884777694",
+		"amountOfBook" : 1,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00158",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1932394230",
+		"amountOfBook" : 4,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00159",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1933988037",
+		"amountOfBook" : 4,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00171",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1933988754",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00243",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1930110006",
+		"amountOfBook" : 4,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00251",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1617291242",
+		"amountOfBook" : 1,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00255",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1932394826",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00265",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1617292427",
+		"amountOfBook" : 1,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00284",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1617291617",
+		"amountOfBook" : 2,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00289",
+		"bookzone_zoneId" : 16,
+		"book_isbn" : "1617291935",
+		"amountOfBook" : 1,
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00008",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617290505",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00026",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617291471",
+		"amountOfBook" : 3,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00044",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1884777996",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00084",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "161729232X",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00104",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617290564",
+		"amountOfBook" : 4,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00111",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1932394753",
+		"amountOfBook" : 3,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00138",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617291412",
+		"amountOfBook" : 2,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00139",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1932394850",
+		"amountOfBook" : 2,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00149",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1932394680",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00174",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1933988495",
+		"amountOfBook" : 2,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00197",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1930110995",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00214",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617291757",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00245",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "193398872X",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00249",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1884777783",
+		"amountOfBook" : 1,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00254",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1935182951",
+		"amountOfBook" : 4,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00260",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1932394613",
+		"amountOfBook" : 3,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00271",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1933988711",
+		"amountOfBook" : 2,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00276",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1617291048",
+		"amountOfBook" : 3,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00286",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1933988665",
+		"amountOfBook" : 4,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00307",
+		"bookzone_zoneId" : 17,
+		"book_isbn" : "1930110421",
+		"amountOfBook" : 2,
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00002",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617291358",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00038",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1935182579",
+		"amountOfBook" : 1,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00067",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1935182307",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00082",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617290211",
+		"amountOfBook" : 3,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00093",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617291897",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00097",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1932394842",
+		"amountOfBook" : 1,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00115",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617290246",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00134",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1933988762",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00142",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1935182129",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00150",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1884777686",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00152",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617291250",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00187",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617291277",
+		"amountOfBook" : 3,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00192",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617290793",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00210",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1935182005",
+		"amountOfBook" : 3,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00212",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617291528",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00213",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1933988649",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00226",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1932394591",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00231",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1935182617",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00247",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1884777813",
+		"amountOfBook" : 4,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00267",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617292079",
+		"amountOfBook" : 1,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00268",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1932394494",
+		"amountOfBook" : 3,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00293",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "1617290270",
+		"amountOfBook" : 3,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00304",
+		"bookzone_zoneId" : 18,
+		"book_isbn" : "193518279X",
+		"amountOfBook" : 2,
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00017",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182722",
+		"amountOfBook" : 4,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00070",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617290173",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00087",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182277",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00099",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617291560",
+		"amountOfBook" : 4,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00107",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1932394052",
+		"amountOfBook" : 4,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00114",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1933988967",
+		"amountOfBook" : 3,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00125",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1930110065",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00126",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182498",
+		"amountOfBook" : 1,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00143",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617291749",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00162",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182374",
+		"amountOfBook" : 1,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00163",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182595",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00184",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617290394",
+		"amountOfBook" : 3,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00186",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1932394222",
+		"amountOfBook" : 4,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00225",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1930110022",
+		"amountOfBook" : 3,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00235",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1935182706",
+		"amountOfBook" : 4,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00236",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1932394273",
+		"amountOfBook" : 3,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00239",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1933988487",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00278",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "193011043X",
+		"amountOfBook" : 1,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00279",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617290653",
+		"amountOfBook" : 2,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00283",
+		"bookzone_zoneId" : 19,
+		"book_isbn" : "1617291021",
+		"amountOfBook" : 3,
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00010",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1933988606",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00019",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182978",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00029",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1932394354",
+		"amountOfBook" : 1,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00039",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617290556",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00054",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1884777759",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00058",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617290920",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00059",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1884777546",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00064",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1884777554",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00122",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617290858",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00124",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1933988347",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00129",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182897",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00130",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1933988770",
+		"amountOfBook" : 1,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00135",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1884777465",
+		"amountOfBook" : 1,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00145",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617291943",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00198",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1932394281",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00200",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617291986",
+		"amountOfBook" : 1,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00202",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617290084",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00228",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182323",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00232",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1617291684",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00252",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "193239480X",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00253",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182188",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00256",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "013319955X",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00266",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182994",
+		"amountOfBook" : 3,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00270",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182730",
+		"amountOfBook" : 4,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00281",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "188477749X",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00305",
+		"bookzone_zoneId" : 20,
+		"book_isbn" : "1935182366",
+		"amountOfBook" : 2,
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00018",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617292192",
+		"amountOfBook" : 3,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00021",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1935182056",
+		"amountOfBook" : 3,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00048",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617290750",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00068",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617291609",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00072",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617291390",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00073",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1935182633",
+		"amountOfBook" : 1,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00079",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1933988940",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00091",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1933988401",
+		"amountOfBook" : 3,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00095",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617290521",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00112",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "161729098X",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00144",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1935182544",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00165",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1884777473",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00190",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617291951",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00217",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617290491",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00234",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "193239429X",
+		"amountOfBook" : 1,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00269",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617290262",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00272",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1933988819",
+		"amountOfBook" : 2,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00306",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "1617290971",
+		"amountOfBook" : 4,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00308",
+		"bookzone_zoneId" : 21,
+		"book_isbn" : "161729165X",
+		"amountOfBook" : 3,
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00003",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617290610",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00004",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1930110944",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00014",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1935182528",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00028",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291455",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00033",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1930110979",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00035",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1930110820",
+		"amountOfBook" : 2,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00040",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1930110855",
+		"amountOfBook" : 1,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00075",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291293",
+		"amountOfBook" : 1,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00083",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617290939",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00136",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291161",
+		"amountOfBook" : 2,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00148",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1933988320",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00151",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1884777392",
+		"amountOfBook" : 1,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00168",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "193398838X",
+		"amountOfBook" : 2,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00176",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "193518234X",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00180",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1930110359",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00188",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291323",
+		"amountOfBook" : 2,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00201",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291439",
+		"amountOfBook" : 2,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00204",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617292036",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00229",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1935182390",
+		"amountOfBook" : 4,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00230",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1932394699",
+		"amountOfBook" : 1,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00240",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1617291196",
+		"amountOfBook" : 1,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00241",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1933988932",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00244",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "193239415X",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00277",
+		"bookzone_zoneId" : 22,
+		"book_isbn" : "1933988924",
+		"amountOfBook" : 3,
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00022",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777716",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00027",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777775",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00030",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617290548",
+		"amountOfBook" : 2,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00032",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1932394761",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00042",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617291838",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00074",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617291692",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00085",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777082",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00106",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777295",
+		"amountOfBook" : 2,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00127",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1930110529",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00147",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617290947",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00166",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617291269",
+		"amountOfBook" : 4,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00179",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777538",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00182",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1932394532",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00193",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617292168",
+		"amountOfBook" : 4,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00209",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777600",
+		"amountOfBook" : 2,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00220",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1617291803",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00238",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1884777562",
+		"amountOfBook" : 3,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00263",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1935182587",
+		"amountOfBook" : 4,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00299",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1930110588",
+		"amountOfBook" : 4,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00303",
+		"bookzone_zoneId" : 23,
+		"book_isbn" : "1935182021",
+		"amountOfBook" : 1,
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00013",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617290416",
+		"amountOfBook" : 1,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00025",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617291706",
+		"amountOfBook" : 3,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00052",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617290904",
+		"amountOfBook" : 1,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00076",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "193398807X",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00128",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1933988169",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00132",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "193518217X",
+		"amountOfBook" : 3,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00146",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1884777805",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00154",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1933988355",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00177",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617292338",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00189",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1935182471",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00216",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617290181",
+		"amountOfBook" : 4,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00219",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1884777791",
+		"amountOfBook" : 1,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00280",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1933988398",
+		"amountOfBook" : 4,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00282",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1935182714",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00285",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1930110057",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00290",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1930110405",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00291",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617291153",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00292",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617290114",
+		"amountOfBook" : 4,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00300",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1933988592",
+		"amountOfBook" : 1,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "NY00311",
+		"bookzone_zoneId" : 24,
+		"book_isbn" : "1617291927",
+		"amountOfBook" : 2,
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"bookid" : "MA00005",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1884777783",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00014",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617291072",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00021",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617291021",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00024",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1932394389",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00031",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1935182390",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00044",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1933988266",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00053",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1935182048",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00065",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1930110820",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00090",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1930110065",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00096",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1930110057",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00103",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1932394990",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00108",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1933988029",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00109",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1935182587",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00111",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617291358",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00114",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617292036",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00120",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1932394583",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00125",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1930110332",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00146",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1935182544",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00165",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617291706",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00174",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617290564",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00187",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617290211",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00189",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1884777295",
+		"amountOfBook" : 2,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00206",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617290181",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00226",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1933988231",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00241",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1930110596",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00246",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1932394206",
+		"amountOfBook" : 1,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00249",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1933988789",
+		"amountOfBook" : 3,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00250",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1617290130",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00253",
+		"bookzone_zoneId" : 25,
+		"book_isbn" : "1884777767",
+		"amountOfBook" : 4,
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00002",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617290858",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00009",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291838",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00012",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988495",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00027",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988797",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00032",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617292141",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00082",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617290149",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00087",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617292133",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00098",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291897",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00099",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291501",
+		"amountOfBook" : 4,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00101",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988940",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00116",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1930110545",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00132",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291099",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00133",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1935182714",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00136",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617290262",
+		"amountOfBook" : 4,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00143",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "193011009X",
+		"amountOfBook" : 4,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00151",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1932394281",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00152",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291749",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00159",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617290521",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00163",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1935182129",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00166",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1932394532",
+		"amountOfBook" : 2,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00172",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291153",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00181",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988924",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00197",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617292435",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00207",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988134",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00227",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "9781935182924",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00252",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291056",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00262",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1932394850",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00266",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617291943",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00271",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1930110952",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00275",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1933988169",
+		"amountOfBook" : 4,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00276",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1617292222",
+		"amountOfBook" : 3,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00277",
+		"bookzone_zoneId" : 26,
+		"book_isbn" : "1935182080",
+		"amountOfBook" : 1,
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00018",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1935182978",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00023",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617290629",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00034",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1933988657",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00041",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "161729134X",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00049",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1884777716",
+		"amountOfBook" : 3,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00069",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617290920",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00072",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1933988967",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00073",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1935182552",
+		"amountOfBook" : 3,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00077",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617291323",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00084",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1932394982",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00126",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1930110006",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00139",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "9781935182047",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00140",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1935182188",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00167",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "193398886X",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00171",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617290971",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00180",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617290246",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00188",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1930110464",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00191",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1884777066",
+		"amountOfBook" : 3,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00225",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1932394125",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00228",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617291080",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00231",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1933988762",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00244",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1930110421",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00247",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1932394796",
+		"amountOfBook" : 3,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00254",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617291242",
+		"amountOfBook" : 2,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00259",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617292079",
+		"amountOfBook" : 3,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00263",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1932394826",
+		"amountOfBook" : 4,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00281",
+		"bookzone_zoneId" : 27,
+		"book_isbn" : "1617292338",
+		"amountOfBook" : 1,
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00001",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1884777740",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00007",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182366",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00010",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182463",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00011",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1930110855",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00013",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1884777775",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00015",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1930110049",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00022",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182927",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00025",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290890",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00036",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988347",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00037",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988401",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00054",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182684",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00058",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290548",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00066",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182447",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00083",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182633",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00085",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290432",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00086",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988258",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00100",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617291609",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00107",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290017",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00112",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1930110588",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00122",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182854",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00141",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1932394621",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00155",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1932394613",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00157",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182897",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00169",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617291307",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00170",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988932",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00173",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617291781",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00182",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988606",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00192",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1932394885",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00211",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1930110359",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00213",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1884777465",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00218",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "188477749X",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00221",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "161729120X",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00235",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290769",
+		"amountOfBook" : 4,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00248",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1933988487",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00264",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1935182196",
+		"amountOfBook" : 3,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00267",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "193239480X",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00268",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1884777538",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00269",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617290319",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00272",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1617291315",
+		"amountOfBook" : 2,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00273",
+		"bookzone_zoneId" : 28,
+		"book_isbn" : "1884777805",
+		"amountOfBook" : 1,
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00004",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617291420",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00006",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988665",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00008",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "193398855X",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00019",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988991",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00026",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1884777392",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00035",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988037",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00038",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1932394249",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00040",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1884777589",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00057",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1884777759",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00059",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1932394842",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00063",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617290394",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00071",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617290904",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00074",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1935182706",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00080",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617291277",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00091",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988754",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00094",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "188477766X",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00102",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "193239477X",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00105",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988290",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00106",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1930110944",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00113",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988541",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00129",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617290416",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00137",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "193398807X",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00145",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1884777651",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00154",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1930110456",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00160",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "020152029X",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00168",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1935182722",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00175",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1884777678",
+		"amountOfBook" : 3,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00194",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617291196",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00229",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1932394753",
+		"amountOfBook" : 1,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00236",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1933988398",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00240",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1932394834",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00242",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1617291927",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00258",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "1932394699",
+		"amountOfBook" : 4,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00260",
+		"bookzone_zoneId" : 29,
+		"book_isbn" : "193239415X",
+		"amountOfBook" : 2,
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00016",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1930110197",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00020",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617290963",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00030",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1884777546",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00052",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617291269",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00064",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617291374",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00078",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1933988916",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00089",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617291439",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00095",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1932394680",
+		"amountOfBook" : 3,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00110",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "013319955X",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00115",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617290556",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00138",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1932394494",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00147",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1933988215",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00156",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1933988053",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00176",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "193518296X",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00186",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1933988711",
+		"amountOfBook" : 3,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00190",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1935182773",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00204",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1932394923",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00205",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1935182501",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00208",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1617291757",
+		"amountOfBook" : 1,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00210",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1884777503",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00217",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1935182498",
+		"amountOfBook" : 2,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00233",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1932394907",
+		"amountOfBook" : 4,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00255",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "1933988428",
+		"amountOfBook" : 3,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00283",
+		"bookzone_zoneId" : 30,
+		"book_isbn" : "161729201X",
+		"amountOfBook" : 4,
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00028",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1935182269",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00043",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1884777848",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00045",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "161729084X",
+		"amountOfBook" : 1,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00046",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1884777600",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00047",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1933988649",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00050",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291382",
+		"amountOfBook" : 4,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00051",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193518217X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00070",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290238",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00081",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1935182137",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00093",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291390",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00118",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1884777082",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00123",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291625",
+		"amountOfBook" : 1,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00127",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1884777686",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00134",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "188477752X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00144",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290610",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00148",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193239429X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00177",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291471",
+		"amountOfBook" : 4,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00183",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1930110405",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00196",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290459",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00198",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1933988452",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00201",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290505",
+		"amountOfBook" : 4,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00202",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193398872X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00214",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1884777813",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00215",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290475",
+		"amountOfBook" : 4,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00216",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193398869X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00224",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1932394133",
+		"amountOfBook" : 4,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00234",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290750",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00238",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617292419",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00239",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291145",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00243",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1933988312",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00245",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617290343",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00256",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1617291684",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00265",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193518282X",
+		"amountOfBook" : 2,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00270",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "1933988673",
+		"amountOfBook" : 3,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00280",
+		"bookzone_zoneId" : 31,
+		"book_isbn" : "193518234X",
+		"amountOfBook" : 1,
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00003",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "193518220X",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00033",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1935182021",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00042",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1935182951",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00048",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1884777554",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00056",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988746",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00060",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1935182307",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00061",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988479",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00068",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291048",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00076",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617290084",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00079",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291617",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00097",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617290955",
+		"amountOfBook" : 1,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00121",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617290122",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00142",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617292192",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00149",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1930110561",
+		"amountOfBook" : 1,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00150",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617290270",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00153",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1884777643",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00158",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1884777473",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00161",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "193518248X",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00164",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988363",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00179",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1935182757",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00185",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291560",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00193",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291218",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00195",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617290947",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00203",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617292168",
+		"amountOfBook" : 4,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00212",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291161",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00219",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988622",
+		"amountOfBook" : 1,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00220",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "161729215X",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00223",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1932394400",
+		"amountOfBook" : 3,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00232",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1617291331",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00251",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988592",
+		"amountOfBook" : 1,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00261",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1932394273",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00278",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1884777694",
+		"amountOfBook" : 1,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00279",
+		"bookzone_zoneId" : 32,
+		"book_isbn" : "1933988177",
+		"amountOfBook" : 2,
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00017",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1932394508",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00029",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777449",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00039",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617290653",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00055",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182005",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00062",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182846",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00067",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1933988509",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00075",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617291412",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00088",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777384",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00092",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "161729165X",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00104",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617291994",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00117",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "161729098X",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00119",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1932394117",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00124",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777368",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00128",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182870",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00130",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182420",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00131",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182617",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00135",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182323",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00162",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617290777",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00178",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1935182803",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00184",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777708",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00199",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777902",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00200",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777996",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00209",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617290793",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00222",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617291935",
+		"amountOfBook" : 1,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00230",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617291293",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00237",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1884777481",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00257",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1932394052",
+		"amountOfBook" : 3,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00274",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1933988894",
+		"amountOfBook" : 4,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"bookid" : "MA00282",
+		"bookzone_zoneId" : 33,
+		"book_isbn" : "1617290327",
+		"amountOfBook" : 2,
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	}
+]

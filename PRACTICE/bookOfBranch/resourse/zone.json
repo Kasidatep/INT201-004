@@ -1,0 +1,200 @@
+[
+	{
+		"zoneId" : 1,
+		"zone" : "AL3-1B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 2,
+		"zone" : "AL2-1B",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 3,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 4,
+		"zone" : "AL3-3D",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 5,
+		"zone" : "AL2-3A",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 6,
+		"zone" : "AL3-1A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 7,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 8,
+		"zone" : "AL2-4F",
+		"floor" : "2",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 9,
+		"zone" : "AL3-5B",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 10,
+		"zone" : "AL3-3A",
+		"floor" : "3",
+		"branchId" : 1
+	},
+	{
+		"zoneId" : 11,
+		"zone" : "NY2-4F",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 12,
+		"zone" : "NY2-1C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 13,
+		"zone" : "NY3-2B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 14,
+		"zone" : "NY2-4C",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 15,
+		"zone" : "NY3-2A",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 16,
+		"zone" : "NY3-3Z",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 17,
+		"zone" : "NY3-4D",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 18,
+		"zone" : "NY2-2B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 19,
+		"zone" : "NY3-1B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 20,
+		"zone" : "NY2-3D",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 21,
+		"zone" : "NY3-5B",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 22,
+		"zone" : "NY2-1B",
+		"floor" : "2",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 23,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 24,
+		"zone" : "NY3-4C",
+		"floor" : "3",
+		"branchId" : 2
+	},
+	{
+		"zoneId" : 25,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 26,
+		"zone" : "MA3-4C",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 27,
+		"zone" : "MA2-4A",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 28,
+		"zone" : "MA2-3D",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 29,
+		"zone" : "MA2-2B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 30,
+		"zone" : "MA3-2A",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 31,
+		"zone" : "MA2-1B",
+		"floor" : "2",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 32,
+		"zone" : "MA3-3D",
+		"floor" : "3",
+		"branchId" : 3
+	},
+	{
+		"zoneId" : 33,
+		"zone" : "MA2-4D",
+		"floor" : "2",
+		"branchId" : 3
+	}
+]
