@@ -6,11 +6,15 @@ class Todo {
     this.done = false
   }
   getTodo() {
-    return { id: this.id, description: this.description,done: this.done }
+    return { id: this.id, description: this.description, done: this.done }
   }
   setDescription(newDescription) {
     this.description = newDescription
   }
+  setDone() {
+    this.done = true
+  }
 }
-//export {Todo}
+
+// export { Todo }
 module.exports = Todo

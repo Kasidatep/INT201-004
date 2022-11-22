@@ -21,13 +21,13 @@ function paymentRandom(){
 
 
 let borrow = []
-for (let i = 0; i < 3842; i++) {
+for (let i = 3842; i < 3916; i++) {
     const bookInfo = bookRandom()
     const staffInfo = staffRandom(bookInfo.branchId)
     const userInfo = userRandom()
     const borrowRange = userInfo.borrowDate
-    const year = random(2010, 2021)
-    const month = random(1, 12)
+    const year = random(2021, 2021)
+    const month = random(3, 10)
     const day = random(1, 28)
     const borrowDate = new Date(year, month, day)
     const dueDate = new Date(86400000*borrowRange + borrowDate.valueOf())
@@ -43,19 +43,20 @@ for (let i = 0; i < 3842; i++) {
     // console.log(userInfo)
     borrow.push ({bookId:bookInfo.bookid, userId:userInfo.userId, staffId:staffInfo.staffId, 
     borrowDate: dateFormatter.format(borrowDate), dueDate: dateFormatter.format(dueDate), 
-    returnDate: dateFormatter.format(returnDate), fineDate: dateFormatter.format(returnDate),
+    returnDate: (random(1,100)<60)?dateFormatter.format(returnDate):null, fineDate: (random(1,100)<70)?dateFormatter.format(returnDate):dateFormatter.format(fineOverDate),
     amount:fineOverDate, sort:borrowDate.valueOf()})
 }
 borrow.sort((a,b) => a.sort - b.sort)
 let borrowBook = []
 //console.log(borrow)
 borrow.forEach((book,id) => {
-    const borrowId =id+1
+    const borrowId =id+1+3842
     borrowBook.push({borrowId:borrowId, borrowDetails:book})
 })
 //console.log(borrowBook)
 borrowBook.forEach(item => {
-    const div = document.createElement("div")
+    if(item.borrowDetails.returnDate!==null){
+        const div = document.createElement("div")
     const body = document.getElementById("item")
     div.setAttribute("style","color: red;")
     div.textContent = `
@@ -65,11 +66,24 @@ borrowBook.forEach(item => {
     '${item.borrowDetails.returnDate}');
     `
     body.append(div)
+    }else{
+        const div = document.createElement("div")
+        const body = document.getElementById("item")
+        div.setAttribute("style","color: red;")
+        div.textContent = `
+        INSERT INTO library.borrowbook (borrowId, bookid, userId, staffId, borrowDate, dueDate) 
+        VALUES ('${item.borrowId}', '${item.borrowDetails.bookId}', '${item.borrowDetails.userId}',
+        '${item.borrowDetails.staffId}', '${item.borrowDetails.borrowDate}', '${item.borrowDetails.dueDate}');
+        `
+        body.append(div)
+    }
+    
 })
 
 const fineInfo = borrowBook.filter(fine => fine.borrowDetails?.amount!==null)
 console.log(fineInfo.length)
 fineInfo.forEach((item,id) => {
+    if(item.borrowDetails.fineDate!==null){
     const div = document.createElement("div")
     const body = document.getElementById("item2")
     const paymentMethod = paymentRandom()
@@ -81,4 +95,5 @@ fineInfo.forEach((item,id) => {
      '${slipsCode}', 'success');
     `
     body.append(div)
+    }
 })

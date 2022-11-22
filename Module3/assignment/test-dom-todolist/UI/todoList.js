@@ -5,12 +5,15 @@ function todoUserInterface() {
     divElement.setAttribute("id",newId)
     const listTodoElement = document.getElementById("listTodo")
     listTodoElement.appendChild(divElement)
+    
     const pDesc = document.createElement("p")
     pDesc.innerText = newDescription
     divElement.append(pDesc)
+    
     const notDonebtn = document.createElement("button")
     notDonebtn.innerText = "Not Done"
     divElement.append(notDonebtn)
+    
     const removebtn = document.createElement("button")
     removebtn.innerText = "remove"
     divElement.append(removebtn)
