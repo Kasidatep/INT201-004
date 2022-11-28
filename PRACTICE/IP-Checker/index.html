@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP CHECKER - KASIDATEPLUS</title>
+    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400&family=Noto+Sans+Thai:wght@100;300;400&display=swap"
+        rel="stylesheet">
+    <script type="text/javascript" src="https://api.longdo.com/map/?key=2c403ab053c3fc74406c6a9870332281"></script>
+    
+</head>
+
+<body>
+    <div class="container">
+        <div class="headerbox"></div>
+        <div class="title">
+            &nbsp;<img src="./assets/logopng.png" alt="KasidatePLUS |" class="logo" />
+            &nbsp; IP Checker.
+
+        </div>
+        <div class="query">
+            <input type="text" id="input" placeholder="Enter domain name / IP">
+            <button type="submit" id="submit">SEARCH</button>
+        </div>
+        <div id="result">
+            <div class="status" id="status"></div>
+            <div id="infoIp">
+                Loading...
+            </div>
+        </div>
+        <div id="map-area">
+            <div id="map">
+                 
+            </div>
+           
+        </div>
+    </div>
+    <div class="copyright">© COPYRIGHT
+        <script>const CurrentYear = new Date().getFullYear()
+            document.write(CurrentYear)</script> KASIDATE.ME | KASIDATEPLUS
+    </div>
+    <script src="./assets/map.js" type="module"> </script>
+    <script src="./assets/app.js" type="module"></script>
+</body>
+
+</html>

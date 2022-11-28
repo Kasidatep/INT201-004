@@ -1,0 +1,185 @@
+* {
+    font-family: 'Kanit', 'Noto Sans Thai', sans-serif;
+}
+
+body {
+    overflow: hidden;
+}
+
+.container {
+    margin: 5px 50px;
+}
+
+.headerbox {
+    background: rgb(212, 185, 255);
+    background: linear-gradient(39deg, rgba(212, 185, 255, 1) 0%, rgba(0, 31, 139, 1) 100%);
+    width: 2000px;
+    height: 400px;
+    overflow: hidden;
+    transform: rotate(-4deg) translate(-200px, -40%);
+}
+
+.title {
+    position: absolute;
+    z-index: 50;
+    top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: aqua;
+    padding: 10px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.57);
+    align-items: center;
+    justify-content: center;
+}
+
+.query {
+    position: absolute;
+    z-index: 50;
+    top: 120px;
+    text-align: center;
+    color: rgb(10, 12, 12);
+    background-color: rgb(255, 255, 255);
+    margin: 0px 5px 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.query>input {
+    text-align: center;
+    color: rgb(10, 12, 12);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.query>input:focus {
+    text-align: center;
+    color: rgb(10, 12, 12);
+    background-color: rgba(69, 201, 218, 0.199);
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.query>button {
+    text-align: center;
+    color: rgb(10, 12, 12);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.query>button:hover {
+    text-align: center;
+    color: rgb(214, 226, 226);
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+    transition: ease-out .15s;
+}
+
+#result {
+    position: absolute;
+    z-index: 50;
+    top: 250px;
+    color: rgb(10, 12, 12);
+    background-color: rgb(255, 255, 255);
+    margin: 0px 5px 10px;
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-size: 18px;
+    box-shadow: 2px 2px 20px rgb(145, 124, 124);
+}
+
+.detail{
+    display: flex;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.topic {
+    color: rgb(10, 12, 12);
+    font-size: 18px;
+    font-weight: 800;
+    padding: 0px 3px;
+    display: block;
+    flex: auto;
+    width: 170px;
+}
+
+.content {
+    color: rgb(62, 73, 73);
+    font-size: 18px;
+    font-weight: 400;
+    width: 100%;
+    padding: 0px 3px;
+    display: block;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 1px;
+    margin: 50px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.15);
+    padding: 7px;
+    z-index: 10;
+}
+
+.logo {
+    width: 25px;
+    transform: scale(1.8);
+    transition: step-start 2s;
+    z-index: 54;
+}
+
+@media screen and (min-width: 850px) {
+    #map-area {
+        position: absolute;
+        z-index: 5;
+        bottom: 30px;
+        right: 100px;
+        color: rgb(10, 12, 12);
+        background-color: rgb(255, 255, 255);
+        margin: 0px 5px 20px;
+        border-radius: 15px;
+        font-size: 18px;
+        width: 600px;
+        height: 400px;
+        box-shadow: 2px 2px 20px rgb(145, 124, 124);
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #map-area {
+        z-index: 10;
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .query>button {
+       display: none;
+    }
+}
+#map{
+    z-index: 1;
+    overflow: hidden;
+    width: 100%;
+    border-radius: 15px;
+}
+.flag{
+    height: 20px;
+    margin-left: 10px;
+    margin-bottom: -3px;
+    border-radius: 2px;
+}

@@ -1,5 +1,5 @@
-// import { Todo } from './todo.js'
-const Todo = require('./todo.js')
+import { Todo } from './todo.js'
+// const Todo = require('./todo.js')
 function todoManagement() {
   let todos = []
   function addTodo(desc) {
@@ -9,7 +9,7 @@ function todoManagement() {
     return newTodo.id
   }
   function removeTodo(removeId) {
-    todos = todos.filter((todo) => todo.id !== removeId)
+    todos = todos.filter((todo) => todo.id !== Number(removeId))
   }
   function findTodo(searchId) {
     return todos.find((todo) => todo.id === searchId)
@@ -24,8 +24,8 @@ function todoManagement() {
     return todos.filter((todo) => todo.done === false).length
   }
   function setItemToDone(doneId) {
-    todos.forEach(todo=> {
-      if(todo.id === doneId){
+    todos.forEach(todo => {
+      if(todo.id === Number(doneId)){
           todo.setDone()
       }
   })
@@ -40,5 +40,5 @@ function todoManagement() {
     setItemToDone
   }
 }
-// export { todoManagement }
-module.exports = todoManagement
+export { todoManagement }
+// module.exports = todoManagement
