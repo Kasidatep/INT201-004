@@ -1,21 +1,20 @@
 export function init(lat,lon) {
     const latitude = Number(lat)
     const longitude = Number(lon)
-
     const map = new longdo.Map({
         placeholder: document.getElementById('map')
     });
     const mark = new longdo.Marker(
         { lon: longitude, lat: latitude },
         {
-          title: 'Mark',
+          title: 'ISP Location | IP Checker by KasidatePLUS',
           icon: {
             url: 'https://map.longdo.com/mmmap/images/pin_mark.png',
             offset: { x: 12, y: 45 }
           },
           detail: 'Drag me',
           visibleRange: { min: 0, max: 13 },
-          draggable: true,
+          draggable: false,
           weight: longdo.OverlayWeight.Top,
         }
         );
@@ -27,5 +26,4 @@ export function init(lat,lon) {
     map.Ui.DPad.visible(false);
     map.Ui.LayerSelector.visible(false);
     map.Ui.Crosshair.visible(false);
-
 }
