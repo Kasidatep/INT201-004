@@ -72,14 +72,14 @@
   - Create Node
 
 ### WEEK 13
-  - [DOM](./Document/DOM.pdf) continue
+  - DOM 2
 
 ### WEEK 14
   - [Event](./Document/Event.pdf)
   - Event
 
 ### WEEK 15
-  - [Storage](./Document/storage.pdf)
+  - [Storage](./Document/ClientStorages_V2.pdf)
   - Client Storage
   - cookie 
   - seesion storage
