@@ -70,3 +70,17 @@
   - Node Type
   - Call Node
   - Create Node
+
+### WEEK 13
+  - [DOM](./Document/DOM.pdf) continue
+
+### WEEK 14
+  - [Event](./Document/Event.pdf)
+  - Event
+
+### WEEK 15
+  - [Storage](./Document/storage.pdf)
+  - Client Storage
+  - cookie 
+  - seesion storage
+  - local storage 
