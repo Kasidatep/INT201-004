@@ -29,7 +29,7 @@ const products = [
 const months = ['March', 'Jan', 'Feb', 'Dec'];
 const positiveInteger = [1, 30, 4, 21, 100000];
 
-//sort()
+// sort()
 // returns the reference to the same array, now sorted. ```[same array new sort]```
 // The default sort order is ascending, built upon converting the elements into strings,
 // then comparing their sequences of UTF-16 code units values.
@@ -72,3 +72,6 @@ console.log(beasts.indexOf('bison'))        // 1
                                 // start from index 2
 console.log(beasts.indexOf('bison', 2))     // 4    bison ,.. start with index 2
 console.log(beasts.indexOf('giraffe'))      // -1   not found in the array
+do{
+    
+}while()

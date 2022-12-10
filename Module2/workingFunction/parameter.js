@@ -83,7 +83,7 @@ function printNumbers1(num1, num2, num3, num4) {
   console.log(sum(...nums)) //40
   
   //destructuring array passed as a function parameter
-  function arrayAdd1([x1], [y1]) {
+  function arrayAdd1([,x1], [,y1]) {
     return x1 + y1
   }
   const a = [5, 8]

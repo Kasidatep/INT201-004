@@ -99,8 +99,9 @@ let square2={
     side:2
 }
 console.log(square2.side)
-// console.log(square2.area()) // TypeError: square2.area is not a function
-// // เป็นข้อจำกัดของ แบบ iteral คือต้องสร้าง function ใหม่ทุกครั้งที่ประกาศ Object ทำให้ยากในการแก้ไข
+// console.log(square2.area()) 
+// TypeError: square2.area is not a function
+// เป็นข้อจำกัดของ แบบ iteral คือต้องสร้าง function ใหม่ทุกครั้งที่ประกาศ Object ทำให้ยากในการแก้ไข
 {
 class Square{
     constructor(side){

@@ -4,6 +4,7 @@ function getItemsOfCurrentPage(allItems, currentPage, rowsPerPage){
     // ถ้าเป็น array ว่าง หรือ ชุดข้อมูลที่ต้องการอยู่เกินขนาดของ array return []
     if(rowsPerPage<=0||currentPage<=0) return allItems
     return allItems.slice((currentPage-1)*rowsPerPage, currentPage*rowsPerPage)
+    
 }
 
  let array =[]

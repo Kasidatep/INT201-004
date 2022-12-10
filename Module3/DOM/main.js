@@ -1,4 +1,3 @@
-require('dotenv').config();
 
 // root node or document node
 const rootNode = window.document
@@ -15,7 +14,7 @@ console.log(rootElement.nodeName)
 console.log(rootElement.nodeValue)
 
 //children node of html node
-// 1. all type of children  (warning white space)
+// 1. all type of children have white space node ****(warning white space)****
 const htmlChildren = rootElement.childNodes
 console.log(htmlChildren) //array like -- not array
 console.log(htmlChildren.length)
@@ -58,7 +57,7 @@ const pNewElementNodeShort = document.createElement("p")
 // can reduce stap 2, 4 by using
 pNewElementNodeShort.setAttribute("paraId",2)
 
-pNewElementNodeShort.innerText = "Hello JavaScript [innerText]" 
+pNewElementNodeShort.textContent = "Hello JavaScript [use textContent]" 
 divMyAppNode.appendChild(pNewElementNodeShort)
 
 //
@@ -67,4 +66,5 @@ console.log(divChildren)
 console.log(divChildren[1].previousElementSibling)
 console.log(divChildren[1].nextElementSibling)
 
-console.log(env)
+const myApp =document.body.children[1]
+console.log(myApp.getAttribute("id"))

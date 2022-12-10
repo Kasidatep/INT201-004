@@ -1,0 +1,55 @@
+[
+    {
+        "No":"1",
+        "Q":"What is odd number?",
+        "A":[
+            {"choice":"A","value":"2"},
+            {"choice":"B","value":"4"},
+            {"choice":"C","value":"7"},
+            {"choice":"D","value":"8"}
+        ],
+        "ANS":"C"
+    },
+    {
+        "No":"2",
+        "Q":"What is even number?",
+        "A":[
+            {"choice":"A","value":"-47"},
+            {"choice":"B","value":"3"},
+            {"choice":"C","value":"11"},
+            {"choice":"D","value":"0"}
+        ],
+        "ANS":"D"
+    },
+    {
+        "No":"3",
+        "Q":"Result of 2+0 =?",
+        "A":[
+            {"choice":"A","value":"0"},
+            {"choice":"B","value":"-2"},
+            {"choice":"C","value":"20"},
+            {"choice":"D","value":"none of the above answers"}
+        ],
+        "ANS":"D"
+    },
+    {
+        "No":"4",
+        "Q":"Result of 25+52 =?",
+        "A":[
+            {"choice":"A","value":"0"},
+            {"choice":"B","value":"7"},
+            {"choice":"C","value":"77"},
+            {"choice":"D","value":"25"}
+        ],
+        "ANS":"C"
+    },
+    {
+        "No":"5",
+        "Q":"Result of !(11>12) =?",
+        "A":[
+            {"choice":"A","value":"FALSE"},
+            {"choice":"B","value":"TRUE"}
+        ],
+        "ANS":"B"
+    }
+]
