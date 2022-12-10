@@ -70,3 +70,17 @@
   - Node Type
   - Call Node
   - Create Node
+
+### WEEK 13
+  - DOM 2
+
+### WEEK 14
+  - [Event](./Document/Event.pdf)
+  - Event
+
+### WEEK 15
+  - [Storage](./Document/ClientStorages_V2.pdf)
+  - Client Storage
+  - cookie 
+  - seesion storage
+  - local storage 
