@@ -37,3 +37,5 @@ class CookieUtil {
         CookieUtil.set(name, '', new Date(0))
     }
 }
+
+export {CookieUtil}
