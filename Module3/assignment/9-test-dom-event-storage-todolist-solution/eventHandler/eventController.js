@@ -1,24 +1,8 @@
-// import { todoManagement } from '../lib/todoManagement.js'
-// import { todoUserInterface } from '../UI/todoList.js'
-// const { showTodoItem, showNumberOfDone, showNumberOfNotDone, removeTodoItem } =
-//   todoUserInterface()
-
-// const {
-//   addTodo,
-//   removeTodo,
-//   findTodo,
-//   getTodos,
-//   getNumberOfDone,
-//   getNumberOfNotDone,
-//   setItemToDone,
-//   loadTodos
-// } = todoManagement()
-
-const todoManagement = require('../lib/todoManagement.js')
-const todoList = require('../UI/todoList.js')
-
+import { todoManagement } from '../lib/todoManagement.js'
+import { todoUserInterface } from '../UI/todoList.js'
 const { showTodoItem, showNumberOfDone, showNumberOfNotDone, removeTodoItem } =
-  todoList()
+  todoUserInterface()
+
 const {
   addTodo,
   removeTodo,
@@ -29,6 +13,22 @@ const {
   setItemToDone,
   loadTodos
 } = todoManagement()
+
+// const todoManagement = require('../lib/todoManagement.js')
+// const todoList = require('../UI/todoList.js')
+
+// const { showTodoItem, showNumberOfDone, showNumberOfNotDone, removeTodoItem } =
+//   todoList()
+// const {
+//   addTodo,
+//   removeTodo,
+//   findTodo,
+//   getTodos,
+//   getNumberOfDone,
+//   getNumberOfNotDone,
+//   setItemToDone,
+//   loadTodos
+// } = todoManagement()
 
 const addTodoHandler = () => {
   const todoItem = document.querySelector('input').value
@@ -41,12 +41,8 @@ const addTodoHandler = () => {
   }
 }
 const addButtonHandler = (todoId) => {
-  document
-    .getElementById(todoId)
-    .children[1].addEventListener('click', notDoneButtonHandler)
-  document
-    .getElementById(todoId)
-    .children[2].addEventListener('click', removeButtonHandler)
+  document.getElementById(todoId).children[1].addEventListener('click', notDoneButtonHandler)
+  document.getElementById(todoId).children[2].addEventListener('click', removeButtonHandler)
   document.querySelector('input').value = ''
 }
 
@@ -95,18 +91,18 @@ const loadHandler = () => {
   }
 }
 
-// export {
-//   addTodoHandler,
-//   notDoneButtonHandler,
-//   removeButtonHandler,
-//   beforeUnloadHandler,
-//   loadHandler
-// }
-
-module.exports = {
+export {
   addTodoHandler,
   notDoneButtonHandler,
   removeButtonHandler,
   beforeUnloadHandler,
   loadHandler
 }
+
+// module.exports = {
+//   addTodoHandler,
+//   notDoneButtonHandler,
+//   removeButtonHandler,
+//   beforeUnloadHandler,
+//   loadHandler
+// }

@@ -103,6 +103,7 @@ const lecturerButton = document.getElementById("2")
 //console.log(lecturerButton)
 const ulElement = document.querySelector("ul")
 const eventHander = (event)=>{
+  console.log(event)
   const displayObj = (Number(event.target.id)===1)?students:lecturers
   ulElement.textContent=''
   displayObj.forEach(item=> {

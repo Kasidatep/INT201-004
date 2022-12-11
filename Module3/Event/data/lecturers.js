@@ -1,4 +1,4 @@
-export const lecturers=
+ export const lecturers=
 [
     {id: 1001,name:'Umaporn Supasitthimethee',Subject:'INT201'},
     {id: 1002,name:'Pichet Limvajiranan'},

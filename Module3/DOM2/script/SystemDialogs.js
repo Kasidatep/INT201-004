@@ -4,7 +4,6 @@ const username = prompt("What you name: ","user")
 if(username===null)alert("Hi, guest") 
 else alert(confirm(`Are you [${username}]`)?`Welcome, ${username}`:"Welcome, guest")
 
-
 if(username!==null){
     const h1first = document.createElement("div")
     h1first.setAttribute("style","color: green;")

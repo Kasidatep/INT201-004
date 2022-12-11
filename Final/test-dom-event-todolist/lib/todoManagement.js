@@ -1,8 +1,9 @@
-import { Todo } from './todo.js'
-// const Todo = require('./todo.js')
+// import { Todo } from './todo.js'
+const Todo = require('./todo.js')
 function todoManagement() {
   let todos = []
   function addTodo(desc) {
+    // return todos.push(new Todo(desc))
     const newTodo = new Todo(desc)
     todos.push(newTodo)
     return newTodo.id
@@ -23,12 +24,8 @@ function todoManagement() {
     return todos.filter((todo) => todo.done === false).length
   }
   function setItemToDone(doneId) {
-    const doneItem = todos.find((todo) => todo.id === Number(doneId))
-    doneItem.setDone(true)
-  }
-  function loadTodos(userTodos) {
-    todos = userTodos
-    Todo.setRunningId(userTodos[userTodos.length - 1].id + 1)
+    const item = todos.find(todo=> todo.id === Number(doneId))
+    item.setDone()
   }
   return {
     addTodo,
@@ -37,9 +34,8 @@ function todoManagement() {
     getTodos,
     getNumberOfDone,
     getNumberOfNotDone,
-    setItemToDone,
-    loadTodos
+    setItemToDone
   }
 }
-export { todoManagement }
-// module.exports = todoManagement
+// export { todoManagement }
+module.exports = todoManagement

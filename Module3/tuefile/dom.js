@@ -1,4 +1,3 @@
-
 const rootNode = window.document
 console.log(rootNode)
 console.log(rootNode.nodeType)

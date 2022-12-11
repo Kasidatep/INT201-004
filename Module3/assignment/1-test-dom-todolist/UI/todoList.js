@@ -7,15 +7,15 @@ function todoUserInterface() {
     listTodoElement.appendChild(divElement)
     
     const pDesc = document.createElement("p")
-    pDesc.innerText = newDescription
+    pDesc.textContent = newDescription
     divElement.append(pDesc)
     
     const notDonebtn = document.createElement("button")
-    notDonebtn.innerText = "Not Done"
+    notDonebtn.textContent = "Not Done"
     divElement.append(notDonebtn)
     
     const removebtn = document.createElement("button")
-    removebtn.innerText = "remove"
+    removebtn.textContent = "remove"
     divElement.append(removebtn)
   }
   function showNumberOfDone(numberOfDone) {
@@ -27,5 +27,5 @@ function todoUserInterface() {
   }
   return { showTodoItem, showNumberOfDone, showNumberOfNotDone }
 }
-// export {todoUserInterface}
-module.exports = todoUserInterface
+export {todoUserInterface}
+// module.exports = todoUserInterface

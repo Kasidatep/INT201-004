@@ -1,12 +1,11 @@
-import { Todo } from "./todo.js"; //web
-// const Todo = require('./todo.js')   //test case
+const Todo = require('./todo.js')
+// import { Todo } from "./todo.js";
 
 function todoManagement() {
   let todos = []
   function addTodo(desc) {
-    const newTodo = new Todo(desc)
-    todos.push(newTodo)
-    return newTodo.id
+    todos.push(new Todo(desc))
+    return todos[todos.length-1].id
   }
   function removeTodo(removeId) {
     todos = todos.filter((todo) => todo.id !== removeId)
@@ -18,12 +17,12 @@ function todoManagement() {
     return todos
   }
   function getNumberOfDone() {
-    const done = todos.filter(todo => todo.done === true)
-    return done.length
+    const doneItem = todos.filter(todo => todo.done===true)
+    return doneItem.length
   }
   function getNumberOfNotDone() {
-    const notDone = todos.filter(todo => todo.done === false)
-    return notDone.length
+    const notdoneItem = todos.filter(todo => todo.done===false)
+    return notdoneItem.length
   }
 
   return {
@@ -35,5 +34,5 @@ function todoManagement() {
     getNumberOfNotDone
   }
 }
-export {todoManagement} //web
-// module.exports = todoManagement  //test case
+module.exports = todoManagement
+// export {todoManagement}
