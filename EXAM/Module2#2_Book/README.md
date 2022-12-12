@@ -14,8 +14,7 @@ Write a class called _Book_ that consists of the following object properties and
   - firstname (String): author’s firstname
   - lastname (String): author’s lastname
   - For example,
-    [{ firstname: 'John', lastname: 'Scott' }, { firstname: 'Adam', lastname: 'Kim' }
-    ]
+    `[{ firstname: 'John', lastname: 'Scott' }, { firstname: 'Adam', lastname: 'Kim' }]`
 - **ebook** (_Boolean_) : indicates whether book has e-book version or not.
 
 ## Functions:
