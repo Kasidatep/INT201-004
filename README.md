@@ -1,6 +1,7 @@
 # [INT201-004](https://kasidate.me/to/201upload)
 
 ## KasidateP Repository
+## [Classroom Resources](https://github.com/umaporn-sup/1-2565-INT201-js-resources)
 ---------
 # Module 1
 ### WEEK 2
@@ -84,3 +85,5 @@
   - cookie 
   - seesion storage
   - local storage 
+### Quiz Module 2
+  - EXAM#3 [INT201-Exam-Module3-Round1/test-paginate-Kasidatep](https://github.com/INT201-Exam-Module3-Round1/test-paginate-Kasidatep)
