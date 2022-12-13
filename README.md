@@ -85,5 +85,5 @@
   - cookie 
   - seesion storage
   - local storage 
-### Quiz Module 2
+### Quiz Module 3
   - EXAM#3 [INT201-Exam-Module3-Round1/test-paginate-Kasidatep](https://github.com/INT201-Exam-Module3-Round1/test-paginate-Kasidatep)
