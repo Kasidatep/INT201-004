@@ -98,8 +98,12 @@ const divButtonPanel = document.getElementById("buttonPanel");
 //   console.log(event.currentTarget)
 // },false)
 
-const studentButton = document.getElementById("1")
-const lecturerButton = document.getElementById("2")
+
+const buttonPanal = document.getElementById('buttonPanel')
+console.log(buttonPanal)
+const studentButton = buttonPanal.getElementsByTagName('button')[0]
+const lecturerButton = buttonPanal.getElementsByTagName(`button`)[1]
+
 //console.log(lecturerButton)
 const ulElement = document.querySelector("ul")
 const eventHander = (event)=>{
@@ -117,5 +121,6 @@ const eventHander = (event)=>{
     ulElement.appendChild(liElement)
   })
 }
+
 studentButton.addEventListener('click',eventHander)
 lecturerButton.addEventListener('click',eventHander)
