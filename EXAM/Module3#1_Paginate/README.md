@@ -45,6 +45,6 @@ Write the following three nested functions in the _paginateManagement_ function.
 
 # Screen Capture Outputs (10 products/Page, 9 total pages, 85 products)
 
-![page 1 - FirstPage](/assets/images/output1.JPG)
-![page 2](/assets/images/output2.JPG)
-![page 9 - LastPage](/assets/images/output3.JPG)
+![page 1 - FirstPage](./assets/images/output1.JPG)
+![page 2](./assets/images/output2.JPG)
+![page 9 - LastPage](./assets/images/output3.JPG)
