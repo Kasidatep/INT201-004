@@ -12,7 +12,6 @@ function getMaxLengthString(arrayOfString) {
       } else if (arrayOfString[i].length === maxLength[j].length) {
         maxLength.push(arrayOfString[i])
       }
-
     }
     return maxLength
   }

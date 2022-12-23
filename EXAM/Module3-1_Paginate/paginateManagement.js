@@ -62,3 +62,4 @@ export { paginateManagement }
 const { showPageNumbers, pageHandler } = paginateManagement(products, 10)
 showPageNumbers()
 pageHandler()
+

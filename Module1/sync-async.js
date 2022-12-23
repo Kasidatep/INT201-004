@@ -15,7 +15,7 @@ console.log("Hello SIT")
 
 setTimeout(function cb(){
     console.log("Hello Asynchronous")
-}, 1)
+}, 5000)
 
 console.log("Hello INT201")
 console.log("Hello Client-Side")

@@ -10,7 +10,6 @@ function start() {
 function question() {
     let now = data[nowQuestion]
     const question = document.getElementById("question")
-    const scoreZone = document.getElementById("score")
     question.textContent = ``
     if (nowQuestion < data.length) {
         const QH4 = document.createElement("H3")
